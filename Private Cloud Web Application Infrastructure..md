@@ -86,3 +86,15 @@ It was my pleasure to review this wonderful project. Please continue with this s
 [Data Protection Concepts in Nutanix](https://portal.nutanix.com/page/documents/details?targetId=Web-Console-Guide-Prism-v55:wc-dr-concepts-wc-c.html)
 
 [High Availability and Data Protection](https://www.nutanix.com/blog/nutanix-high-availability-and-data-protection)
+
+
+## Failed Project
+
+### There are two major parts to the E-mail text file. They are,
+A summary of the requirements based on emails from the CTO, networking team, and systems administration team.
+An outline of the tasks that have been performed.
+The submitted E-mail text contains the tasks that have been performed but there also should be a short summary containing the requirements at the beginning that have been told. Follow the below suggestions which will help you with this section.
+
+Give a brief summary of the requirements that were asked at the beginning.
+In the performed tasks outline, give more details of the configurations. For example, the name of the used NTP server, container, protection domain, etc. Also give the names, VLAN's and IP addresses of the networks and Virtual Machines.
+You can use bullet points for both sections. It will give a clear view of the message.
