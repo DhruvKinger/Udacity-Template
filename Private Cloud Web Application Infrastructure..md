@@ -31,3 +31,7 @@ https://developers.google.com/speed/public-dns :clap:
 You have named the network appropriately as well. In a real-time scenario, there will be multiple Managed networks, and providing correct naming convention is very important
 
 ![Capture.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615430890/Capture.PNG)
+
+---- 
+## Excellent :clap:
+The unmanaged network is identified as the development network by name and has the correct Vlan and Prefix Length shown in the email provided by the Network Operations group. ✅
