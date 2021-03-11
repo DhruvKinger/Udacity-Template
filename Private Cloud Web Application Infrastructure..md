@@ -131,3 +131,21 @@ Note: you have cloned VM's but they should be done after deleting production VM'
 ![Capture1.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615480120/Capture1.PNG)
 ### Ideally, it should look something Like this :
 ![Capture4.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3935679/1609335240/Capture4.PNG)
+
+
+- - - - -
+
+## Dear Student :clap: :tada:
+
+You are almost done! :muscle:
+The structure of this project is already impressive and you’ve done a great job with most of the specifications. You have deployed and protected the three Virtual Machines composing the infrastructure for a web application: a web server VM, application VM and database server VM on the private cloud. Just some small adjustments to be made. I have provided more details in the review.
+### Additional Resources
+### Below are some helpful resources for further reading:
+
+* [Comparing Two Application Deployment Environments: Private Cloud Vs. On-Premises](https://www.bluepiit.com/blog/private-cloud-vs-on-premises/)
+
+* [Private cloud vs. public cloud](https://review.udacity.com/archcloudcomputing.techtarget.com/definition/private-cloud)
+
+* [Data Protection Concepts in Nutanix](https://portal.nutanix.com/page/documents/details?targetId=Web-Console-Guide-Prism-v55:wc-dr-concepts-wc-c.html)
+
+* [High Availability and Data Protection](https://www.nutanix.com/blog/nutanix-high-availability-and-data-protection)
