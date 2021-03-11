@@ -35,3 +35,13 @@ You have named the network appropriately as well. In a real-time scenario, there
 ---- 
 ## Excellent :clap:
 The unmanaged network is identified as the development network by name and has the correct Vlan and Prefix Length shown in the email provided by the Network Operations group. ✅
+
+----
+### Good work. :star: :clap:
+You have completed these steps correctly and created the images - Disk for required OS types.
+
+![Images.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1604367727/Images.PNG)
+
+### Reference for more details:
+
+https://next.nutanix.com/prism-infrastructure-management-26/ahv-vdisk-part-3-creating-an-image-of-or-from-an-existing-vdisk-33686
