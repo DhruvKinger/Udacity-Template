@@ -45,3 +45,16 @@ You have completed these steps correctly and created the images - Disk for requi
 ### Reference for more details:
 
 https://next.nutanix.com/prism-infrastructure-management-26/ahv-vdisk-part-3-creating-an-image-of-or-from-an-existing-vdisk-33686
+
+-----
+
+:100: Production VMs correctly created and required Naming convention followed.
+VM Name: db-prod (or equivalent) ✅
+VM Name: app-prod (or equivalent) ✅
+VM Name: web-prod (or equivalent) ✅
+The VMs should be on the production/managed network listed under column B (i.e VLANs). ✅
+
+-----
+
+### Excellent :star: :tada:
+The virtual machines needed for the development environment are successfully cloned from the production VMs and satisfy the resource specifications and naming convention as required by the Systems Administration group. They are also developed on the development network as required. Great job. :clap:
