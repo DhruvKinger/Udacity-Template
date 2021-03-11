@@ -62,3 +62,27 @@ The virtual machines needed for the development environment are successfully clo
 -----
 ### Good job. :tada:
 Successfully created a protection configuration for the production environment and the schedule has been correctly set up to repeat after every 60 minutes to take snapshots of all the virtual machines on the production environment for a backup in case of a power or any other failure.
+
+-----
+### Nice Work 
+You have completed this Point successfully !!
+
+![Capture1.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615431460/Capture1.PNG)
+
+-----
+## Dear Student,
+### Congratulations! :tada:
+The default network is kept and the steps sent to the CTO were revised to be more general. You have deployed and protected the three Virtual Machines composing the infrastructure for a web application: a web server VM, application VM and database server VM on the private cloud. You have configured an on-prem HCI environment to support VM's and implemented a data protection/disaster recovery strategy to protect them.
+
+It was my pleasure to review this wonderful project. Please continue with this same sense of hard work and good luck with the next project. :udacious:
+
+### Additional Resources
+### Below are some helpful resources related to the project implementation:
+
+[Comparing Two Application Deployment Environments: Private Cloud Vs. On-Premises](https://www.bluepiit.com/blog/private-cloud-vs-on-premises/)
+
+[Private cloud vs. public cloud](https://review.udacity.com/archcloudcomputing.techtarget.com/definition/private-cloud)
+
+[Data Protection Concepts in Nutanix](https://portal.nutanix.com/page/documents/details?targetId=Web-Console-Guide-Prism-v55:wc-dr-concepts-wc-c.html)
+
+[High Availability and Data Protection](https://www.nutanix.com/blog/nutanix-high-availability-and-data-protection)
