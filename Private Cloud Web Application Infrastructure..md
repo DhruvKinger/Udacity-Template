@@ -1,3 +1,12 @@
+## Passed Project !!
+Good work. :tada: :clap:
+You have attached the excel which has the configuration details generated from Nutanix.
+- - - - - - - -
+
+Nice work! A text file CTOEmail.txt containing a thorough summary of the tasks performed, based on emails from the CTO, networking team, and systems administration team had been submitted. ✅
+
+- - - - - - - -
+
 ### Well done. You have configured the NTP server details correctly in Nutanix.
 
 ![NTP.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1604763730/NTP.PNG)
