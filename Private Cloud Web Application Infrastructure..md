@@ -88,7 +88,7 @@ It was my pleasure to review this wonderful project. Please continue with this s
 [High Availability and Data Protection](https://www.nutanix.com/blog/nutanix-high-availability-and-data-protection)
 
 
-## Failed Project
+## Failed Project !!
 
 ### There are two major parts to the E-mail text file. They are,
 A summary of the requirements based on emails from the CTO, networking team, and systems administration team.
@@ -98,3 +98,14 @@ The submitted E-mail text contains the tasks that have been performed but there 
 Give a brief summary of the requirements that were asked at the beginning.
 In the performed tasks outline, give more details of the configurations. For example, the name of the used NTP server, container, protection domain, etc. Also give the names, VLAN's and IP addresses of the networks and Virtual Machines.
 You can use bullet points for both sections. It will give a clear view of the message.
+
+
+- - - -
+:100: Production VMs need to be correctly set and require correct Naming convention.
+VM Name: db-prod (or equivalent) ✅
+VM Name: app-prod (or equivalent) ❌
+VM Name: web-prod (or equivalent) ❌
+The VMs should be on the production/managed network listed under column B (i.e VLANs). ✅
+
+
+![Capture1.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615479850/Capture1.PNG)
