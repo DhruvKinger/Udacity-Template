@@ -58,3 +58,7 @@ The VMs should be on the production/managed network listed under column B (i.e V
 
 ### Excellent :star: :tada:
 The virtual machines needed for the development environment are successfully cloned from the production VMs and satisfy the resource specifications and naming convention as required by the Systems Administration group. They are also developed on the development network as required. Great job. :clap:
+
+-----
+### Good job. :tada:
+Successfully created a protection configuration for the production environment and the schedule has been correctly set up to repeat after every 60 minutes to take snapshots of all the virtual machines on the production environment for a backup in case of a power or any other failure.
