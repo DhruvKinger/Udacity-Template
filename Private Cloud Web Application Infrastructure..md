@@ -1,9 +1,9 @@
 ## Passed Project !!
-Good work. :tada: :clap:
+* Good work. :tada: :clap:
 You have attached the excel which has the configuration details generated from Nutanix.
 - - - - - - - -
 
-Nice work! A text file CTOEmail.txt containing a thorough summary of the tasks performed, based on emails from the CTO, networking team, and systems administration team had been submitted. ✅
+* Nice work! A text file CTOEmail.txt containing a thorough summary of the tasks performed, based on emails from the CTO, networking team, and systems administration team had been submitted. ✅
 
 - - - - - - - -
 
