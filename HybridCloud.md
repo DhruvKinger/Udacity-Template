@@ -32,3 +32,11 @@ Web tier scaling actions that update the load balancer configuration across both
 Two profiles for deployment: small and medium, with specified VM resource and replicas configuration ✅
 
 In HAProxy_Install during HAProxy Package Install, the HAProxy configuration doesn't contain an AWS web tier address. As a result, the load balancer doesn't forward traffic to the AWS web tier upon initial deployment. To resolve the issue, you should add AWS address macro to the configuration. ✅
+
+
+- - - -- 
+
+## Nice Work :star:
+### You have done Excellent Work Here too !! :tada: :clap:
+### Database backup custom action, adapted from the source code [MySQL_backup_file.sh.txt](https://raw.githubusercontent.com/nutanixdev/udacity/main/HybridCloudEngineer/course/3/project/MySQL_backup_file.sh.txt) to use the end-user, runtime specified password for the database root account ✅
+### Database restores custom action, adapted from the source code [MySQL_restore.sh.txt](https://raw.githubusercontent.com/nutanixdev/udacity/main/HybridCloudEngineer/course/3/project/MySQL_restore.sh.txt) to use the end-user, runtime specified password for the database root account. ✅
