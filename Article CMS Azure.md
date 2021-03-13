@@ -34,3 +34,36 @@ The Python web app is able to connect to the related storage solutions.
 ![edit-post.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615612253/edit-post.png)
 
 ----
+
+The MSAL library has been well implemented. This shows mastery of connecting into our database via the Microsoft tokens :smile:
+Moreover, the URL redirect is right on point :ok_hand:
+
+----
+
+
+Excellent Work here too!
+You have done a really good job !
+
+
+![logs.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615612417/logs.png)
+
+----
+
+
+## Failed Points !!
+
+## Right on point!
+Great observations here. I agree with the analysis :star:
+
+**KeyNote** : You need to consider cost analysis-like features in more detail !!
+
+**Hint** : Create a table to display differences b/w them !!
+
+ For some helpful analysis between these options, check out this  **=> [post](https://cloudacademy.com/blog/microsoft-azure-app-service-virtual-machines/).**
+ 
+ -----
+ 
+ Required same change as Mentioned Above !!
+Very Well Done :tada:
+Here is a useful=> [Link](https://docs.microsoft.com/en-us/azure/cost-management-billing/) you can take reference from this and see cost estimation!
+---
