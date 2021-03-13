@@ -3,8 +3,8 @@
 Students should be able to create a MongoDB database, two collections, and import raw data into the database. The MongoDB database is hosted in Azure CosmosDB. ✅
 - - -
 ### Further Reading
-[Azure Databases](https://azure.microsoft.com/en-in/product-categories/databases/)
-[Azure Cosmos DB documentation](https://docs.microsoft.com/en-us/azure/cosmos-db/)
+* [Azure Databases](https://azure.microsoft.com/en-in/product-categories/databases/)
+* [Azure Cosmos DB documentation](https://docs.microsoft.com/en-us/azure/cosmos-db/)
 
 - - - - - - - - - 
 
@@ -17,6 +17,7 @@ Students are expected to deploy 7 endpoints: createAdvertisement, updateAdvertis
 ## Nice Work :clap: :star:
 To verify that the database is configured, the student should be able to retrieve the connection on each of their API endpoints in the server-API application. ✅
 ### Further Reading
-[Azure Functions Python developer guide](https://docs.microsoft.com/en-us/azure/azure-functions/functions-reference-python#folder-structure)
+
+* [Azure Functions Python developer guide](https://docs.microsoft.com/en-us/azure/azure-functions/functions-reference-python#folder-structure)
 
 -- ----
