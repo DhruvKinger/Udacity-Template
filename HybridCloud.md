@@ -40,3 +40,24 @@ In HAProxy_Install during HAProxy Package Install, the HAProxy configuration doe
 ### You have done Excellent Work Here too !! :tada: :clap:
 ### Database backup custom action, adapted from the source code [MySQL_backup_file.sh.txt](https://raw.githubusercontent.com/nutanixdev/udacity/main/HybridCloudEngineer/course/3/project/MySQL_backup_file.sh.txt) to use the end-user, runtime specified password for the database root account ✅
 ### Database restores custom action, adapted from the source code [MySQL_restore.sh.txt](https://raw.githubusercontent.com/nutanixdev/udacity/main/HybridCloudEngineer/course/3/project/MySQL_restore.sh.txt) to use the end-user, runtime specified password for the database root account. ✅
+
+
+- - -- - -
+## Dear Student,
+### Congratulations! :tada:
+It was my pleasure to review this wonderful project. Please continue with this same sense of hard work and good luck with the next project. :udacious:
+I like how consistent and patient you have been in implementing this project. Most of the concept displayed shows you have grasped a lot from the classroom.
+
+**Note** : this is not a requirement for passing this project but optional!
+
+I noticed in your environment variable for the password, In the MySQL password best practice is to use a minimum of 8 characters with at least one upper case letter. You can enforce it by checking on the box with validating with a regular expression and in the box that appears, you should enter the regex to perform the validation. You can find out how to write the regex following the tutorial here [how-to-use-regular-expressions-to-check-password-strength](https://stackoverflow.com/questions/5142103/regex-to-validate-password-strength). you will want to scroll to the section with a Minimum of 1 Uppercase Character. However, for better understanding, you can follow all along.
+
+![Capture.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615638054/Capture.PNG)
+
+### Additional Resources
+### Below are some helpful resources related to the project implementation:
+
+* [Dual Web Tier](https://classroom.udacity.com/nanodegrees/nd321-beta/parts/def00787-ddd6-4446-b326-8c94cfcbd639/modules/acac62c3-0218-4413-99fc-5a4d8f035559/lessons/f8a91839-428c-45e2-bfb2-ee70cc09e69c/concepts/f495cd57-5e82-408c-b171-98b81945af3b)
+* [Load Balancing](https://www.nginx.com/resources/glossary/load-balancing/)
+* [Hybrid Cloud](https://azure.microsoft.com/en-in/overview/what-is-hybrid-cloud-computing/)
+
