@@ -60,3 +60,29 @@ I can see that the docker build is successful and the Docker image is successful
 * [Publishing Images to Azure Container Registry](https://docs.microsoft.com/en-us/azure/container-registry/container-registry-get-started-docker-cli)
 
 - - - -
+
+### Nice Work :tada:
+The student should be able to create a cluster with one node. ✅
+
+![9-kubernetes1.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615660510/9-kubernetes1.PNG)
+- -----
+
+
+
+## Failed Project !!
+## Excellent Job on the very first submission :clap: :clap:
+You have shown a good knowledge of Cloud Application Development in the Azure Ecosystem. Keep it up. :clap: :clap:
+
+* You have correctly configured the Mongo details in all the Azure Function 👍👍
+* You have correctly configured and deployed the Frontend app 👍👍
+- - -
+As pointed out, there is need for some changes and think of these changes as a great opportunity to learn more and perfect your skills. These are required to ensure that you graduate with the knowledge and demonstrated skills Udacity aims at having their students develop. Please follow the suggestions given in the rubric to make adjustments accordingly and I am confident that you will get this done next time. 💪💪
+
+Please revisit lessons in case you are stuck or post your doubts on the Knowledge Hub.
+
+Looking forward to your next submission.
+Keep Learning
+
+## All the best 👍🏼👍🏼
+
+
