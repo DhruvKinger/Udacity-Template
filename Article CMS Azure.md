@@ -67,3 +67,16 @@ Great observations here. I agree with the analysis :star:
 Very Well Done :tada:
 Here is a useful=> [Link](https://docs.microsoft.com/en-us/azure/cost-management-billing/) you can take reference from this and see cost estimation!
 ---
+
+## Almost there! :tada:
+Just minor bugs :ant: required in order to complete the project
+I was impressed with the effort made on this submission. Especially configuration of the redirects. This is so cool.:sunglasses:
+All the very best for the next submission :smile:.
+
+If there is anything I may have missed to point out or anything bad in my review, do give me feedback. :sunglasses:
+Happy Hosting :computer: and Stay Udacious :udacious:
+Until next time :wave:
+
+### Additional Resource:-
+* ### [Blogs Link](https://github.com/DhruvKinger/Link-of-all-blogs)
+* ---
