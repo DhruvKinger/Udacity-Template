@@ -37,3 +37,26 @@ Students should be able to create a Logic App that watches for an HTTP trigger. 
 * [Azure Logic App](https://medium.com/@dhruvkinger813/social-media-sentimental-analysis-using-azure-logic-apps-5dc8147c42ee)
 
 - - -- - -
+## Nice Work :tada:
+The student should be able create an Event Hubs namespace and an event hub with the command line or through the portal. If successful, the student can obtain the namespace url. Add a screenshot from the portal of this being live. ✅
+
+
+![6-eventhub_namespace.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615660314/6-eventhub_namespace.PNG)
+![6-eventhubnamescape2.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615660314/6-eventhubnamescape2.PNG)
+------
+
+### Well done :star:
+I can clearly see the App Service live URL in the browser !!
+
+
+
+![7-clientapp_azure.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615660377/7-clientapp_azure.PNG)
+- - - -
+
+### Awesome :star:
+I can see that the docker build is successful and the Docker image is successfully pushed to Azure Container Registry !!
+
+### Further Reading
+* [Publishing Images to Azure Container Registry](https://docs.microsoft.com/en-us/azure/container-registry/container-registry-get-started-docker-cli)
+
+- - - -
