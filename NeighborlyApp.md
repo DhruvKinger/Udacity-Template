@@ -7,3 +7,16 @@ Students should be able to create a MongoDB database, two collections, and impor
 [Azure Cosmos DB documentation](https://docs.microsoft.com/en-us/azure/cosmos-db/)
 
 - - - - - - - - - 
+
+## Nice Work :tada: :clap:
+Students are expected to deploy 7 endpoints: createAdvertisement, updateAdvertisement, getAdvertisement, getAdvertisements, and deleteAdvertisement, getPost, getPosts. There should be 7 urls with the format: ✅
+
+![2-functions_endpoints1.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615659826/2-functions_endpoints1.PNG)
+- - - -
+
+## Nice Work :clap: :star:
+To verify that the database is configured, the student should be able to retrieve the connection on each of their API endpoints in the server-API application. ✅
+### Further Reading
+[Azure Functions Python developer guide](https://docs.microsoft.com/en-us/azure/azure-functions/functions-reference-python#folder-structure)
+
+-- ----
