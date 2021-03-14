@@ -2,9 +2,8 @@
 Good work. :tada: :clap:
 You have attached the excel which has the configuration details generated from Nutanix.
 - - - - - - - -
-
-Nice work! A text file CTOEmail.txt containing a thorough summary of the tasks performed, based on emails from the CTO, networking team, and systems administration team had been submitted. ✅
-
+### Nice work! :star:
+A text file CTOEmail.txt containing a thorough summary of the tasks performed, based on emails from the CTO, networking team, and systems administration team had been submitted. ✅
 - - - - - - - -
 
 ### Well done. You have configured the NTP server details correctly in Nutanix.
@@ -13,7 +12,7 @@ Nice work! A text file CTOEmail.txt containing a thorough summary of the tasks p
 
 NTP server is used for Time Synchronization and it is used across different devices and services on a network to maintain the reliability and integrity of services, data, and other critical functions.
 
-
+- - - -
 ### Additional Resource:-
 Good Read on its usability https://next.nutanix.com/installation-configuration-23/time-synchronization-on-nutanix-cluster-33558
 
@@ -99,6 +98,11 @@ Give a brief summary of the requirements that were asked at the beginning.
 In the performed tasks outline, give more details of the configurations. For example, the name of the used NTP server, container, protection domain, etc. Also give the names, VLAN's and IP addresses of the networks and Virtual Machines.
 You can use bullet points for both sections. It will give a clear view of the message.
 
+---- 
+## Good work. :tada:
+You need to rename the name of Managed network to Production !! Rest Everything seems to be fine !! In a real-time scenario, there will be multiple Managed networks, and providing correct naming convention is very important
+
+![Capture1.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615680130/Capture1.PNG)
 
 - - - -
 :100: Production VMs need to be correctly set and require correct Naming convention.
