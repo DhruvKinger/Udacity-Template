@@ -61,3 +61,38 @@ I noticed in your environment variable for the password, In the MySQL password b
 * [Load Balancing](https://www.nginx.com/resources/glossary/load-balancing/)
 * [Hybrid Cloud](https://azure.microsoft.com/en-in/overview/what-is-hybrid-cloud-computing/)
 
+
+## Failed Project !!
+## You have done Excellent Work Here !! :tada: :clap:
+### ✅Blueprint has two SSH credentials:
+teccadmin
+teccdba
+
+### ✅ Blueprint has four VM service tiers:
+Web Private Cloud
+Web Public Cloud
+Database
+Load Balancer
+
+### ✅ Security standards:
+All VMs use the CentOS or Red Hat image specified and cloud-init to provision SSH credentials
+All VMs use the teccadmin credential for tasks by default
+Database VM uses teccdba credential to perform database tasks
+
+### ❌ Blueprint has two application profiles:
+Small
+medium
+
+### Note: Please rename your Application Profiles to small and medium !!
+
+- ------
+
+### WebScaleIn,WebScaleOut,AWSScaleOut,AWSScaleIn,HAProxy Install are missing AWS web server address macro in the configuration :warning: With the current configuration, HAProxy forwards all traffic to the private cloud web tier only, not the AWS web tier. Add the AWS address macro to the configuration similar to how I have attached the screenshot below.
+
+### Your Submission:-
+
+![Screenshot (65).png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615771380/Screenshot__65_.png)
+
+### Required Change:-
+![Capture.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615771464/Capture.PNG)
+------
