@@ -34,6 +34,13 @@ Thanks for including the screenshot of your blob storage. It looked like you pro
 * [Availability](https://azure.microsoft.com/en-in/support/legal/sla/virtual-machines/v1_9/)
 
 - -- - ---
+## Well done :tada:
+
+### You have correctly assessed the changes in case you want to change your decision in future ✅👍👍
+
+IT IS A VALUABLE SKILL TO KNOW THE ADVANTAGES AND DISADVANTAGES OF THE VM AND APP SERVICE OFFERING TO MAKE REASONABLE DECISIONS. THIS WILL ALLOW YOU TO ADAPT TO THE NEEDS OF A SPECIFIC CASE.
+
+--- -  --
 
 Great work deploying your Article CMS web app! I can easily see the deployed app URL in the screenshot.
 I can see the screenshot as well and also I have run your app too! :star:
