@@ -21,6 +21,20 @@ Thanks for including the screenshot of your blob storage. It looked like you pro
 ### Additional Resource:-
 [Azure Storage](https://docs.microsoft.com/en-us/azure/storage/common/storage-account-overview)
 ---
+* ### You have correctly analyzed the costs, scalability, availability, and workflow for both VM and App Service 👍👍
+* ### Great work on choosing App Service for deploying the app and justifying your choice 👍👍
+### Well done :tada:
+- - -  - -
+## Further Reading -
+
+* [Azure Pricing](https://azure.microsoft.com/en-in/pricing/calculator/)
+
+* [Scalability](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree#scalability)
+
+* [Availability](https://azure.microsoft.com/en-in/support/legal/sla/virtual-machines/v1_9/)
+
+- -- - ---
+
 Great work deploying your Article CMS web app! I can easily see the deployed app URL in the screenshot.
 I can see the screenshot as well and also I have run your app too! :star:
 
