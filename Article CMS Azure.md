@@ -34,7 +34,7 @@ The Python web app is able to connect to the related storage solutions.
 ![edit-post.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615612253/edit-post.png)
 
 ----
-
+## Great Work :tada:
 The MSAL library has been well implemented. This shows mastery of connecting into our database via the Microsoft tokens :smile:
 Moreover, the URL redirect is right on point :ok_hand:
 
@@ -48,7 +48,20 @@ You have done a really good job !
 ![logs.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615612417/logs.png)
 
 ----
+## Dear Student,
+![congrats.gif](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1616011471/congrats.gif)
 
+### Congratulations! :tada:
+It was my pleasure to review this wonderful project. Please continue with this same sense of hard work and good luck with the next project. :udacious:
+I like how consistent and patient you have been in implementing this project. Most of the concept displayed shows you have grasped a lot from the classroom.
+
+Keep Learning, All the best 👍🏼👍🏼
+### Additional Resources
+* [Azure Databases](https://azure.microsoft.com/en-in/blog/topics/database/)
+*  [Blogs Link](https://github.com/DhruvKinger/Link-of-all-blogs)
+* [Docker](https://www.youtube.com/watch?v=fqMOX6JJhGo)
+
+----  ----
 
 ## Failed Points !!
 
