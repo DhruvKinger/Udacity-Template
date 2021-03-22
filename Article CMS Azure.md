@@ -21,8 +21,8 @@ Thanks for including the screenshot of your blob storage. It looked like you pro
 ### Additional Resource:-
 [Azure Storage](https://docs.microsoft.com/en-us/azure/storage/common/storage-account-overview)
 ---
-* ### You have correctly analyzed the costs, scalability, availability, and workflow for both VM and App Service 👍👍
-* ### Great work on choosing App Service for deploying the app and justifying your choice 👍👍
+* You have correctly analyzed the costs, scalability, availability, and workflow for both VM and App Service 👍👍
+* Great work on choosing App Service for deploying the app and justifying your choice 👍👍
 ### Well done :tada:
 - - -  - -
 ## Further Reading -
@@ -60,7 +60,6 @@ The MSAL library has been well implemented. This shows mastery of connecting int
 Moreover, the URL redirect is right on point :ok_hand:
 
 ----
-
 
 Excellent Work here too!
 You have done a really good job !
