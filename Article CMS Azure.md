@@ -21,9 +21,11 @@ Thanks for including the screenshot of your blob storage. It looked like you pro
 ### Additional Resource:-
 [Azure Storage](https://docs.microsoft.com/en-us/azure/storage/common/storage-account-overview)
 ---
+### Well done :tada:
+
 * You have correctly analyzed the costs, scalability, availability, and workflow for both VM and App Service 👍👍
 * Great work on choosing App Service for deploying the app and justifying your choice 👍👍
-### Well done :tada:
+
 - - -  - -
 ## Further Reading -
 
