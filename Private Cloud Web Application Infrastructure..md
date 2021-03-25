@@ -75,7 +75,7 @@ The default network is kept and the steps sent to the CTO were revised to be mor
 
 It was my pleasure to review this wonderful project. Please continue with this same sense of hard work and good luck with the next project. :udacious:
 
-### Additional Resources
+### Additional Resources :-
 ### Below are some helpful resources related to the project implementation:
 
 [Comparing Two Application Deployment Environments: Private Cloud Vs. On-Premises](https://www.bluepiit.com/blog/private-cloud-vs-on-premises/)
