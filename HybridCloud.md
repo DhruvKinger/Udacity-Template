@@ -95,6 +95,9 @@ medium
 
 ### Required Change:-
 ![Capture.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615771464/Capture.PNG)
+
+### Remember:-
+We have two application profiles so always update all things on both small and medium application profiles. If anything required changes for one profile make sure to verify for the other profile too.
 ------
 ## Nice Work :star:
 
@@ -105,7 +108,8 @@ medium
 ### Note: Please use correct scripts and use Macro for Password !!
 ![Capture.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1616759968/Capture.PNG)
 
-
+### Remember:-
+We have two application profiles so always update all things on both small and medium application profiles. If anything required changes for one profile make sure to verify for the other profile too.
 
 --  -- -- -
 ## Dear Student :clap: :tada:
