@@ -96,7 +96,18 @@ medium
 ### Required Change:-
 ![Capture.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615771464/Capture.PNG)
 ------
+## Nice Work :star:
 
+### Database backup custom action, adapted from the source code [MySQL_backup_file.sh.txt](https://raw.githubusercontent.com/nutanixdev/udacity/main/HybridCloudEngineer/course/3/project/MySQL_backup_file.sh.txt) to use the end-user, runtime specified password for the database root account ❌
+
+### Database restores custom action, adapted from the source code [MySQL_restore.sh.txt](https://raw.githubusercontent.com/nutanixdev/udacity/main/HybridCloudEngineer/course/3/project/MySQL_restore.sh.txt) to use the end-user, runtime specified password for the database root account. ❌
+
+### Note: Please use correct scripts and use Macro for Password !!
+![Capture.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1616759968/Capture.PNG)
+
+
+
+--  -- -- -
 ## Dear Student :clap: :tada:
 You are almost done! :muscle:
 The structure of this project is already impressive and you’ve done a great job with most of the specifications.
