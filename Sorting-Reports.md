@@ -1,4 +1,4 @@
-## Passed Project
+
 
 - - - - -
 Excellent :tada:
@@ -8,6 +8,14 @@ Yes this thing is working fine ! No file is left after sorting ! You are good to
 ![Capture.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1617007785/Capture.PNG)
 
 - -- - - -
+
+You have done an amazing job here !
+Well done ! :clap: :clap:
+
+:white_check_mark: The downloaded file should be moved and unzipped in the “Project” directory itself. Note: Project directory here refers to the project workspace folder
+
+Here is a [Link](https://forum.uipath.com/t/current-path-of-directory/15425) to detect current Path of Directory !!
+- -- - - 
 
 Nice work :tada:
 I can see that happening ! It clearly shows the hard-work you have put in !
@@ -21,6 +29,13 @@ Well done ! :clap: :clap:
 
 - - - -- 
 
+Nice Work :tada:
+Good job with the implementation of proper naming and initialization of variables and arguments in the project. The following specifications are satisfied:
+✔️All variables should be initialized where necessary.
+✔️All arguments must start with "in", "out", or "io".
+✔️Meaningful and readable (Camel Case or Upper Camel/Pascal Case) names
+
+-- -  - - -
 :x: Every .xaml file must have an annotation at the beginning (including a description, pre-condition, and post-action) and at any If statement, describing what the condition is testing.
 
 Please add annotations in each xaml file.
