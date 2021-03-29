@@ -98,7 +98,7 @@ Great observations here. I agree with the analysis :star:
  
  -----
  
- Required same change as Mentioned Above !!
+Required same change as Mentioned Above !!
 Very Well Done :tada:
 Here is a useful=> [Link](https://docs.microsoft.com/en-us/azure/cost-management-billing/) you can take reference from this and see cost estimation!
 ---
