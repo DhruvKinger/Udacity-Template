@@ -1,5 +1,8 @@
+- - -- -
+Nice work !! :clap: Excellent Work !!
+Yes, folder seems to be correct. :tada: You are done with all formats asked and have been followed them according to the rubrics! ✅
 
-
+**Tip** : You could also use String manipulation method/s or Regex for capturing the year data from the file name and then creating the folder.
 - - - - -
 Excellent :tada:
 Yes this thing is working fine ! No file is left after sorting ! You are good to go with this ! :tada:
