@@ -55,3 +55,18 @@ I can clearly see all your workflows ! Your naming convention seems to be approp
 
 ![Capture.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1617007955/Capture.PNG)
 
+
+- -- -- - 
+
+## Dear Student :clap: :tada:
+### You are almost done! :muscle:
+The structure of this project is already impressive and you’ve done a great job with most of the specifications.
+You are only left with writing Annotations, Creating Today's date directory and describing whether your bot is attended or unattended !!
+Rest everything seems to be fine !!
+
+### Additional Resources :-
+### Below are some helpful resources related to the project implementation:
+* [InterView-Questions](https://www.guru99.com/uipath-interview-questions.html)
+* [Test Suite](https://docs.uipath.com/test-suite)
+* [Current Date](https://forum.uipath.com/t/how-to-get-current-date/36418)
+- - - - 
