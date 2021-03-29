@@ -21,6 +21,16 @@ Well done ! :clap: :clap:
 
 - - - -- 
 
+:x: Every .xaml file must have an annotation at the beginning (including a description, pre-condition, and post-action) and at any If statement, describing what the condition is testing.
+
+Please add annotations in each xaml file.
+Here is useful [Link](https://forum.uipath.com/t/comments-annotations-best-practices/20276) for the reference !!
+
+
+![Capture.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1617008046/Capture.PNG)
+
+
+- - - - -
 Great work doing this !
 I can clearly see all your workflows ! Your naming convention seems to be appropriate as well ! That would be easier to read from User's perspective.
 
