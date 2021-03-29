@@ -49,6 +49,11 @@ Here is useful [Link](https://forum.uipath.com/t/comments-annotations-best-pract
 
 
 - - - - -
+Describes the use of this automation as attended or unattended when doing the walkthrough of the bot. :x: 
+
+You have not described that !!
+Here is a [link](https://r.search.yahoo.com/_ylt=AwrPhS1JmGFg0WwAmnK7HAx.;_ylu=Y29sbwNzZzMEcG9zAzEEdnRpZAMEc2VjA3Nj/RV=2/RE=1617037513/RO=10/RU=https%3a%2f%2fdocs.uipath.com%2frobot%2fdocs%2fattended-vs-unattended%23%3a~%3atext%3dAs%2520we%2520know%252C%2520UiPath%2520Robots%2520are%2520the%2520center%2cthat%2520help%2520drive%2520it%2520forward%2520can%2520adapt%2520easier./RK=2/RS=fnx8M0_Y00f.UkFtHeym0O2LWss-) for their difference !!
+- - - - 
 Great work doing this !
 I can clearly see all your workflows ! Your naming convention seems to be appropriate as well ! That would be easier to read from User's perspective.
 
