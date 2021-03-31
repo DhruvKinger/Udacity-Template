@@ -80,7 +80,7 @@ I like how consistent and patient you have been in implementing this project. Mo
 Keep Learning, All the best 👍🏼👍🏼
 ### Additional Resources
 * [Azure Databases](https://azure.microsoft.com/en-in/blog/topics/database/)
-*  [Blogs Link](https://github.com/DhruvKinger/Link-of-all-blogs)
+* [Blogs Link](https://github.com/DhruvKinger/Link-of-all-blogs)
 * [Docker](https://www.youtube.com/watch?v=fqMOX6JJhGo)
 
 ----  ----
