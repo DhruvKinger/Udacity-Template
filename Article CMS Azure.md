@@ -113,5 +113,7 @@ Happy Hosting :computer: and Stay Udacious :udacious:
 Until next time :wave:
 
 ### Additional Resource:-
-* ### [Blogs Link](https://github.com/DhruvKinger/Link-of-all-blogs)
+* [Azure Databases](https://azure.microsoft.com/en-in/blog/topics/database/)
+* [Blogs Link](https://github.com/DhruvKinger/Link-of-all-blogs)
+* [Docker](https://www.youtube.com/watch?v=fqMOX6JJhGo)
  ---
