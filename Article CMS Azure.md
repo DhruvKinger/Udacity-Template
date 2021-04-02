@@ -87,15 +87,13 @@ Keep Learning, All the best 👍🏼👍🏼
 
 ## Failed Points !!
 
-## Right on point!
-Great observations here. I agree with the analysis :star:
+## Some points need to be fixed .
+**KeyNote** : You need to consider cost analysis, scalability-like features in more detail !!
 
-**KeyNote** : You need to consider cost analysis-like features in more detail !!
-
-**Hint** : Create a table to display differences b/w them !!
+**Hint** : You can create a table to display differences b/w both of the services !! 
+ You can explain like how a particular ** VM ** in a tier can cost and similarly **Azure App Service** in tier can cost. So, Like you can compare the scenarios .
 
  For some helpful analysis between these options, check out this  **=> [post](https://cloudacademy.com/blog/microsoft-azure-app-service-virtual-machines/).**
- 
  -----
  
 Required same change as Mentioned Above !!
