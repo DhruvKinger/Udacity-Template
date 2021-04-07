@@ -82,7 +82,7 @@ I like how consistent and patient you have been in implementing this project. Mo
 ---- ---
 
 ## Failed Project !!
-## Excellent Job on the very first submission :clap: :clap:
+## Excellent Submission :clap: :clap:
 You have shown a good knowledge of Cloud Application Development in the Azure Ecosystem. Keep it up. :clap: :clap:
 
 * You have correctly configured the Mongo details in all the Azure Function 👍👍
@@ -96,5 +96,8 @@ Looking forward to your next submission.
 Keep Learning
 
 ## All the best 👍🏼👍🏼
+## Additional Resources
+* [Azure Web App Perfomance](https://www.telerik.com/blogs/nine-performance-tips-for-azure-app-services)
+* [Azure Blogs](https://github.com/DhruvKinger/Link-of-all-blogs)
 
 
