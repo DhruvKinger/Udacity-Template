@@ -89,3 +89,22 @@ Rest everything seems to be fine !!
 * [Test Suite](https://docs.uipath.com/test-suite)
 * [Current Date](https://forum.uipath.com/t/how-to-get-current-date/36418)
 - - - - 
+
+
+## Dear Student,
+
+![congrats.gif](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615661006/congrats.gif)
+
+### Congratulations! :tada:
+It was my pleasure to review this wonderful project. Please continue with this same sense of hard work and good luck with the next project. :udacious:
+I like how consistent and patient you have been in implementing this project. Most of the concept displayed shows you have grasped a lot from the classroom.
+
+### Keep Learning, All the best 👍🏼👍🏼
+
+### Additional Resources :-
+### Below are some helpful resources related to the project implementation:
+* [InterView-Questions](https://www.guru99.com/uipath-interview-questions.html)
+* [Test Suite](https://docs.uipath.com/test-suite)
+* [Current Date](https://forum.uipath.com/t/how-to-get-current-date/36418)
+
+--  -
