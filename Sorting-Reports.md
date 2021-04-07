@@ -20,6 +20,19 @@ Well done ! :clap: :clap:
 Here is a [Link](https://forum.uipath.com/t/current-path-of-directory/15425) to detect current Path of Directory !!
 - -- - - 
 
+### You have done an amazing job here !
+Well done ! :clap: :clap:
+
+:x: The downloaded file should be moved and unzipped in the “Project” directory itself. Note: Project directory here refers to the project workspace folder
+
+Here is a [Link](https://forum.uipath.com/t/current-path-of-directory/15425) to detect current Path of Directory !!
+
+You have done correctly but path is hardcoded it should be dynamic so that anyone can use this Project !!
+See the Link mentioned Above !!
+
+![Screenshot (12).png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1617828661/Screenshot__12_.png)
+- - - -
+
 Nice work :tada:
 I can see that happening ! It clearly shows the hard-work you have put in !
 You have done an amazing job here !
@@ -32,6 +45,21 @@ Well done ! :clap: :clap:
 
 - - - -- 
 
+## Nice work :tada:
+I can see that happening ! It clearly shows the hard-work you have put in !
+You have done an amazing job here !
+Well done ! :clap: :clap:
+
+:white_check_mark: Use the correct UiPath Browser Activity - used the Open browser activity
+:white_check_mark: Use the correct Browser Type property to this activity - BrowserType.Chrome
+:white_check_mark: Open the browser with the URL provided
+
+:x: Close the browser after the file has been downloaded - Used Close Tab Activity for closing the webpage
+
+### You are left with only 1 thing !! 
+### See the [Link](https://r.search.yahoo.com/_ylt=AwrPh9S.G25gui0AV0e7HAx.;_ylu=Y29sbwNzZzMEcG9zAzIEdnRpZAMEc2VjA3Ny/RV=2/RE=1617857599/RO=10/RU=https%3a%2f%2fforum.uipath.com%2ft%2fhow-to-close-a-browser%2f78978/RK=2/RS=OIxuqvGU3DmQO2DuU8nLDY.3PQY-) for reference !!
+
+- - - - 
 Nice Work :tada:
 Good job with the implementation of proper naming and initialization of variables and arguments in the project. The following specifications are satisfied:
 ✔️All variables should be initialized where necessary.
