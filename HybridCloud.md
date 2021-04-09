@@ -118,6 +118,13 @@ The structure of this project is already impressive and you’ve done a great jo
 You are only left with renaming Application Profile Names and need to add Macro of AWS WebServer !!
 Rest everything seems to be fine !!
 
+
+For every change mentioned, ensure that you do the fix on both the small and medium profile. Also, check other VM and tasks to be sure they are Okay.
+Launch your blueprint to ensure it gets launched and you see the corresponding VMs and instances created on both the private cloud and on AWS.
+Perform the scale in/ scale out on both the private and public cloud and verify it works.
+Perform a backup action and verify your database is backed up.
+When all these works you will be 100% sure that your project has met all the required specs.
+
 ### Additional Resources
 ### Below are some helpful resources related to the project implementation:
 
