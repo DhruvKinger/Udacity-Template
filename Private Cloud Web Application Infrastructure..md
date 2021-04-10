@@ -18,12 +18,11 @@ Good Read on its usability https://next.nutanix.com/installation-configuration-2
 
 
 - - - - - - - -
-
 ### Well done. :100: :tada:
 Domain Name Server configuration correctly added. It is part of Google Public DNS which has id such as 8.8.8.8 or 8.8.4.4
 
 ### Additional Resource :-
-https://developers.google.com/speed/public-dns :clap:
+Good read on DNS for depth understanding :- https://developers.google.com/speed/public-dns :clap:
 
 - - - - 
 ## Good work. :tada:
@@ -43,7 +42,7 @@ You have completed these steps correctly and created the images - Disk for requi
 
 ### Reference for more details:
 
-https://next.nutanix.com/prism-infrastructure-management-26/ahv-vdisk-part-3-creating-an-image-of-or-from-an-existing-vdisk-33686
+Short Article for Image Creation :- https://next.nutanix.com/prism-infrastructure-management-26/ahv-vdisk-part-3-creating-an-image-of-or-from-an-existing-vdisk-33686
 
 -----
 
