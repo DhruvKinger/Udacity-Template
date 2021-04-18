@@ -142,6 +142,18 @@ The VMs should be on the development network listed under column B (i.e VLANs). 
 ![Capture4.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3935679/1609335240/Capture4.PNG)
 - - - - -
 
+### Good work. :star: :clap:
+You have completed these steps correctly and created the images - Disk for required OS types.
+
+![Capture.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1618752619/Capture.PNG)
+
+### Reference for more details:
+
+Short Article for Image Creation :- https://next.nutanix.com/prism-infrastructure-management-26/ahv-vdisk-part-3-creating-an-image-of-or-from-an-existing-vdisk-33686
+
+### Note: You need to change the name of the Container from Image to Images .
+-  -- - - -
+
 ## Dear Student :clap: :tada:
 
 You are almost done! :muscle:
