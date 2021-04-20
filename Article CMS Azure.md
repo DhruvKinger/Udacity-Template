@@ -96,6 +96,14 @@ Keep Learning, All the best 👍🏼👍🏼
  You can explain like how a particular ** VM ** in a tier can cost and similarly **Azure App Service** in tier can cost. So, Like you can compare the scenarios .
 
  For some helpful analysis between these options, check out this  **=> [post](https://cloudacademy.com/blog/microsoft-azure-app-service-virtual-machines/).**
+ 
+ ## Further Reading -
+
+* [Azure Pricing](https://azure.microsoft.com/en-in/pricing/calculator/)
+
+* [Scalability](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree#scalability)
+
+* [Availability](https://azure.microsoft.com/en-in/support/legal/sla/virtual-machines/v1_9/)
  -----
  
 Required same change as Mentioned Above !!
@@ -117,3 +125,18 @@ Until next time :wave:
 * [Blogs Link](https://github.com/DhruvKinger/Link-of-all-blogs)
 * [Docker](https://www.youtube.com/watch?v=fqMOX6JJhGo)
  ---
+ 
+ ### Magnificent work!
+The Python web app is able to connect to the related storage solutions.
+
+Please Provide a screenshot that contains **URL** Of APP in the Header !!
+- - - -- 
+
+Great work deploying your Article CMS web app! I can easily see the deployed app URL in the screenshot.
+I can see the screenshot ! :star:
+
+Here is a **[Link](https://www.telerik.com/blogs/nine-performance-tips-for-azure-app-services) **to Improve the Performance of your Web Apps !!
+
+Please Provide a screenshot that contains **URL** Of App in the Header !!
+---  
+
