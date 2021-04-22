@@ -57,7 +57,7 @@ Well done ! :clap: :clap:
 :x: Close the browser after the file has been downloaded - Used Close Tab Activity for closing the webpage
 
 ### You are left with only 1 thing !! 
-### See the [Link](https://r.search.yahoo.com/_ylt=AwrPh9S.G25gui0AV0e7HAx.;_ylu=Y29sbwNzZzMEcG9zAzIEdnRpZAMEc2VjA3Ny/RV=2/RE=1617857599/RO=10/RU=https%3a%2f%2fforum.uipath.com%2ft%2fhow-to-close-a-browser%2f78978/RK=2/RS=OIxuqvGU3DmQO2DuU8nLDY.3PQY-) for reference !!
+### See the [Link](https://forum.uipath.com/t/how-to-close-a-browser/78978) for reference !!
 
 - - - - 
 Nice Work :tada:
@@ -70,7 +70,7 @@ Good job with the implementation of proper naming and initialization of variable
 :x: Every .xaml file must have an annotation at the beginning (including a description, pre-condition, and post-action) and at any If statement, describing what the condition is testing.
 
 Please add annotations in each xaml file.
-Here is useful [Link](https://forum.uipath.com/t/comments-annotations-best-practices/20276) for the reference !!
+Here is useful [Link](https://forum.uipath.com/t/comments-annotations-best-practices/20276) for reference !!
 
 
 ![Capture.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1617008046/Capture.PNG)
