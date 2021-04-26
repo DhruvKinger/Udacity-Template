@@ -140,3 +140,8 @@ Here is a **[Link](https://www.telerik.com/blogs/nine-performance-tips-for-azure
 Please Provide a screenshot that contains **URL** Of App in the Header !!
 ---  
 
+## Code Review :-
+### Dear Student
+You need to consider cost factors here! Cost Estimations can give us some real insights for the comparison!
+
+
