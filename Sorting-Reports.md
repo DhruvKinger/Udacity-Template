@@ -64,7 +64,7 @@ Good job with the implementation of proper naming and initialization of variable
 ✔️Meaningful and readable (Camel Case or Upper Camel/Pascal Case) names
 
 -- -  - - -
-:x: Every .xaml file must have an annotation at the beginning (including a description, pre-condition, and post-action) and at any If statement, describing what the condition is testing.
+:x: Every .xaml file must have an annotation at the beginning (including a description, pre-condition, and post-action) and at any If statement, describing what the condition is testing. ✔️
 
 Please add annotations in each xaml file.
 Here is useful [Link](https://forum.uipath.com/t/comments-annotations-best-practices/20276) for reference !!
@@ -79,8 +79,6 @@ Here is useful [Link](https://forum.uipath.com/t/comments-annotations-best-pract
 ✔️ Every .xaml file must have an annotation at the beginning (including a description, pre-condition, and post-action) and at any If statement, describing what the condition is testing.
 
 Here is useful [Link](https://forum.uipath.com/t/comments-annotations-best-practices/20276) for the reference !!
-
-![Screenshot (7).png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1617782242/Screenshot__7_.png)
 
 - - - - -
 ## Dear Student,
@@ -161,3 +159,13 @@ Well done ! :clap: :clap:
 ### See the [Link](https://forum.uipath.com/t/how-to-close-a-browser/78978) for reference !!
 
 - - - -
+
+:x: Every .xaml file must have an annotation at the beginning (including a description, pre-condition, and post-action) and at any If statement, describing what the condition is testing. 
+
+Please add annotations in each xaml file.
+Here is useful [Link](https://forum.uipath.com/t/comments-annotations-best-practices/20276) for reference !!
+
+
+![Capture.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1617008046/Capture.PNG)
+
+-- - - 
