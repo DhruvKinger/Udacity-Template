@@ -48,6 +48,7 @@ The student should be able create an Event Hubs namespace and an event hub with 
 ### Well done :star:
 I can clearly see the App Service live URL in the browser !!
 
+Here is a **[Link](https://www.telerik.com/blogs/nine-performance-tips-for-azure-app-services) **to Improve the Performance of your Web Apps !!
 
 
 ![7-clientapp_azure.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615660377/7-clientapp_azure.PNG)
@@ -125,3 +126,15 @@ The student should be able create an Event Hubs namespace and an event hub with 
 ### Note : Please provide screenshot of Portal of Successful as well as failed Requests.
 
 ---  
+
+## Nice Work :tada:
+Students should be able to create a Logic App that watches for an HTTP trigger. When the HTTP request is triggered, the student is sent an email (with Gmail) notification. The student can validate this by a screenshot of their inbox. ✅
+
+![logic-app-email-evidence.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1619474352/logic-app-email-evidence.png)
+
+### Additional Resource
+* [Azure Logic App](https://medium.com/@dhruvkinger813/social-media-sentimental-analysis-using-azure-logic-apps-5dc8147c42ee)
+
+**Note**: Everything here is fine you only need to provide a screenshot of the Azure Logic App Designer !!
+--
+
