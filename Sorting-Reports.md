@@ -54,11 +54,7 @@ Well done ! :clap: :clap:
 :white_check_mark: Use the correct UiPath Browser Activity - used the Open browser activity
 :white_check_mark: Use the correct Browser Type property to this activity - BrowserType.Chrome
 :white_check_mark: Open the browser with the URL provided
-
-:x: Close the browser after the file has been downloaded - Used Close Tab Activity for closing the webpage
-
-### You are left with only 1 thing !! 
-### See the [Link](https://forum.uipath.com/t/how-to-close-a-browser/78978) for reference !!
+:white_check_mark: Close the browser after the file has been downloaded
 
 - - - - 
 Nice Work :tada:
@@ -147,3 +143,21 @@ Rest everything seems to be fine !!
 * [InterView-Questions](https://www.guru99.com/uipath-interview-questions.html)
 * [Test Suite](https://docs.uipath.com/test-suite)
 * [Current Date](https://forum.uipath.com/t/how-to-get-current-date/36418)
+
+-  - - -
+
+## Nice work :tada:
+I can see that happening ! It clearly shows the hard-work you have put in !
+You have done an amazing job here !
+Well done ! :clap: :clap:
+
+:white_check_mark: Use the correct UiPath Browser Activity - used the Open browser activity
+:white_check_mark: Use the correct Browser Type property to this activity - BrowserType.Chrome
+:white_check_mark: Open the browser with the URL provided
+
+:x: Close the browser after the file has been downloaded - Used Close Tab Activity for closing the webpage
+
+### You are left with only 1 thing !! 
+### See the [Link](https://forum.uipath.com/t/how-to-close-a-browser/78978) for reference !!
+
+- - - -
