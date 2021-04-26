@@ -46,32 +46,11 @@ Well done ! :clap: :clap:
 
 - - - -- 
 
-## Nice work :tada:
-I can see that happening ! It clearly shows the hard-work you have put in !
-You have done an amazing job here !
-Well done ! :clap: :clap:
-
-:white_check_mark: Use the correct UiPath Browser Activity - used the Open browser activity
-:white_check_mark: Use the correct Browser Type property to this activity - BrowserType.Chrome
-:white_check_mark: Open the browser with the URL provided
-:white_check_mark: Close the browser after the file has been downloaded
-
-- - - - 
 Nice Work :tada:
 Good job with the implementation of proper naming and initialization of variables and arguments in the project. The following specifications are satisfied:
 ✔️All variables should be initialized where necessary.
 ✔️All arguments must start with "in", "out", or "io".
 ✔️Meaningful and readable (Camel Case or Upper Camel/Pascal Case) names
-
--- -  - - -
-:x: Every .xaml file must have an annotation at the beginning (including a description, pre-condition, and post-action) and at any If statement, describing what the condition is testing. ✔️
-
-Please add annotations in each xaml file.
-Here is useful [Link](https://forum.uipath.com/t/comments-annotations-best-practices/20276) for reference !!
-
-
-![Capture.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1617008046/Capture.PNG)
-
 
 - - - -- 
 
@@ -100,15 +79,6 @@ I can clearly see all your workflows ! Your naming convention seems to be approp
 
 - -- -- - 
 
-Great work doing this !
-I can clearly see  your Main workflow ! Please split your Project into multiple Workflows !!
-
-
-![Capture1.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1617829133/Capture1.PNG)
-
-### For Reference :-
-![Capture.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1617007955/Capture.PNG)
-- - - -
 
 ## Dear Student,
 
@@ -169,3 +139,13 @@ Here is useful [Link](https://forum.uipath.com/t/comments-annotations-best-pract
 ![Capture.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1617008046/Capture.PNG)
 
 -- - - 
+
+Great work doing this !
+I can clearly see  your Main workflow ! Please split your Project into multiple Workflows !!
+
+
+![Capture1.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1617829133/Capture1.PNG)
+
+### For Reference :-
+![Capture.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1617007955/Capture.PNG)
+- - - -
