@@ -21,18 +21,7 @@ Well done ! :clap: :clap:
 Here is a [Link](https://forum.uipath.com/t/current-path-of-directory/15425) to detect current Path of Directory !!
 - -- - - 
 
-### You have done an amazing job here !
-Well done ! :clap: :clap:
 
-:x: The downloaded file should be moved and unzipped in the “Project” directory itself. Note: Project directory here refers to the project workspace folder
-
-Here is a [Link](https://forum.uipath.com/t/current-path-of-directory/15425) to detect current Path of Directory !!
-
-You have done correctly but path is hardcoded it should be dynamic so that anyone can use this Project !!
-See the Link mentioned Above !!
-
-![Screenshot (12).png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1617828661/Screenshot__12_.png)
-- - - -
 
 Nice work :tada:
 I can see that happening ! It clearly shows the hard-work you have put in !
@@ -149,3 +138,16 @@ I can clearly see  your Main workflow ! Please split your Project into multiple 
 
 ### Here is a [link](https://docs.uipath.com/robot/docs/attended-vs-unattended) for their difference !!
 - - - - 
+
+### You have done an amazing job here !
+Well done ! :clap: :clap:
+
+:x: The downloaded file should be moved and unzipped in the “Project” directory itself. Note: Project directory here refers to the project workspace folder
+
+Here is a [Link](https://forum.uipath.com/t/current-path-of-directory/15425) to detect current Path of Directory !!
+
+You have done correctly but path is hardcoded it should be dynamic so that anyone can use this Project !!
+See the Link mentioned Above !!
+
+![Screenshot (12).png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1617828661/Screenshot__12_.png)
+- - - -
