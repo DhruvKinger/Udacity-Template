@@ -60,11 +60,6 @@ Good job with the implementation of proper naming and initialization of variable
 Here is useful [Link](https://forum.uipath.com/t/comments-annotations-best-practices/20276) for the reference !!
 
 - - - - -
-## Dear Student,
-### Please Describe the use of this automation as attended or unattended when doing the walkthrough of the bot. :x: 
-
-### Here is a [link](https://docs.uipath.com/robot/docs/attended-vs-unattended) for their difference !!
-- - - - 
 
 ### Great :tada: :clap:
 You have nicely explained the use for this automation as attended automation.
@@ -149,3 +144,8 @@ I can clearly see  your Main workflow ! Please split your Project into multiple 
 ### For Reference :-
 ![Capture.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1617007955/Capture.PNG)
 - - - -
+### Dear Student,
+### Please Describe the use of this automation as attended or unattended when doing the walkthrough of the bot. :x: 
+
+### Here is a [link](https://docs.uipath.com/robot/docs/attended-vs-unattended) for their difference !!
+- - - - 
