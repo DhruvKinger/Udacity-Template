@@ -1,9 +1,9 @@
 ## Passed
 - - -- -
 Nice work !! :clap: Excellent Work !!
-Yes, folder seems to be correct. :tada: You are done with all formats asked and have been followed them according to the rubrics! ✅
+Yes, the folder seems to be correct. :tada: You are done with all formats asked according to the rubrics! ✅
 
-**Tip** : You could also use String manipulation method/s or Regex for capturing the year data from the file name and then creating the folder.
+**Tip**: You could also use String manipulation method/s or Regex for capturing the year data from the file name and then creating the folder. You can check this [documentation](https://docs.uipath.com/studio/docs/regex-search) to know how RegEx Search Works.
 - - - - -
 Excellent :tada:
 Yes this thing is working fine ! No file is left after sorting ! You are good to go with this ! :tada:
@@ -60,6 +60,7 @@ I can clearly see all your workflows ! Your naming convention seems to be approp
 
 ![Capture.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1617007955/Capture.PNG)
 
+### Please see this [link](https://www.uipath.com/learning/video-tutorials/project-organization) about UiPath Project Organization.
 
 - -- -- - 
 
@@ -132,6 +133,8 @@ I can clearly see  your Main workflow ! Please split your Project into multiple 
 
 ### For Reference :-
 ![Capture.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1617007955/Capture.PNG)
+
+### Please see this [link](https://www.uipath.com/learning/video-tutorials/project-organization) about UiPath Project Organization.
 - - - -
 ### Dear Student,
 ### Please Describe the use of this automation as attended or unattended when doing the walkthrough of the bot. :x: 
