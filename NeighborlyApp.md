@@ -123,7 +123,7 @@ The student should be able create an Event Hubs namespace and an event hub with 
 
 ![2.2-event_hub.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1618828008/2.2-event_hub.png)
 
-### Note: Please provide a screenshot of the Portal of Successful as well as failed Requests.
+**Note**: Please provide a screenshot of the Portal of Successful as well as failed Requests.Rest Everything is fine !!
 
 ---  
 
