@@ -4,7 +4,7 @@
 The right resources can be seen from this submission. This guarantees a safe space for the features ahead :clap:
 It is cool putting your resources into a single resource group - it will make long-term management, or even quick clean up, much easier!
 
-### Here is an additional reference [Link](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/manage-resource-groups-portal) on Azure resource groups !!
+Here is an additional reference [Link](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/manage-resource-groups-portal) on Azure resource groups !!
 
 
 ![azure-portal-resource-group.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1619475362/azure-portal-resource-group.png)
@@ -12,6 +12,7 @@ It is cool putting your resources into a single resource group - it will make lo
 
 Another fine job here. You have successfully created a DBO.POSTS and DBO.USERS databases to keep records of the data we might input and use later :clap: :tada:
 
+Good Read on [Azure Sql](https://azure.microsoft.com/en-in/services/sql-database/) Databases
 
 ![sql-storage.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615612043/sql-storage.png)
 
