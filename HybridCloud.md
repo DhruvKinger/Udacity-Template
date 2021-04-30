@@ -52,7 +52,7 @@ I like how consistent and patient you have been in implementing this project. Mo
 
 I noticed in your environment variable for the password, In the MySQL password best practice is to use a minimum of 8 characters with at least one upper case letter. You can enforce it by checking on the box with validating with a regular expression and in the box that appears, you should enter the regex to perform the validation. You can find out how to write the regex following the tutorial here [how-to-use-regular-expressions-to-check-password-strength](https://stackoverflow.com/questions/5142103/regex-to-validate-password-strength). you will want to scroll to the section with a Minimum of 1 Uppercase Character. However, for better understanding, you can follow all along.
 
-![Capture.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615638054/Capture.PNG)
+![Capture (1).png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1619778659/Capture__1_.png)
 
 ### Additional Resources :-
 ### Below are some helpful resources related to the project implementation:
