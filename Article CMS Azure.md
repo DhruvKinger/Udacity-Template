@@ -1,6 +1,6 @@
 ### Passed !!
 
-### Brilliant start,
+### Brilliant start,:tada:
 The right resources can be seen from this submission. This guarantees a safe space for the features ahead :clap:
 It is cool putting your resources into a single resource group - it will make long-term management, or even quick clean up, much easier!
 
@@ -88,6 +88,7 @@ Keep Learning, All the best 👍🏼👍🏼
 * [Blogs Link](https://github.com/DhruvKinger/Link-of-all-blogs)
 * [Docker](https://www.youtube.com/watch?v=fqMOX6JJhGo)
 
+### Mine Submission :-
 ![sw](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1619977073/Screenshot__19_.png)
 ----  ----
 
