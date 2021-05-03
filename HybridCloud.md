@@ -94,7 +94,7 @@ medium
 ![dw](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1619693024/web.JPG)
 
 ### For Reference:-
-![Capture.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615771464/Capture.PNG)
+![Fix.JPG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1620049909/Fix.JPG)
 
 ### Remember:-
 We have two application profiles so always update all things on both small and medium application profiles. If anything required changes for one profile make sure to verify for the other profile too.
