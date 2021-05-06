@@ -65,7 +65,7 @@ Moreover, the URL redirect is right on point :ok_hand:
 
 ----
 
-Excellent Work here too!
+Excellent Work here too! :smile:
 You have done a really good job !
 Here is an additional [Link](https://docs.microsoft.com/en-us/azure/azure-monitor/logs/data-platform-logs) to monitor Azure Logs.
 
