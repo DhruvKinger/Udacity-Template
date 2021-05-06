@@ -12,7 +12,7 @@ Here is an additional reference [Link](https://docs.microsoft.com/en-us/azure/az
 
 Another fine job here. You have successfully created a DBO.POSTS and DBO.USERS databases to keep records of the data we might input and use later :clap: :tada:
 
-Good Read on [Azure Sql](https://azure.microsoft.com/en-in/services/sql-database/) Databases
+Good Read on [Azure Sql](https://azure.microsoft.com/en-in/services/sql-database/) Databases.
 
 ![sql-storage.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615612043/sql-storage.png)
 
