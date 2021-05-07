@@ -83,7 +83,9 @@ Database VM uses teccdba credential to perform database tasks
 Small
 medium
 
-### Note: Please rename your Application Profiles to small and medium !!
+### Note:
+1) Please rename your Application Profiles to small and medium !!
+2) For Security Reasons pls delete API_User .
 
 - ------
 
@@ -98,6 +100,8 @@ medium
 
 ### Remember:-
 We have two application profiles so always update all things on both small and medium application profiles. If anything required changes for one profile make sure to verify for the other profile too.
+
+### Note: Please use correct credentials for WebServer and HAProxy use teccadmin adn for db operations use teccdba.
 ------
 ## Nice Work :star:
 
