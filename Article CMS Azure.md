@@ -53,7 +53,7 @@ I can see the screenshot in your submission :star:
 Here is a **[Link](https://www.telerik.com/blogs/nine-performance-tips-for-azure-app-services) **to Improve the Performance of your Web Apps !!
 ---
 
-### Magnificent work!
+### Magnificent work! :tada:
 The Python web app is able to connect to the related storage solutions. You have done fantastic work here.
 
 ![edit-post.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615612253/edit-post.png)
@@ -115,6 +115,16 @@ Required same change as Mentioned Above !!
 Very Well Done :tada:
 Here is a useful=> [Link](https://docs.microsoft.com/en-us/azure/cost-management-billing/) you can take reference from this and see cost estimation!
 ---
+
+Excellent Work here too! :smile:
+You have done a really good job !
+Here is an additional [Link](https://docs.microsoft.com/en-us/azure/azure-monitor/logs/data-platform-logs) to monitor Azure Logs.
+
+
+### Note: Pls provide at least one screenshot of the successful and 1 unsuccessful login attempt. :x:
+Successful is missing in your submission.
+- -- - - 
+
 
 ## Almost there! :tada:
 Just minor bugs :ant: required in order to complete the project
