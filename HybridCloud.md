@@ -1,6 +1,6 @@
 ## Passed Project !!
 
-## You have done Excellent Work Here !! :tada: :clap:
+## Excellent Work :tada: :clap:
 ### ✅Blueprint has two SSH credentials:
 teccadmin
 teccdba
@@ -54,7 +54,7 @@ I noticed in your environment variable for the password, In the MySQL password b
 
 ![Capture (1).png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1619778659/Capture__1_.png)
 
-### Additional Resources :-
+### Additional Resources :smile: :-
 ### Below are some helpful resources related to the project implementation:
 
 * [Dual Web Tier](https://classroom.udacity.com/nanodegrees/nd321-beta/parts/def00787-ddd6-4446-b326-8c94cfcbd639/modules/acac62c3-0218-4413-99fc-5a4d8f035559/lessons/f8a91839-428c-45e2-bfb2-ee70cc09e69c/concepts/f495cd57-5e82-408c-b171-98b81945af3b)
