@@ -135,7 +135,7 @@ If there is anything I may have missed to point out or anything bad in my review
 Happy Hosting :computer: and Stay Udacious :udacious:
 Until next time :wave:
 
-### Additional Resource:-
+### Additional Resource:- :bulb:
 * [Azure Databases](https://azure.microsoft.com/en-in/blog/topics/database/)
 * [Blogs Link](https://github.com/DhruvKinger/Link-of-all-blogs)
 * [Docker](https://www.youtube.com/watch?v=fqMOX6JJhGo)
