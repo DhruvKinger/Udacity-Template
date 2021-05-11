@@ -160,3 +160,12 @@ Please Provide a screenshot that contains **URL** Of App in the Header !!
 You need to consider cost factors here! Cost Estimations can give us some real insights for the comparison!
 
 
+--- - - - - 
+
+## Ungradeable
+
+## Dear Student :bulb:,
+Hope you are doing well !
+It seems that you are missing screenshots. Please add them and resubmit.
+
+
