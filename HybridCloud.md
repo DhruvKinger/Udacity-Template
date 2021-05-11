@@ -86,7 +86,7 @@ medium
 ### Note:
 1) Please rename your Application Profiles to small and medium !!
 2) For Security Reasons pls delete API_User .
-
+3) Please use correct credentials for WebServer and HAProxy use teccadmin and for db operations use teccdba.
 - ------
 
 ### WebScaleIn,WebScaleOut,AWSScaleOut,AWSScaleIn,HAProxy Install are missing AWS web server address macro in the configuration :warning: With the current configuration, HAProxy forwards all traffic to the private cloud web tier only, not the AWS web tier. Add the AWS address macro to the configuration similar to how I have attached the screenshot below.
@@ -98,10 +98,15 @@ medium
 ### For Reference:-
 ![Fix.JPG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1620049909/Fix.JPG)
 
+### Note: Make sure that no VM resource parameters can be changed by the end user. Please change it's color from blue to black.
+![resource.JPG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1620735787/resource.JPG)
+
+
+
 ### Remember:-
 We have two application profiles so always update all things on both small and medium application profiles. If anything required changes for one profile make sure to verify for the other profile too.
 
-### Note: Please use correct credentials for WebServer and HAProxy use teccadmin adn for db operations use teccdba.
+
 ------
 ## Nice Work :star:
 
