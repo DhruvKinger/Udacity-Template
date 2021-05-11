@@ -63,7 +63,7 @@ I noticed in your environment variable for the password, In the MySQL password b
 
 - - - - - -  -
 ## Failed Project !!
-## You have done Excellent Work Here !! :tada: :clap:
+## Excellent Work :tada: :clap:
 ### ✅Blueprint has two SSH credentials:
 teccadmin
 teccdba
