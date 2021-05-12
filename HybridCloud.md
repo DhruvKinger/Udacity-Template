@@ -134,7 +134,7 @@ Perform the scale in/ scale out on both the private and public cloud and verify 
 Perform a backup action and verify your database is backed up.
 When all these works you will be 100% sure that your project has met all the required specs.
 
-### Additional Resources
+### Additional Resources :bulb:
 ### Below are some helpful resources related to the project implementation:
 
 * [Dual Web Tier](https://classroom.udacity.com/nanodegrees/nd321-beta/parts/def00787-ddd6-4446-b326-8c94cfcbd639/modules/acac62c3-0218-4413-99fc-5a4d8f035559/lessons/f8a91839-428c-45e2-bfb2-ee70cc09e69c/concepts/f495cd57-5e82-408c-b171-98b81945af3b)
