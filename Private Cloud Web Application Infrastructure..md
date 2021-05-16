@@ -158,7 +158,7 @@ Short Article for Image Creation :- https://next.nutanix.com/prism-infrastructur
 
 You are almost done! :muscle:
 The structure of this project is already impressive and you’ve done a great job with most of the specifications. You have deployed and protected the three Virtual Machines composing the infrastructure for a web application: a web server VM, application VM and database server VM on the private cloud. Just some small adjustments to be made. I have provided more details in the review.
-### Additional Resources
+### Additional Resources  :bulb: 
 ### Below are some helpful resources for further reading:
 
 * [Comparing Two Application Deployment Environments: Private Cloud Vs. On-Premises](https://www.bluepiit.com/blog/private-cloud-vs-on-premises/)
