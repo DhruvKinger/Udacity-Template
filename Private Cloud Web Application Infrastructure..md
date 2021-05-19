@@ -69,6 +69,9 @@ You have completed this Point successfully !!
 
 -----
 ## Dear Student,
+
+![congrats.gif](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615661006/congrats.gif)
+
 ### Congratulations! :tada:
 The default network is kept and the steps sent to the CTO were revised to be more general. You have deployed and protected the three Virtual Machines composing the infrastructure for a web application: a web server VM, application VM and database server VM on the private cloud. You have configured an on-prem HCI environment to support VM's and implemented a data protection/disaster recovery strategy to protect them.
 
