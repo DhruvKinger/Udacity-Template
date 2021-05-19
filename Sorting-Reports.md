@@ -6,7 +6,8 @@ Yes, the folder seems to be correct. :tada: You are done with all formats asked 
 **Tip**: You could also use String manipulation method/s or Regex for capturing the year data from the file name and then creating the folder. You can check this [documentation](https://docs.uipath.com/studio/docs/regex-search) to know how RegEx Search Works.
 - - - - -
 Excellent :tada:
-Yes this thing is working fine ! No file is left after sorting ! You are good to go with this ! :tada:
+Yes, this thing is working fine! No file is left after sorting! You are good to go with this! :tada:
+
 
 
 ![Capture.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1617007785/Capture.PNG)
