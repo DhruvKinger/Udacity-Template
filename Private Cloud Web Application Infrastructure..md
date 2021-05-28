@@ -123,20 +123,23 @@ You need to rename the name of Unmanaged network to Development !! Rest Everythi
 
 -- - - -
 :100: Production VMs need to be correctly set and require correct Naming convention.
+```
 VM Name: db-prod (or equivalent) ✅
 VM Name: app-prod (or equivalent) ❌
 VM Name: web-prod (or equivalent) ❌
 The VMs should be on the production/managed network listed under column B (i.e VLANs). ✅
-
+```
 
 ![Capture1.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615479850/Capture1.PNG)
 
 - - - -
 ### :100: Development VMs need to be correctly set and require correct Naming convention.
+```
 VM Name: db-dev (or equivalent) ❌
 VM Name: app-dev (or equivalent) ✅
 VM Name: web-dev (or equivalent) ❌
 The VMs should be on the development network listed under column B (i.e VLANs). ✅
+```
 
 - - - -- 
 
