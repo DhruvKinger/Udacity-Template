@@ -19,11 +19,11 @@ Good Read on its usability https://next.nutanix.com/installation-configuration-2
 
 - - - - - - - -
 
-```
 ### Well done. :100: :tada:
+```
 Domain Name Server configuration correctly added. It is part of Google Public DNS which has id such as 8.8.8.8 or 8.8.4.4
 
-### Additional Resource :-
+Additional Resource :-
 Good read on DNS for depth understanding :- https://developers.google.com/speed/public-dns :clap:
 
 ```
@@ -34,8 +34,11 @@ You have named the network appropriately as well. In a real-time scenario, there
 ![Capture.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615430890/Capture.PNG)
 
 ---- 
+
 ## Excellent :clap:
+```
 The unmanaged network is identified as the development network by name and has the correct Vlan and Prefix Length shown in the email provided by the Network Operations group. ✅
+```
 
 ----
 ### Good work. :star: :clap:
@@ -50,10 +53,12 @@ Short Article for Image Creation :- https://next.nutanix.com/prism-infrastructur
 -----
 
 :100: Production VMs correctly created and required Naming convention followed.
+```
 VM Name: db-prod (or equivalent) ✅
 VM Name: app-prod (or equivalent) ✅
 VM Name: web-prod (or equivalent) ✅
 The VMs should be on the production/managed network listed under column B (i.e VLANs). ✅
+```
 
 -----
 
@@ -61,9 +66,11 @@ The VMs should be on the production/managed network listed under column B (i.e V
 The virtual machines needed for the development environment are successfully cloned from the production VMs and satisfy the resource specifications and naming convention as required by the Systems Administration group. They are also developed on the development network as required. Great job. :clap:
 
 -----
-### Good job. :tada:
-Successfully created a protection configuration for the production environment and the schedule has been correctly set up to repeat after every 60 minutes to take snapshots of all the virtual machines on the production environment for a backup in case of a power or any other failure.
 
+### Good job. :tada:
+```
+Successfully created a protection configuration for the production environment and the schedule has been correctly set up to repeat after every 60 minutes to take snapshots of all the virtual machines on the production environment for a backup in case of a power or any other failure.
+```
 -----
 ### Nice Work 
 You have completed this Point successfully !!
