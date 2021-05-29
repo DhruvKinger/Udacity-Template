@@ -36,7 +36,11 @@ and should be able to view the feed of advertisements and posts. ✅
 
 -- ----
 ## Nice Work :tada:
-Students should be able to create a Logic App that watches for an HTTP trigger. When the HTTP request is triggered, the student is sent an email (with Gmail) notification. The student can validate this by a screenshot of their inbox. ✅
+```
+Students should be able to create a Logic App that watches for an HTTP trigger. 
+When the HTTP request is triggered, the student is sent 
+an email (with Gmail) notification. The student can validate this by a screenshot of their inbox. ✅ 
+```
 
 ![5-LogicAppTrigger2.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615660160/5-LogicAppTrigger2.PNG)
 
@@ -79,12 +83,15 @@ The student should be able to create a cluster with one node. ✅
 ![congrats.gif](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615661006/congrats.gif)
 
 ### Congratulations! :tada:
+
 It was my pleasure to review this wonderful project. Please continue with this same sense of hard work and good luck with the next project. :udacious:
-I like how consistent and patient you have been in implementing this project. Most of the concept displayed shows you have grasped a lot from the classroom.
+```
+I like how consistent and patient you have been in implementing this project. Most of the concept displayed shows you have 
+grasped a lot from the classroom.
 
 * You have correctly configured the Mongo details in all the Azure Function 👍👍
 * You have correctly configured and deployed the Frontend app 👍👍
-
+```
 ### Keep Learning, All the best 👍🏼👍🏼
 ## Additional Resources
 * [Azure Web App Perfomance](https://www.telerik.com/blogs/nine-performance-tips-for-azure-app-services)
