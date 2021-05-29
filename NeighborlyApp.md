@@ -9,7 +9,10 @@ Students should be able to create a MongoDB database, two collections, and impor
 - - - - - - - - - 
 
 ## Nice Work :tada: :clap:
-Students are expected to deploy 7 endpoints: createAdvertisement, updateAdvertisement, getAdvertisement, getAdvertisements, and deleteAdvertisement, getPost, getPosts. There should be 7 urls with the format: ✅
+```
+Students are expected to deploy 7 endpoints: createAdvertisement, updateAdvertisement, getAdvertisement, 
+getAdvertisements, and deleteAdvertisement, getPost, getPosts. There should be 7 urls with the format: ✅
+```
 
 ![2-functions_endpoints1.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615659826/2-functions_endpoints1.PNG)
 - - - -
@@ -23,7 +26,11 @@ To verify that the database is configured, the student should be able to retriev
 -- ----
 
 ## Well Done :clap:
-The client-side python Flask application has the routes to obtain services created by server-side Azure Functions endpoints. The student can run the client-side application on localhost:5000 and on the home page and should be able to view the feed of advertisements and posts. ✅
+```
+The client-side python Flask application has the routes to obtain services created by server-side Azure
+Functions endpoints. The student can run the client-side application on localhost:5000 and on the home page 
+and should be able to view the feed of advertisements and posts. ✅
+```
 
 ![4-clientapp_localhost.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615660047/4-clientapp_localhost.PNG)
 
