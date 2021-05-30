@@ -156,3 +156,15 @@ Please Provide a Screenshot showing all the endpoints.
 For reference :-
 
 ![dad](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1620761447/function_end.png)
+
+-----
+
+
+
+### Dear Student 
+Please Provide screenshot of the App Service deployed on Azure.
+It seems to be missing in your submission.
+
+Here is a **[Link](https://www.telerik.com/blogs/nine-performance-tips-for-azure-app-services) **to Improve the Performance of your Web Apps !!
+
+---
