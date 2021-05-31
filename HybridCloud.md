@@ -23,16 +23,18 @@ medium
 -- ---
 
 ## Nice Work :tada: :star:
+```
 A web application configured to read and write to the database ✅
 
-Post-deployment operation: a web-tier that scales and orchestrate updates to the load balancer configuration ✅
+Post-deployment operation: a web-tier that scales and orchestrate updates to the load
+balancer configuration ✅
 
 Web tier scaling actions that update the load balancer configuration across both web tiers ✅
 
-Two profiles for deployment: small and medium, with specified VM resource and replicas configuration ✅
+Two profiles for deployment: small and medium, with specified VM resource 
+and replicas configuration ✅
 
-In HAProxy_Install during HAProxy Package Install, the HAProxy configuration doesn't contain an AWS web tier address. As a result, the load balancer doesn't forward traffic to the AWS web tier upon initial deployment. To resolve the issue, you should add AWS address macro to the configuration. ✅
-
+```
 
 - - - -- 
 
