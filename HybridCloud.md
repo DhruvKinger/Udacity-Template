@@ -92,6 +92,10 @@ medium
 1) Please rename your Application Profiles to small and medium !!
 2) For Security Reasons pls delete API_User .
 3) Please use correct credentials for WebServer and HAProxy use teccadmin and for db operations use teccdba.
+
+
+### Additional Resources :-
+* [Kubernetes](https://www.nutanix.com/solutions/cloud-native/hybrid-cloud-kubernetes)
 - ------
 
 ### WebScaleIn,WebScaleOut,AWSScaleOut,AWSScaleIn,HAProxy Install are missing AWS web server address macro in the configuration :warning: With the current configuration, HAProxy forwards all traffic to the private cloud web tier only, not the AWS web tier. Add the AWS address macro to the configuration similar to how I have attached the screenshot below.
