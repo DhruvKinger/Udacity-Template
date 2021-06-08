@@ -20,6 +20,9 @@ Database VM uses teccdba credential to perform database tasks
 Small
 medium
 
+### Additional Resources :-
+* [Kubernetes](https://www.nutanix.com/solutions/cloud-native/hybrid-cloud-kubernetes)
+
 -- ---
 
 ## Nice Work :tada: :star:
