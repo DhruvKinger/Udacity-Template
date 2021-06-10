@@ -63,7 +63,7 @@ I noticed in your environment variable for the password, In the MySQL password b
 ### Additional Resources :smile: :-
 ### Below are some helpful resources related to the project implementation:
 
-* [Dual Web Tier](https://classroom.udacity.com/nanodegrees/nd321-beta/parts/def00787-ddd6-4446-b326-8c94cfcbd639/modules/acac62c3-0218-4413-99fc-5a4d8f035559/lessons/f8a91839-428c-45e2-bfb2-ee70cc09e69c/concepts/f495cd57-5e82-408c-b171-98b81945af3b)
+* [Dual Web Tier](hhttps://classroom.udacity.com/nanodegrees/nd321/parts/85b7b54a-ffb4-4d6f-ae37-b83a50250746/modules/4fb22440-9378-4c81-adf5-e8f6fa49dcb3/lessons/f8a91839-428c-45e2-bfb2-ee70cc09e69c/concepts/f495cd57-5e82-408c-b171-98b81945af3b)
 * [Load Balancing](https://www.nginx.com/resources/glossary/load-balancing/)
 * [Hybrid Cloud](https://azure.microsoft.com/en-in/overview/what-is-hybrid-cloud-computing/)
 
@@ -151,7 +151,7 @@ When all these works you will be 100% sure that your project has met all the req
 ### Additional Resources :bulb:
 ### Below are some helpful resources related to the project implementation:
 
-* [Dual Web Tier](https://classroom.udacity.com/nanodegrees/nd321-beta/parts/def00787-ddd6-4446-b326-8c94cfcbd639/modules/acac62c3-0218-4413-99fc-5a4d8f035559/lessons/f8a91839-428c-45e2-bfb2-ee70cc09e69c/concepts/f495cd57-5e82-408c-b171-98b81945af3b)
+* [Dual Web Tier](https://classroom.udacity.com/nanodegrees/nd321/parts/85b7b54a-ffb4-4d6f-ae37-b83a50250746/modules/4fb22440-9378-4c81-adf5-e8f6fa49dcb3/lessons/f8a91839-428c-45e2-bfb2-ee70cc09e69c/concepts/f495cd57-5e82-408c-b171-98b81945af3b)
 * [Load Balancing](https://www.nginx.com/resources/glossary/load-balancing/)
 * [Hybrid Cloud](https://azure.microsoft.com/en-in/overview/what-is-hybrid-cloud-computing/)
 
