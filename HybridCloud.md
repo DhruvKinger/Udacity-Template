@@ -128,6 +128,9 @@ We have two application profiles so always update all things on both small and m
 ### Note: Please use correct scripts and use Macro for Password !!
 ![Screenshot (95).png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1622802421/Screenshot__95_.png)
 
+### Note: Please use correct script for db backup and you have missed db restore action !!
+
+
 ### Remember:-
 We have two application profiles so always update all things on both small and medium application profiles. If anything required changes for one profile make sure to verify for the other profile too.
 
