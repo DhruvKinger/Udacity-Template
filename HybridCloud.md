@@ -47,6 +47,11 @@ and replicas configuration ✅
 ### Database backup custom action, adapted from the source code [MySQL_backup_file.sh.txt](https://raw.githubusercontent.com/nutanixdev/udacity/main/HybridCloudEngineer/course/3/project/MySQL_backup_file.sh.txt) to use the end-user, runtime specified password for the database root account ✅
 ### Database restores custom action, adapted from the source code [MySQL_restore.sh.txt](https://raw.githubusercontent.com/nutanixdev/udacity/main/HybridCloudEngineer/course/3/project/MySQL_restore.sh.txt) to use the end-user, runtime specified password for the database root account. ✅
 
+-- ----------------------------------------
+
+###  Additional Resources :smile:
+* [Databases](https://www.nutanix.com/products/era)
+* [Databases Modernization](https://www.nutanix.com/support-services/consulting-services/database-modernization)
 
 - - -- - -
 ## Dear Student,
