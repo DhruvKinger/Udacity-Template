@@ -51,7 +51,71 @@ audioSourceURL: https://ssl.gstatic.com/dictionary/static/sounds/oxford/myword--
 * [Asset Docs](https://docs.uipath.com/orchestrator/docs/about-assets)
  
 
-- -             ------
+- -   --   -- -  ------
+
+### Excellent Work here !!  :tada:
+You've met all the specifications of this rubric.
+
+:white_check_mark: 3 invoked workflow .xaml files
+:white_check_mark: 1 data manipulation activity or function
+:white_check_mark: Interaction with 2 applications
+:white_check_mark: 5 different data types
+:white_check_mark: Dispatcher and Performer design frameworks
+
+### Additional Resource :
+* [Datatypes](https://excelcult.com/uipath-data-types-complete-guide/)
+
+
+- - - - - -
+
+
+## Great work on the PDD. :clap: :smile:
+
+* Process Overview :white_check_mark:
+* Detailed Process Map :white_check_mark:
+* In Scope of RPA (includes everything in their automation) :white_check_mark:
+* Business Exceptions Handling :white_check_mark:
+* Unknown Exceptions :white_check_mark:
+* Known Errors or Exceptions :white_check_mark:
+
+- -- - - 
+
+
+## Dear Student :thumbsup:
+### You have met all the points mentioned Below :
+
+:white_check_mark: the overall process
+whether the process will be unattended or attended, and when it will be scheduled, used by a user, or triggered another way
+where the student used each of the specific requirements above:
+-- five data types :white_check_mark:
+-- two application interactions :white_check_mark:
+-- asset from Orchestrator :white_check_mark:
+-- three invoked workflows :white_check_mark:
+-- queue they used (or why they didn't use a queue) :white_check_mark:
+-- data manipulation function or activity :white_check_mark:
+
+- - - - -
+
+
+## Dear Student :clap: :tada:
+You are almost done! :muscle:
+The structure of this project is already impressive and you’ve done a great job with most of the specifications.
+You have defined all the types of Exceptions that could arise in your case and you have used Queues and Orchestrator in an efficient way as per requirements.
+
+
+You are only left with renaming Naming Conventions of the activities  !!
+Rest everything seems to be fine !!
+
+
+### Additional Resources :bulb:
+
+* [Storage Buckets](https://docs.uipath.com/orchestrator/docs/about-storage-buckets)
+* [Test Schedulers](https://docs.uipath.com/orchestrator/docs/test-schedules)
+* [Managing Tenants](https://docs.uipath.com/orchestrator/docs/managing-tenants)
+
+--- - - 
+
+
 
 
 ## Missing Required Files
