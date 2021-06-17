@@ -1,5 +1,17 @@
 ## Points
 
+### You have done an excellent Job. :smile:
+
+All variables and arguments must have meaningful and readable (Camel Case or Upper Camel/Pascal Case) names.  ✅
+All variables should be initialized where necessary.  ✅
+All arguments must start with "in", "out", or "io".  ✅
+Each activity must be renamed to include the action, application name, or title it interacts with.  ✅
+
+
+![abc.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1623947640/abc.PNG)
+
+-- - - - -
+
 You have done an excellent Job. :smile:
 
 ### However :
@@ -8,7 +20,7 @@ You should rename the if activities or giving them a meaningful annotation.
 (See the screenshot below).
 
 ![snip.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1623868637/snip.PNG)
----
+--- - -- - -
 
 Nice Work :tada: :clap:
 Great job using the “Try Catch” activity to handle potential errors! 
@@ -198,7 +210,24 @@ Rest everything seems to be fine !!
 
 --- - - 
 
+## Dear Student,
 
+![congrats.gif](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615661006/congrats.gif)
+
+### Congratulations! :tada:
+The structure of this project is already impressive and you’ve done a great job with most of the specifications.
+You have defined all the types of Exceptions that could arise in your case and you have used Queues and Orchestrator in an efficient way as per requirements. All the state changes have been covered !!
+
+It was my pleasure to review this wonderful project. Please continue with this same sense of hard work and good luck with the next project. :udacious:
+
+### Additional Resources 💡:-
+### Below are some helpful resources related to the project implementation:
+
+* [Storage Buckets](https://docs.uipath.com/orchestrator/docs/about-storage-buckets)
+* [Test Schedulers](https://docs.uipath.com/orchestrator/docs/test-schedules)
+* [Managing Tenants](https://docs.uipath.com/orchestrator/docs/managing-tenants)
+
+- -- - - - - 
 
 
 ## Missing Required Files
