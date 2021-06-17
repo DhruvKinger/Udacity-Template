@@ -134,7 +134,12 @@ The Detail Process Map figure needs to be more detailed !!
 * [Docs](https://docs.uipath.com/task-capture/docs/details-about-the-pdd)
 
 --- --             ----
+### Great work on the DSD.  :clap: :smile:
+* List of Packages :white_check_mark:
+* Master Project Runtime Details :white_check_mark:
+* Project Details (all parts) :white_check_mark:
 
+-- - - - -
 
 
 ## Dear Student :thumbsup:
@@ -199,4 +204,11 @@ Please include the word document that describes the aspects of your project. Thi
 Please find the instructions on how to write the document under Project Instructions.
 
 ![snip.JPG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1623663126/snip.JPG)
+
+
+-- -- - - -
+
+### :smile: The previous Reviewer Passed you on this Point !!
+
+---- 
 
