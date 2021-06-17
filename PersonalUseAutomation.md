@@ -73,6 +73,12 @@ audioSourceURL: https://ssl.gstatic.com/dictionary/static/sounds/oxford/myword--
 
 - -   --   -- -  ------
 
+Nice Work :clap:
+As Per requirements Please Use at least 1 Orchestrator Assets and Orchestrator Queue.
+You can add Sender Email Id as an Asset and use Get Asset Method !!
+
+- - - - -
+
 ### Excellent Work here !!  :tada:
 You've met all the specifications of this rubric.
 
