@@ -37,6 +37,26 @@ you have done excellent work using the log message activity! You used it to Log 
 
 --- -- - - - 
 
+### Great job !!
+you have done excellent work using the log message activity! You used it to Log the exception message in each catch section of the "Try Catch" activity!
+
+```
+ Logging specific state changes within the workflow. Like the beginning and end of each workflow
+ and that includes the main :x:
+ Writing or saving data. Like before and after the CSV file, uploading data to the queue. :x:
+ Including specific data for each transaction when it is processed. log which item is being processed. :x:
+ Use detailed logs when starting and/or completing actions that may result in errors. :x:
+
+```
+
+### For Reference :- 
+![snipz.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1623868867/snipz.PNG)
+
+In other words, your log messages must cover all state changes in your code.
+
+-- - - - -
+
+
 ### Great work using assets in the Project !!
 
 extensionLink: chrome-extension://mgijmajocgfcbeboacabfgobmjgjcoja/options.html
@@ -79,6 +99,24 @@ You've met all the specifications of this rubric.
 * Known Errors or Exceptions :white_check_mark:
 
 - -- - - 
+## Great work on the PDD. :clap: :smile:
+
+* Process Overview :white_check_mark:
+* Detailed Process Map :x:
+* In Scope of RPA (includes everything in their automation) :white_check_mark:
+* Business Exceptions Handling :x:
+* Unknown Exceptions :white_check_mark:
+* Known Errors or Exceptions :white_check_mark:
+
+
+The Detail Process Map figure needs to be more detailed !!
+
+### Additional Resource
+
+* [Docs](https://docs.uipath.com/task-capture/docs/details-about-the-pdd)
+
+--- --             ----
+
 
 
 ## Dear Student :thumbsup:
