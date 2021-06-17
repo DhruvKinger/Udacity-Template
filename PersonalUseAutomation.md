@@ -85,8 +85,23 @@ You've met all the specifications of this rubric.
 ### Additional Resource :
 * [Datatypes](https://excelcult.com/uipath-data-types-complete-guide/)
 
-
 - - - - - -
+
+### Excellent Work here !!  :tada:
+You've met all the specifications of this rubric except one.
+
+:white_check_mark: 3 invoked workflow .xaml files
+:white_check_mark: 1 data manipulation activity or function
+:white_check_mark: Interaction with 2 applications
+:white_check_mark: 5 different data types
+:x: Dispatcher and Performer design frameworks
+
+### Note: You haven't described the use of the above missing point.
+
+### Additional Resource :
+* [Datatypes](https://excelcult.com/uipath-data-types-complete-guide/)
+
+- - - - -
 
 
 ## Great work on the PDD. :clap: :smile:
@@ -134,6 +149,22 @@ where the student used each of the specific requirements above:
 
 - - - - -
 
+### Nice Work :tada:
+
+Every .xaml file must have an annotation at the beginning (including a description, pre-condition, and post-action) and at any If statement, describing what the condition is testing. :white_check_mark: 
+
+All commented-out activities (or unused workflows) should be deleted for a clean workflow. :white_check_mark: 
+
+
+![ann.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1623910382/ann.PNG)
+-- - - - - -
+### Nice job so far!! However, to make your DSD perfect, you should do the following:
+
+* Add a runtime diagram. The runtime diagram should display the interaction between components (package/robots, Orchestrator queues). Check this [knowledge question](https://knowledge.udacity.com/questions/566782) for more information.
+
+* Under the "List of packages" section, you must mention the orchestrator packages that your process consists of not the activities packages. For example, if your process consists of dispatcher and performer, you must add two packages (the dispatcher and performer). if it consists of one process, you must add one package. In your case, you have one package and its name as the project name.
+
+- - - - - -
 
 ## Dear Student :clap: :tada:
 You are almost done! :muscle:
@@ -165,3 +196,4 @@ Please include the word document that describes the aspects of your project. Thi
 Please find the instructions on how to write the document under Project Instructions.
 
 ![snip.JPG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1623663126/snip.JPG)
+
