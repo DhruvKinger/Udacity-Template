@@ -82,7 +82,7 @@ You've met all the specifications of this rubric.
 :white_check_mark: 5 different data types
 :white_check_mark: Dispatcher and Performer design frameworks
 
-### Additional Resource :
+### Additional Resource :-
 * [Datatypes](https://excelcult.com/uipath-data-types-complete-guide/)
 
 - - - - - -
@@ -98,7 +98,7 @@ You've met all the specifications of this rubric except one.
 
 ### Note: You haven't described the use of the above missing point.
 
-### Additional Resource :
+### Additional Resource :-
 * [Datatypes](https://excelcult.com/uipath-data-types-complete-guide/)
 
 - - - - -
@@ -113,6 +113,9 @@ You've met all the specifications of this rubric except one.
 * Unknown Exceptions :white_check_mark:
 * Known Errors or Exceptions :white_check_mark:
 
+### Additional Resource :-
+
+* [Docs](https://docs.uipath.com/task-capture/docs/details-about-the-pdd)
 - -- - - 
 ## Great work on the PDD. :clap: :smile:
 
@@ -126,7 +129,7 @@ You've met all the specifications of this rubric except one.
 
 The Detail Process Map figure needs to be more detailed !!
 
-### Additional Resource
+### Additional Resource :-
 
 * [Docs](https://docs.uipath.com/task-capture/docs/details-about-the-pdd)
 
