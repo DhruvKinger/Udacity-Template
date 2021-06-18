@@ -9,9 +9,11 @@ Students should be able to create a MongoDB database, two collections, and impor
 - - - - - - - - - 
 
 ## Nice Work :tada: :clap:
+
 ```
 Students are expected to deploy 7 endpoints: createAdvertisement, updateAdvertisement, getAdvertisement, 
 getAdvertisements, and deleteAdvertisement, getPost, getPosts. There should be 7 urls with the format: ✅
+
 ```
 
 ![2-functions_endpoints1.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615659826/2-functions_endpoints1.PNG)
