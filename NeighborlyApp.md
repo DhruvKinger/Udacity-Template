@@ -170,3 +170,24 @@ It seems to be missing in your submission.
 Here is a **[Link](https://www.telerik.com/blogs/nine-performance-tips-for-azure-app-services) **to Improve the Performance of your Web Apps !!
 
 ---
+Please Provide screenshot of the frontend App running on localhost.
+It seems to be missing in your submission.
+
+### For reference :-
+![d](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/385208/1623353898/Screenshot_2021-06-11_at_1.05.03_AM.png)
+---
+
+### Nice Work :tada:
+The student should be able to create a cluster with one node. :x:
+
+### For Reference :
+
+![9-kubernetes1.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615660510/9-kubernetes1.PNG)
+
+---
+As per this rubric requirement, you need to provide a screenshot from Azure Container Registry after pushing docker image.
+
+### Further Reading
+* [Publishing Images to Azure Container Registry](https://docs.microsoft.com/en-us/azure/container-registry/container-registry-get-started-docker-cli)
+
+---
