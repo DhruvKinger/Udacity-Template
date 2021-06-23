@@ -179,6 +179,7 @@ It seems to be missing in your submission.
 
 ### Nice Work :tada:
 The student should be able to create a cluster with one node. :x:
+You have missed this screenshot.
 
 ### For Reference :
 
