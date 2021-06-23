@@ -133,12 +133,12 @@ Here is another Helpful [Resource](https://askinglot.com/how-do-i-set-up-azure-e
 --- 
 
 ## Nice Work :tada:
-The student should be able create an Event Hubs namespace and an event hub with the command line or through the portal. If successful, the student can obtain the namespace url. Add a screenshot from the portal of this being live. ✅
+The student should be able to create an Event Hubs namespace and an event hub with the command line or through the portal. If successful, the student can obtain the namespace url. Add a screenshot from the portal of this being live. ✅
 
 
 ![2.2-event_hub.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1618828008/2.2-event_hub.png)
 
-**Note**: Please provide a screenshot of the Portal of Successful as well as failed Requests.Rest Everything is fine !!
+**Note**: Please provide a screenshot of the Portal of Successful as well as failed Requests. Rest Everything is fine !!
 
 ---  
 
