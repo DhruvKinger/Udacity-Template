@@ -105,7 +105,7 @@ medium
 * [Load Balancer](https://www.nutanix.com/partners/technology-alliances/loadbalancer)
 - ------
 
-### WebScaleIn,WebScaleOut,AWSScaleOut,AWSScaleIn,HAProxy Install are missing AWS web server address macro in the configuration :warning: With the current configuration, HAProxy forwards all traffic to the private cloud web tier only, not the AWS web tier. Add the AWS address macro to the configuration similar to how I have attached the screenshot below.
+### WebScaleIn, WebScaleOut, AWSScaleOut, AWSScaleIn, HAProxy Install are missing AWS web server address macro in the configuration :warning: With the current configuration, HAProxy forwards all traffic to the private cloud web tier only, not the AWS web tier. Add the AWS address macro to the configuration similar to how I have attached the screenshot below.
 
 ### Your Submission:-
 
