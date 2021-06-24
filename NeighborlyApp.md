@@ -205,4 +205,4 @@ Students should be able to create a Logic App that watches for an HTTP trigger. 
 
 ### Additional Resource
 * [Azure Logic App](https://medium.com/@dhruvkinger813/social-media-sentimental-analysis-using-azure-logic-apps-5dc8147c42ee)
-* ----
+----
