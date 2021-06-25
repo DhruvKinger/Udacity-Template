@@ -20,6 +20,8 @@ You should rename the if activities or giving them a meaningful annotation.
 (See the screenshot below).
 
 ![snip.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1623868637/snip.PNG)
+
+### Also Please follow Proper Naming Conventions Like UpperCase or Camel Case!
 --- - -- - -
 
 Nice Work :tada: :clap:
@@ -32,6 +34,25 @@ You have done this section really well I can see all the exceptions being declar
 ![ccatch.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1623868796/ccatch.PNG)
 
 - -----
+## Nice Work :tada: :clap:
+
+You have to do this section . It seems to be missing. You need to manage the exceptions being declared and caught!!
+
+### For Reference :-
+
+![ccatch.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1623868796/ccatch.PNG)
+--- - - - 
+
+## Excellent Work :smile:
+
+Modules should have a direct purpose with not more than 3 uses. Minimize the number of possible use cases for any given module to ensure reusability across multiple processes. ✅
+Split by Interface interaction. Split by over-complexity. If a student's module is very complex, they explain why it is necessary to not break it up. ✅
+
+All invoked workflows must be listed in the Whiteboard file. Each workflow must have a name, detailed description, pre-condition, post-action, and argument values.✅
+
+![dh.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1624622681/dh.PNG)
+
+- - - - -
 
 ### Great job !!
 you have done excellent work using the log message activity! You used it to Log the exception message in each catch section of the "Try Catch" activity!
@@ -183,11 +204,27 @@ All commented-out activities (or unused workflows) should be deleted for a clean
 
 ![ann.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1623910382/ann.PNG)
 -- - - - - -
+
+### Nice Work :tada:
+
+Every .xaml file must have an annotation at the beginning (including a description, pre-condition, and post-action) and at any If statement, describing what the condition is testing. :x: 
+
+All commented-out activities (or unused workflows) should be deleted for a clean workflow. :white_check_mark: 
+
+
+![Screenshot (98).png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1624622356/Screenshot__98_.png)
+
+- -- - - 
+
 ### Nice job so far!! However, to make your DSD perfect, you should do the following:
 
 * Add a runtime diagram. The runtime diagram should display the interaction between components (package/robots, Orchestrator queues). Check this [knowledge question](https://knowledge.udacity.com/questions/566782) for more information.
 
 * Under the "List of packages" section, you must mention the orchestrator packages that your process consists of not the activities packages. For example, if your process consists of dispatcher and performer, you must add two packages (the dispatcher and performer). if it consists of one process, you must add one package. In your case, you have one package and its name as the project name.
+
+### Fill the VI, VII fields. Check this [thread](https://knowledge.udacity.com/questions/367806) to learn how.
+
+![dhruv.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1624622842/dhruv.PNG)
 
 - - - - - -
 
@@ -195,7 +232,7 @@ All commented-out activities (or unused workflows) should be deleted for a clean
 You are almost done! :muscle:
 The structure of this project is already impressive and you’ve done a great job with most of the specifications.
 You have defined all the types of Exceptions that could arise in your case and you have used Queues and Orchestrator in an efficient way as per requirements.
-
+All the Modifications you need to do I have mentioned below.
 
 You are only left with renaming Naming Conventions of the activities  !!
 Rest everything seems to be fine !!
