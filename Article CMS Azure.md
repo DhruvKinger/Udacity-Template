@@ -65,7 +65,7 @@ Moreover, the URL redirect is right on point :ok_hand:
 
 ----
 
-Excellent Work here too! :smile:
+### Excellent Work here too! :smile:
 You have done a really good job !
 Here is an additional [Link](https://docs.microsoft.com/en-us/azure/azure-monitor/logs/data-platform-logs) to monitor Azure Logs.
 
@@ -116,7 +116,7 @@ Very Well Done :tada:
 Here is a useful=> [Link](https://docs.microsoft.com/en-us/azure/cost-management-billing/) you can take reference from this and see cost estimation!
 ---
 
-Excellent Work here too! :smile:
+### Excellent Work here too! :smile:
 You have done a really good job !
 Here is an additional [Link](https://docs.microsoft.com/en-us/azure/azure-monitor/logs/data-platform-logs) to monitor Azure Logs.
 
