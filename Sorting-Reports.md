@@ -180,4 +180,20 @@ Good job with the implementation of proper naming and initialization of variable
 
 ![var.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1623860029/var.PNG)
 ----
+## Nice Work :tada:
+Good job with the implementation of proper naming and initialization of variables and arguments in the project. The following specifications are satisfied:
+✔️All variables should be initialized where necessary.
+✔️All arguments must start with "in", "out", or "io".
+:x: Meaningful and readable (Camel Case or Upper Camel/Pascal Case) names
+Please use the same Convention in the Entire Project.
+### See the screenshot below.
 
+
+![naming.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1624674824/naming.PNG)
+
+--------------------------------
+## Nice Work :smile:
+Every .xaml file must have an annotation at the beginning (including a description, pre-condition, and post-action) and at any If statement, describing what the condition is testing. :x:
+
+Please add annotations in each xaml file. Although you have given an explanation, you need to mention post-action as well as a precondition.
+Here is useful [Link](https://forum.uipath.com/t/comments-annotations-best-practices/20276) for reference !!
