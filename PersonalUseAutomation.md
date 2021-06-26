@@ -24,7 +24,7 @@ You should rename the if activities or giving them a meaningful annotation.
 ### Also Please follow Proper Naming Conventions Like UpperCase or Camel Case!
 --- - -- - -
 
-Nice Work :tada: :clap:
+## Nice Work :tada: :clap:
 Great job using the “Try Catch” activity to handle potential errors! 
 
 You have done this section really well I can see all the exceptions being declared and caught!!
