@@ -211,11 +211,17 @@ Every .xaml file must have an annotation at the beginning (including a descripti
 
 All commented-out activities (or unused workflows) should be deleted for a clean workflow. :white_check_mark: 
 
-
+### For Reference :-
 ![Screenshot (98).png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1624622356/Screenshot__98_.png)
 
 - -- - - 
+### Nice Work :clap:
+Use “Find Element” or “Element Exists” activities to wait for loading or lagging applications, or check that an element is present on the screen before continuing with the execution. ✅
 
+
+![Url.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1625418615/Url.PNG)
+
+- -- - - - 
 ### Nice job so far!! However, to make your DSD perfect, you should do the following:
 
 * Add a runtime diagram. The runtime diagram should display the interaction between components (package/robots, Orchestrator queues). Check this [knowledge question](https://knowledge.udacity.com/questions/566782) for more information.
@@ -223,6 +229,8 @@ All commented-out activities (or unused workflows) should be deleted for a clean
 * Under the "List of packages" section, you must mention the orchestrator packages that your process consists of not the activities packages. For example, if your process consists of dispatcher and performer, you must add two packages (the dispatcher and performer). if it consists of one process, you must add one package. In your case, you have one package and its name as the project name.
 
 ### Fill the VI, VII fields. Check this [thread](https://knowledge.udacity.com/questions/367806) to learn how.
+
+### Please add Orchestrator Details.
 
 ![dhruv.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1624622842/dhruv.PNG)
 
