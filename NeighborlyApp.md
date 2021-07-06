@@ -71,7 +71,7 @@ Here is a **[Link](https://www.telerik.com/blogs/nine-performance-tips-for-azure
 I can see that the docker build is successful and the Docker image is successfully pushed to Azure Container Registry !!
 
 ### Further Reading
-* [Publishing Images to Azure Container Registry](https://docs.microsoft.com/en-us/azure/container-registry/container-registry-get-started-docker-cli)
+* [Azure Container Registry](https://docs.microsoft.com/en-us/azure/container-registry/container-registry-get-started-docker-cli)
 
 - - - -
 
@@ -135,7 +135,7 @@ Here is another Helpful [Resource](https://askinglot.com/how-do-i-set-up-azure-e
 ## Nice Work :tada:
 The student should be able to create an Event Hubs namespace and an event hub with the command line or through the portal. If successful, the student can obtain the namespace url. Add a screenshot from the portal of this being live. ✅
 
-
+For Reference :-
 ![2.2-event_hub.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1618828008/2.2-event_hub.png)
 
 **Note**: Please provide a screenshot of the Portal of Successful as well as failed Requests. Rest Everything is fine !!
