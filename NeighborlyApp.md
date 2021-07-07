@@ -23,7 +23,7 @@ getAdvertisements, and deleteAdvertisement, getPost, getPosts. There should be 7
 To verify that the database is configured, the student should be able to retrieve the connection on each of their API endpoints in the server-API application. ✅
 ### Further Reading
 
-* [Azure Functions Python developer guide](https://docs.microsoft.com/en-us/azure/azure-functions/functions-reference-python#folder-structure)
+* [Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-reference-python#folder-structure)
 
 -- ----
 
