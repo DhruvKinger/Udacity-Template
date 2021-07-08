@@ -18,15 +18,14 @@ Good Read on its usability https://next.nutanix.com/installation-configuration-2
 
 
 - - - - - - - -
-
 ### Well done. :100: :tada:
 ```
 Domain Name Server configuration correctly added. It is part of Google Public DNS which has id such as 8.8.8.8 or 8.8.4.4
-
+```
 Additional Resource :-
 Good read on DNS for depth understanding :- https://developers.google.com/speed/public-dns :clap:
 
-```
+
 - - - - 
 ## Good work. :tada:
 You have named the network appropriately as well. In a real-time scenario, there will be multiple Managed networks, and providing correct naming convention is very important.
