@@ -22,7 +22,7 @@ Good Read on its usability https://next.nutanix.com/installation-configuration-2
 ```
 Domain Name Server configuration correctly added. It is part of Google Public DNS which has id such as 8.8.8.8 or 8.8.4.4
 ```
-Additional Resource :-
+### Additional Resource :-
 Good read on DNS for depth understanding :- https://developers.google.com/speed/public-dns :clap:
 
 
