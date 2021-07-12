@@ -65,6 +65,9 @@ Here is a **[Link](https://www.telerik.com/blogs/nine-performance-tips-for-azure
 
 
 ![7-clientapp_azure.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615660377/7-clientapp_azure.PNG)
+
+### Additional Resources :-
+* [Azure Static Web Apps](https://azure.microsoft.com/en-in/services/app-service/static/)
 - - - -
 
 ### Awesome :star:
