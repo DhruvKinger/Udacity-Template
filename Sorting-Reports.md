@@ -87,7 +87,7 @@ I like how consistent and patient you have been in implementing this project. Mo
 ## Dear Student :clap: :tada:
 ### You are almost done! :muscle:
 The structure of this project is already impressive and you’ve done a great job with most of the specifications.
-You are only left with writing Annotations, Creating Today's date directory and describing whether your bot is attended or unattended !!
+You are only left with writing Annotations, Using System.CurrentDirectory and Proper Naming Conventions, Creating Today's date directory and describing whether your bot is attended or unattended !!
 Rest everything seems to be fine !!
 
 ### Additional Resources :-
