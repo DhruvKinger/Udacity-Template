@@ -8,8 +8,6 @@ Yes, the folder seems to be correct. :tada: You are done with all formats asked 
 ## Excellent :tada:
 Yes, this thing is working fine! No file is left after sorting! You are good to go with this! :tada:
 
-
-
 ![Capture.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1617007785/Capture.PNG)
 
 - -- - - -
@@ -98,6 +96,23 @@ Rest everything seems to be fine !!
 
 -  - - -
 
+## Well done! :clap: :clap:
+### You have done an amazing job here !
+
+✔️ The downloaded file should be moved and unzipped in the “Project” directory itself. Note: Project directory here refers to the project workspace folder
+
+Here is a [Link](https://forum.uipath.com/t/current-path-of-directory/15425) to detect the current Path of Directory !!
+
+You have done it correctly but the path is hardcoded it should be dynamic so that anyone can use this Project !!
+See the Link mentioned Above !!
+
+![path.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1624674362/path.PNG)
+
+Note: Also It is not allowed to use HardCoded Delays. Please use find an activity to check if the File exists. Then Move further.
+-- -- -
+
+
+
 ## Nice work :tada:
 I can see that happening ! It clearly shows the hard-work you have put in !
 You have done an amazing job here !
@@ -139,35 +154,6 @@ I can clearly see your Main workflow! Please split your Project into multiple Wo
 
 ### Here is a [link](https://docs.uipath.com/robot/docs/attended-vs-unattended) for their difference !!
 - - - - 
-
-### You have done an amazing job here !
-Well done ! :clap: :clap:
-
-:x: The downloaded file should be moved and unzipped in the “Project” directory itself. 
-### Note: Project directory here refers to the project workspace folder
-
-Here is a [Link](https://forum.uipath.com/t/current-path-of-directory/15425) to detect the current Path of Directory !!
-
-You have done it correctly but the path is hardcoded it should be dynamic so that anyone can use this Project !!
-See the Link mentioned Above !!
-
-![Screenshot (12).png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1617828661/Screenshot__12_.png)
-- - - -
-
-## Well done! :clap: :clap:
-### You have done an amazing job here !
-
-✔️ The downloaded file should be moved and unzipped in the “Project” directory itself. Note: Project directory here refers to the project workspace folder
-
-Here is a [Link](https://forum.uipath.com/t/current-path-of-directory/15425) to detect the current Path of Directory !!
-
-You have done it correctly but the path is hardcoded it should be dynamic so that anyone can use this Project !!
-See the Link mentioned Above !!
-
-![path.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1624674362/path.PNG)
-
-Note: Also It is not allowed to use HardCoded Delays. Please use find an activity to check if the File exists. Then Move further.
--- -- -
 
 ### Nice Work :tada:
 Good job with the implementation of proper naming and initialization of variables and arguments in the project. The following specifications are satisfied:
