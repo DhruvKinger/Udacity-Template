@@ -129,6 +129,20 @@ Well done ! :clap: :clap:
 
 - - - -
 
+### Nice Work :tada:
+Good job with the implementation of proper naming and initialization of variables and arguments in the project. The following specifications are satisfied:
+✔️All variables should be initialized where necessary.
+✔️All arguments must start with "in", "out", or "io".
+:x: Meaningful and readable (Camel Case or Upper Camel/Pascal Case) names
+
+## Please use these conventions.
+### Additional Resource :-
+* [CamelCase](https://whatis.techtarget.com/definition/CamelCase#:~:text=CamelCase%20is%20a%20naming%20convention,name%20can%20easily%20be%20read.)
+
+-- - - - - - - - -- 
+
+
+
 :x: Every .xaml file must have an annotation at the beginning (including a description, pre-condition, and post-action) and at any If statement, describing what the condition is testing. 
 
 ### Please add annotations in each xaml file.
@@ -137,7 +151,14 @@ Well done ! :clap: :clap:
 
 ![Capture.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1617008046/Capture.PNG)
 
--- - - 
+
+- - - -
+### Dear Student,
+### Please Describe the use of this automation as attended or unattended when doing the walkthrough of the bot. :x: 
+
+### Here is a [link](https://docs.uipath.com/robot/docs/attended-vs-unattended) for their difference !!
+
+
 Great work doing this !
 I can clearly see your Main workflow! Please split your Project into multiple Workflow!!
 
@@ -148,37 +169,4 @@ I can clearly see your Main workflow! Please split your Project into multiple Wo
 ![Capture.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1617007955/Capture.PNG)
 
 ### Please see this [link](https://www.uipath.com/learning/video-tutorials/project-organization) about UiPath Project Organization.
-- - - -
-### Dear Student,
-### Please Describe the use of this automation as attended or unattended when doing the walkthrough of the bot. :x: 
 
-### Here is a [link](https://docs.uipath.com/robot/docs/attended-vs-unattended) for their difference !!
-- - - - 
-
-### Nice Work :tada:
-Good job with the implementation of proper naming and initialization of variables and arguments in the project. The following specifications are satisfied:
-✔️All variables should be initialized where necessary.
-✔️All arguments must start with "in", "out", or "io".
-:x: Meaningful and readable (Camel Case or Upper Camel/Pascal Case) names
-
-## Please use these conventions.
-### Additional Resource :-
-* [CamelCase](https://whatis.techtarget.com/definition/CamelCase#:~:text=CamelCase%20is%20a%20naming%20convention,name%20can%20easily%20be%20read.)
-----
-## Nice Work :tada:
-Good job with the implementation of proper naming and initialization of variables and arguments in the project. The following specifications are satisfied:
-✔️All variables should be initialized where necessary.
-✔️All arguments must start with "in", "out", or "io".
-:x: Meaningful and readable (Camel Case or Upper Camel/Pascal Case) names
-Please use the same Convention in the Entire Project.
-### See the screenshot below.
-
-
-![naming.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1624674824/naming.PNG)
-
---------------------------------
-## Nice Work :smile:
-Every .xaml file must have an annotation at the beginning (including a description, pre-condition, and post-action) and at any If statement, describing what the condition is testing. :x:
-
-Please add annotations in each xaml file. Although you have given an explanation, you need to mention post-action as well as a precondition.
-Here is useful [Link](https://forum.uipath.com/t/comments-annotations-best-practices/20276) for reference !!
