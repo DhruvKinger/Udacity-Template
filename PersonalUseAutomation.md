@@ -12,7 +12,7 @@ Each activity must be renamed to include the action, application name, or title 
 
 -- - - - -
 
-You have done an excellent Job. :smile:
+## You have done an excellent Job. :smile:
 
 ### However :
 There are still some activities that you didn't rename like the "Sequence" activities". Please, check again all the activities and make sure all of them have been renamed.
@@ -70,8 +70,8 @@ you have done excellent work using the log message activity! You used it to Log 
 
 --- -- - - - 
 
-### Great job !!
-you have done excellent work using the log message activity! You used it to Log the exception message in each catch section of the "Try Catch" activity!
+## Great job !!
+You have done excellent work using the log message activity! You used it to Log the exception message in each catch section of the "Try Catch" activity!
 
 
  Logging specific state changes within the workflow. Like the beginning and end of each workflow
@@ -203,7 +203,7 @@ All commented-out activities (or unused workflows) should be deleted for a clean
 
 
 ![ann.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1623910382/ann.PNG)
--- - - - - -
+-- - - - - 
 
 ### Nice Work :tada:
 
@@ -218,7 +218,7 @@ All commented-out activities (or unused workflows) should be deleted for a clean
 ### Nice Work :clap:
 Use “Find Element” or “Element Exists” activities to wait for loading or lagging applications, or check that an element is present on the screen before continuing with the execution. ✅
 
-
+### For Reference :-
 ![Url.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1625418615/Url.PNG)
 
 - -- - - - 
