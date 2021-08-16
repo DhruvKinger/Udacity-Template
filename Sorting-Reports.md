@@ -138,7 +138,7 @@ Good job with the implementation of proper naming and initialization of variable
 ✔️All arguments must start with "in", "out", or "io".
 :x: Meaningful and readable (Camel Case or Upper Camel/Pascal Case) names
 
-## Please use these conventions.
+### Please use proper naming conventions.
 ### Additional Resource :-
 * [CamelCase](https://whatis.techtarget.com/definition/CamelCase#:~:text=CamelCase%20is%20a%20naming%20convention,name%20can%20easily%20be%20read.)
 
