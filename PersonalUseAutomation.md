@@ -172,6 +172,7 @@ You've met all the specifications of this rubric except one.
 * Unknown Exceptions :white_check_mark:
 * Known Errors or Exceptions :white_check_mark:
 
+### The As-Is and To-Be Process Map figures are missing !!
 
 ### The Detail Process Map figure needs to be more detailed !!
 
@@ -202,6 +203,22 @@ where the student used each of the specific requirements above:
 -- data manipulation function or activity :white_check_mark:
 
 - - - - -
+
+## Dear Student :smile:
+### You have met all the points mentioned Below except one:
+
+:white_check_mark: the overall process
+whether the process will be unattended or attended, and when it will be scheduled, used by a user, or triggered another way
+where the student used each of the specific requirements above:
+-- five data types :white_check_mark:
+-- two application interactions :white_check_mark:
+-- asset from Orchestrator :x:
+-- three invoked workflows :white_check_mark:
+-- queue they used (or why they didn't use a queue) :white_check_mark:
+-- data manipulation function or activity :white_check_mark:
+
+--- - - - - - - -
+
 
 ### Nice Work :tada:
 
