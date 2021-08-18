@@ -105,9 +105,17 @@ audioSourceURL: https://ssl.gstatic.com/dictionary/static/sounds/oxford/myword--
 
 - -   --   -- -  ------
 
-Nice Work :clap:
+### Nice Work :clap:
 As Per requirements Please Use at least 1 Orchestrator Assets and Orchestrator Queue.
 You can add Sender Email Id as an Asset and use Get Asset Method !!
+
+
+![aas.JPG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1629305181/aas.JPG)
+
+
+![orch.JPG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1629305122/orch.JPG)
+
+### Please fix this mandatory requirement !!
 
 - - - - -
 
