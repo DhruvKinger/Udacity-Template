@@ -17,7 +17,7 @@ Each activity must be renamed to include the action, application name, or title 
 ### However :
 There are still some activities that you didn't rename like the "Sequence" activities". Please, check again all the activities and make sure all of them have been renamed.
 You should rename the if activities or giving them a meaningful annotation.
-(See the screenshot below).
+### See the screenshot below:-
 
 ![snip.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1623868637/snip.PNG)
 
