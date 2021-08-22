@@ -96,6 +96,16 @@ Rest everything seems to be fine !!
 
 -  - - -
 
+### Nice work !! :clap: Excellent !! :smile:
+Yes, the folder seems to be correct. :tada: You are done with all formats asked according to the rubrics! ✅
+
+However you have Hardcoded the folders instead you should find characters and then create folder on that character.
+
+**Tip**: Here is a resource to use the String manipulation method/s or Regex for capturing the year data from the file name and then creating the folder. You can check this [documentation](https://docs.uipath.com/studio/docs/regex-search) to know how RegEx Search Works.
+
+---------
+
+
 ## Well done! :clap: :clap:
 ### You have done an amazing job here !
 
@@ -110,7 +120,8 @@ See the Link mentioned Above !!
 
 Note: Also It is not allowed to use HardCoded Delays. Please use find an activity to check if the File exists. Then Move further.
 
-For Reference :-
+## For Reference :-
+
 ![dIRECTORY.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1627473258/dIRECTORY.PNG)
 -- -- -
 
