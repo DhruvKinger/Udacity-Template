@@ -9,13 +9,15 @@ Here is an additional reference [Link](https://docs.microsoft.com/en-us/azure/az
 
 ![azure-portal-resource-group.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1619475362/azure-portal-resource-group.png)
 ----
+## Another fine job here. 
+You have successfully created a DBO.POSTS and DBO.USERS databases to keep records of the data we might input and use later :clap: :tada:
 
-Another fine job here. You have successfully created a DBO.POSTS and DBO.USERS databases to keep records of the data we might input and use later :clap: :tada:
+### Good Read on [Azure Sql](https://azure.microsoft.com/en-in/services/sql-database/) Databases.
 
-Good Read on [Azure Sql](https://azure.microsoft.com/en-in/services/sql-database/) Databases.
+### Additional Resources :-
+[Azure Databases](https://azure.microsoft.com/en-in/product-categories/databases/)
 
-![sql-storage.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615612043/sql-storage.png)
-
+![sql_storage_solution.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1630054177/sql_storage_solution.png)
 ----
 
 ### Nice Work :clap:
@@ -124,9 +126,8 @@ Here is an additional [Link](https://docs.microsoft.com/en-us/azure/azure-monito
 ### Note: Please provide at least one screenshot of the successful and 1 unsuccessful login attempt. :x:
 Successful is missing in your submission.
 - -- - - 
-
-
-## Almost there! :tada:
+## Dear Student :smile:
+### Almost there! :tada:
 Just minor bugs :ant: required in order to complete the project
 I was impressed with the effort made on this submission. Especially configuration of the redirects. This is so cool.:sunglasses:
 All the very best for the next submission :smile:.
