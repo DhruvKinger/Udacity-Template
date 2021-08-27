@@ -41,6 +41,9 @@ You have to do this section . It seems to be missing. You need to manage the exc
 ### For Reference :-
 
 ![ccatch.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1623868796/ccatch.PNG)
+
+
+### However at some places you have missed it. For Example if Orchestrator crashes their is no Handling there. orchestrator httpexception should handle it in that case.
 --- - - - 
 
 ## Excellent Work :smile:
@@ -53,6 +56,23 @@ All invoked workflows must be listed in the Whiteboard file. Each workflow must 
 ![dh.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1624622681/dh.PNG)
 
 - - - - -
+
+If there are multiple “Click”, “Type Into”, or other activities within the same application right after the other, they should be in a container called "Attach Browser...", "Attach Window...", “Open Application…”, or “Open Browser…”.
+
+### However this seems to be missing. 
+
+### For Reference See here :-
+
+![aaaa.JPG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1630042852/aaaa.JPG)
+
+- - - - - - 
+
+
+## Excellent Work :tada:
+No more than 2 "If" activities should be nested within each other. Instead, this must be in a “Flowchart” or “Switch” activity to improve logic understanding. ✅
+
+Each branch should have an activity; if there is an empty branch, have a “Comment” activity explaining what this branch means. ✅
+- - --- - - -
 
 ### Great job !!
 you have done excellent work using the log message activity! You used it to Log the exception message in each catch section of the "Try Catch" activity!
@@ -240,6 +260,14 @@ All commented-out activities (or unused workflows) should be deleted for a clean
 ![Screenshot (98).png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1624622356/Screenshot__98_.png)
 
 - -- - - 
+Use partial selectors where several activities are executed in the same window.  :x: 
+
+This section seems to be missing it will be done once you use the attach browser activity.
+
+![aaaa.JPG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1630042981/aaaa.JPG)
+------
+
+
 ### Nice Work :clap:
 Use “Find Element” or “Element Exists” activities to wait for loading or lagging applications, or check that an element is present on the screen before continuing with the execution. ✅
 
