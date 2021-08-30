@@ -66,7 +66,12 @@ If there are multiple “Click”, “Type Into”, or other activities within t
 ![aaaa.JPG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1630042852/aaaa.JPG)
 
 - - - - - - 
+## Nice Work :tada: 
 
+You have done this section really well. :smile:
+If there are multiple “Click”, “Type Into”, or other activities within the same application right after the other, they should be in a container called "Attach Browser...", "Attach Window...", “Open Application…”, or “Open Browser…”.  ✅
+
+-------
 
 ## Excellent Work :tada:
 No more than 2 "If" activities should be nested within each other. Instead, this must be in a “Flowchart” or “Switch” activity to improve logic understanding. ✅
@@ -109,11 +114,11 @@ You have done excellent work using the log message activity! You used it to Log 
 -- - - - -
 
 
-### Great work using assets in the Project !!
+## Great work using assets in the Project !!
 
-extensionLink: chrome-extension://mgijmajocgfcbeboacabfgobmjgjcoja/options.html
+### extensionLink: chrome-extension://mgijmajocgfcbeboacabfgobmjgjcoja/options.html
 
-audioSourceURL: https://ssl.gstatic.com/dictionary/static/sounds/oxford/myword--_gb_1.mp3
+### audioSourceURL: https://ssl.gstatic.com/dictionary/static/sounds/oxford/myword--_gb_1.mp3
 
 
 ![asset.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1623870127/asset.PNG)
