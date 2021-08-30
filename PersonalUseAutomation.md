@@ -252,7 +252,7 @@ Every .xaml file must have an annotation at the beginning (including a descripti
 All commented-out activities (or unused workflows) should be deleted for a clean workflow. :white_check_mark: 
 
 
-![ann.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1623910382/ann.PNG)
+![ann.PNG](https://udacity-reviews-uploads.s .us-west-2.amazonaws.com/_attachments/3625268/1623910382/ann.PNG)
 -- - - - - 
 
 ### Nice Work :tada:
