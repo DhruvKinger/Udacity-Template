@@ -167,11 +167,11 @@ Good job with the implementation of proper naming and initialization of variable
 
 
 - - - -
-### Dear Student,
-### Please Describe the use of this automation as attended or unattended when doing the walkthrough of the bot. :x: 
+
+## Dear Student :smile:
+### Please Describe the use of this automation as attended or unattended In detail when doing the walkthrough of the bot. :x: 
 
 ### Here is a [link](https://docs.uipath.com/robot/docs/attended-vs-unattended) for their difference !!
-
 -- -  - -
 
 Great work doing this !
