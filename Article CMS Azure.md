@@ -130,6 +130,7 @@ Successful is missing in your submission.
 ### Almost there! :tada:
 Just minor bugs :ant: required in order to complete the project
 I was impressed with the effort made on this submission. Especially configuration of the redirects. This is so cool.:sunglasses:
+You only need to update your writeup and submit successful and unsuccessful login attempts Screenshots.
 All the very best for the next submission :smile:.
 
 If there is anything I may have missed to point out or anything bad in my review, do give me feedback. :sunglasses:
