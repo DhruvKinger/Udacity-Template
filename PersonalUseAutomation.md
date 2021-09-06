@@ -300,7 +300,8 @@ The structure of this project is already impressive and you’ve done a great jo
 You have defined all the types of Exceptions that could arise in your case and you have used Queues and Orchestrator in an efficient way as per requirements.
 All the Modifications you need to do I have mentioned below.
 
-You are only left with renaming Naming Conventions of the activities  !!
+
+You are only left with renaming Naming Conventions of the activities, logging and you need to update the documentation !!
 Rest everything seems to be fine !!
 
 
