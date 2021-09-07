@@ -349,4 +349,9 @@ Please find the instructions on how to write the document under Project Instruct
 ### :smile: The previous Reviewer Passed you on this Point !!
 
 ---- 
+## Dear Student 😄
+Please do all the changes as suggested by previous reviewer ! You are still missing the points mentioned by reviewer say like DSD Update, Logging, Try Catch and hence you're required to include that in your submission. Please read rubric points again and then resubmit.
+
+Please find the instructions on how to write the document under Project Instructions.
+----
 
