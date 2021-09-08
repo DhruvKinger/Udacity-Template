@@ -265,6 +265,11 @@ All commented-out activities (or unused workflows) should be deleted for a clean
 ![Screenshot (98).png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1624622356/Screenshot__98_.png)
 
 - -- - - 
+
+### Excellent Work :tada:
+Use partial selectors where several activities are executed in the same window.  ✅
+
+-----
 Use partial selectors where several activities are executed in the same window.  :x: 
 
 This section seems to be missing it will be done once you use the attach browser activity.
@@ -276,7 +281,6 @@ This section seems to be missing it will be done once you use the attach browser
 ### Nice Work :clap:
 Use “Find Element” or “Element Exists” activities to wait for loading or lagging applications, or check that an element is present on the screen before continuing with the execution. ✅
 
-### For Reference :-
 ![Url.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1625418615/Url.PNG)
 
 - -- - - - 
