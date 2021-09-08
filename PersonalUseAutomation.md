@@ -113,19 +113,16 @@ You have done excellent work using the log message activity! You used it to Log 
 
 -- - - - -
 
-
 ## Great work using assets in the Project !!
 
-### extensionLink: chrome-extension://mgijmajocgfcbeboacabfgobmjgjcoja/options.html
-
-### audioSourceURL: https://ssl.gstatic.com/dictionary/static/sounds/oxford/myword--_gb_1.mp3
-
-
-![asset.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1623870127/asset.PNG)
+Use at least 1 Orchestrator Assets.  :white_check_mark:
+Use at least 1 Orchestrator Queue.  :white_check_mark:
 
 
 ### Additional Resource:
 * [Asset Docs](https://docs.uipath.com/orchestrator/docs/about-assets)
+
+![asset.JPG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1631090312/asset.JPG)
  
 
 - -   --   -- -  ------
