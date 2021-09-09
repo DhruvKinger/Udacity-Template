@@ -98,6 +98,34 @@ All commented-out activities (or unused workflows) should be deleted for a clean
 
 - -- - - 
 
+
+## Excellent Work :tada:
+No more than 2 "If" activities should be nested within each other. Instead, this must be in a “Flowchart” or “Switch” activity to improve logic understanding. ✅
+
+Each branch should have an activity; if there is an empty branch, have a “Comment” activity explaining what this branch means. ✅
+
+- - - -- - 
+## Nice Work :tada: 
+
+You have done this section really well. :smile:
+If there are multiple “Click”, “Type Into”, or other activities within the same application right after the other, they should be in a container called "Attach Browser...", "Attach Window...", “Open Application…”, or “Open Browser…”.  ✅
+
+- - - - - - 
+
+
+If there are multiple “Click”, “Type Into”, or other activities within the same application right after the other, they should be in a container called "Attach Browser...", "Attach Window...", “Open Application…”, or “Open Browser…”.
+
+### However this seems to be missing. 
+
+### For Reference See here :-
+
+![aaaa.JPG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1630042852/aaaa.JPG)
+
+
+
+-------
+
+
 ## Excellent Work :smile:
 
 Modules should have a direct purpose with not more than 3 uses. Minimize the number of possible use cases for any given module to ensure reusability across multiple processes. ✅
@@ -109,28 +137,7 @@ All invoked workflows must be listed in the Whiteboard file. Each workflow must 
 
 - - - - -
 
-If there are multiple “Click”, “Type Into”, or other activities within the same application right after the other, they should be in a container called "Attach Browser...", "Attach Window...", “Open Application…”, or “Open Browser…”.
 
-### However this seems to be missing. 
-
-### For Reference See here :-
-
-![aaaa.JPG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1630042852/aaaa.JPG)
-
-- - - - - - 
-## Nice Work :tada: 
-
-You have done this section really well. :smile:
-If there are multiple “Click”, “Type Into”, or other activities within the same application right after the other, they should be in a container called "Attach Browser...", "Attach Window...", “Open Application…”, or “Open Browser…”.  ✅
-
--------
-
-## Excellent Work :tada:
-No more than 2 "If" activities should be nested within each other. Instead, this must be in a “Flowchart” or “Switch” activity to improve logic understanding. ✅
-
-Each branch should have an activity; if there is an empty branch, have a “Comment” activity explaining what this branch means. ✅
-
-- - - -- - 
 ## Great work using assets in the Project !!
 
 Use at least 1 Orchestrator Assets.  :white_check_mark:
