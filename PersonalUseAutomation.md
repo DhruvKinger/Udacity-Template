@@ -112,7 +112,6 @@ If there are multiple “Click”, “Type Into”, or other activities within t
 
 - - - - - - 
 
-
 If there are multiple “Click”, “Type Into”, or other activities within the same application right after the other, they should be in a container called "Attach Browser...", "Attach Window...", “Open Application…”, or “Open Browser…”.
 
 ### However this seems to be missing. 
@@ -121,10 +120,57 @@ If there are multiple “Click”, “Type Into”, or other activities within t
 
 ![aaaa.JPG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1630042852/aaaa.JPG)
 
-
-
 -------
 
+### Nice Work :clap:
+Use “Find Element” or “Element Exists” activities to wait for loading or lagging applications, or check that an element is present on the screen before continuing with the execution. ✅
+
+![Url.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1625418615/Url.PNG)
+
+------
+
+
+### Excellent Work :tada:
+Use partial selectors where several activities are executed in the same window.  ✅
+
+-----
+Use partial selectors where several activities are executed in the same window.  :x: 
+
+This section seems to be missing it will be done once you use the attach browser activity.
+
+![aaaa.JPG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1630042981/aaaa.JPG)
+
+- -- - - - 
+
+### Excellent Work here !!  :tada:
+You've met all the specifications of this rubric.
+
+:white_check_mark: 3 invoked workflow .xaml files
+:white_check_mark: 1 data manipulation activity or function
+:white_check_mark: Interaction with 2 applications
+:white_check_mark: 5 different data types
+:white_check_mark: Dispatcher and Performer design frameworks
+
+### Additional Resource :-
+* [Datatypes](https://excelcult.com/uipath-data-types-complete-guide/)
+
+- - - - - -
+
+### Excellent Work here !!  :tada:
+You've met all the specifications of this rubric except one.
+
+:white_check_mark: 3 invoked workflow .xaml files
+:white_check_mark: 1 data manipulation activity or function
+:white_check_mark: Interaction with 2 applications
+:white_check_mark: 5 different data types
+:x: Dispatcher and Performer design frameworks
+
+### Note: You haven't described the use of the above missing point.
+
+### Additional Resource :-
+* [Datatypes](https://excelcult.com/uipath-data-types-complete-guide/)
+
+- - - - - -
 
 ## Excellent Work :smile:
 
@@ -165,37 +211,6 @@ You can add Sender Email Id as an Asset and use Get Asset Method !!
 ### Please fix this mandatory requirement !!
 
 - - - - -
-
-### Excellent Work here !!  :tada:
-You've met all the specifications of this rubric.
-
-:white_check_mark: 3 invoked workflow .xaml files
-:white_check_mark: 1 data manipulation activity or function
-:white_check_mark: Interaction with 2 applications
-:white_check_mark: 5 different data types
-:white_check_mark: Dispatcher and Performer design frameworks
-
-### Additional Resource :-
-* [Datatypes](https://excelcult.com/uipath-data-types-complete-guide/)
-
-- - - - - -
-
-### Excellent Work here !!  :tada:
-You've met all the specifications of this rubric except one.
-
-:white_check_mark: 3 invoked workflow .xaml files
-:white_check_mark: 1 data manipulation activity or function
-:white_check_mark: Interaction with 2 applications
-:white_check_mark: 5 different data types
-:x: Dispatcher and Performer design frameworks
-
-### Note: You haven't described the use of the above missing point.
-
-### Additional Resource :-
-* [Datatypes](https://excelcult.com/uipath-data-types-complete-guide/)
-
-- - - - -
-
 
 ## Great work on the PDD. :clap: :smile:
 
@@ -266,25 +281,6 @@ where the student used each of the specific requirements above:
 
 --- - - - - - - -
 
-
-### Excellent Work :tada:
-Use partial selectors where several activities are executed in the same window.  ✅
-
------
-Use partial selectors where several activities are executed in the same window.  :x: 
-
-This section seems to be missing it will be done once you use the attach browser activity.
-
-![aaaa.JPG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1630042981/aaaa.JPG)
-------
-
-
-### Nice Work :clap:
-Use “Find Element” or “Element Exists” activities to wait for loading or lagging applications, or check that an element is present on the screen before continuing with the execution. ✅
-
-![Url.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1625418615/Url.PNG)
-
-- -- - - - 
 ### Nice job so far!! However, to make your DSD perfect, you should do the following:
 
 * Add a runtime diagram. The runtime diagram should display the interaction between components (package/robots, Orchestrator queues). Check this [knowledge question](https://knowledge.udacity.com/questions/566782) for more information.
