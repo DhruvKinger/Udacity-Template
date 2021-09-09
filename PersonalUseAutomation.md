@@ -140,7 +140,34 @@ This section seems to be missing it will be done once you use the attach browser
 
 ![aaaa.JPG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1630042981/aaaa.JPG)
 
-- -- - - - 
+--- - - - - - - -
+
+## Great work using assets in the Project !!
+
+Use at least 1 Orchestrator Assets.  :white_check_mark:
+Use at least 1 Orchestrator Queue.  :white_check_mark:
+
+
+### Additional Resource:
+* [Asset Docs](https://docs.uipath.com/orchestrator/docs/about-assets)
+
+![asset.JPG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1631090312/asset.JPG)
+ 
+-- - - - -
+
+### Nice Work :clap:
+As Per requirements Please Use at least 1 Orchestrator Assets and Orchestrator Queue.
+You can add Sender Email Id as an Asset and use Get Asset Method !!
+
+
+![aas.JPG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1629305181/aas.JPG)
+
+
+![orch.JPG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1629305122/orch.JPG)
+
+### Please fix this mandatory requirement !!
+
+---- ----
 
 ### Excellent Work here !!  :tada:
 You've met all the specifications of this rubric.
@@ -183,35 +210,6 @@ All invoked workflows must be listed in the Whiteboard file. Each workflow must 
 
 - - - - -
 
-
-## Great work using assets in the Project !!
-
-Use at least 1 Orchestrator Assets.  :white_check_mark:
-Use at least 1 Orchestrator Queue.  :white_check_mark:
-
-
-### Additional Resource:
-* [Asset Docs](https://docs.uipath.com/orchestrator/docs/about-assets)
-
-![asset.JPG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1631090312/asset.JPG)
- 
-
-- -   --   -- -  ------
-
-### Nice Work :clap:
-As Per requirements Please Use at least 1 Orchestrator Assets and Orchestrator Queue.
-You can add Sender Email Id as an Asset and use Get Asset Method !!
-
-
-![aas.JPG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1629305181/aas.JPG)
-
-
-![orch.JPG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1629305122/orch.JPG)
-
-### Please fix this mandatory requirement !!
-
-- - - - -
-
 ## Great work on the PDD. :clap: :smile:
 
 * Process Overview :white_check_mark:
@@ -242,14 +240,28 @@ You can add Sender Email Id as an Asset and use Get Asset Method !!
 
 * [Docs](https://docs.uipath.com/task-capture/docs/details-about-the-pdd)
 
---- --             ----
+- - - - -
+
 ### Great work on the DSD.  :clap: :smile:
 * List of Packages :white_check_mark:
 * Master Project Runtime Details :white_check_mark:
 * Project Details (all parts) :white_check_mark:
 
--- - - - -
+--- - - - - - - -
 
+### Nice job so far!! However, to make your DSD perfect, you should do the following:
+
+* Add a runtime diagram. The runtime diagram should display the interaction between components (package/robots, Orchestrator queues). Check this [knowledge question](https://knowledge.udacity.com/questions/566782) for more information.
+
+* Under the "List of packages" section, you must mention the orchestrator packages that your process consists of not the activities packages. For example, if your process consists of dispatcher and performer, you must add two packages (the dispatcher and performer). if it consists of one process, you must add one package. In your case, you have one package and its name as the project name.
+
+### Fill the VI, VII fields. Check this [thread](https://knowledge.udacity.com/questions/367806) to learn how.
+
+### Please add Orchestrator Details.
+
+![dhruv.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1624622842/dhruv.PNG)
+
+------------
 
 ## Dear Student :thumbsup:
 ### You have met all the points mentioned Below :
@@ -278,20 +290,6 @@ where the student used each of the specific requirements above:
 -- three invoked workflows :white_check_mark:
 -- queue they used (or why they didn't use a queue) :white_check_mark:
 -- data manipulation function or activity :white_check_mark:
-
---- - - - - - - -
-
-### Nice job so far!! However, to make your DSD perfect, you should do the following:
-
-* Add a runtime diagram. The runtime diagram should display the interaction between components (package/robots, Orchestrator queues). Check this [knowledge question](https://knowledge.udacity.com/questions/566782) for more information.
-
-* Under the "List of packages" section, you must mention the orchestrator packages that your process consists of not the activities packages. For example, if your process consists of dispatcher and performer, you must add two packages (the dispatcher and performer). if it consists of one process, you must add one package. In your case, you have one package and its name as the project name.
-
-### Fill the VI, VII fields. Check this [thread](https://knowledge.udacity.com/questions/367806) to learn how.
-
-### Please add Orchestrator Details.
-
-![dhruv.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1624622842/dhruv.PNG)
 
 - - - - - -
 
