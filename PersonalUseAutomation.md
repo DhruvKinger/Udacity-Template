@@ -80,6 +80,24 @@ You have done excellent work using the log message activity! You used it to Log 
 
 -- - - - -
 
+### Nice Work :tada:
+
+Every .xaml file must have an annotation at the beginning (including a description, pre-condition, and post-action) and at any If statement, describing what the condition is testing. :white_check_mark: 
+
+All commented-out activities (or unused workflows) should be deleted for a clean workflow. :white_check_mark: 
+
+
+![ann.PNG](https://udacity-reviews-uploads.s .us-west-2.amazonaws.com/_attachments/3625268/1623910382/ann.PNG)
+-- - - - - 
+
+### Nice Work :tada:
+
+Every .xaml file must have an annotation at the beginning (including a description, pre-condition, and post-action) and at any If statement, describing what the condition is testing. :x: 
+
+All commented-out activities (or unused workflows) should be deleted for a clean workflow. :white_check_mark: 
+
+- -- - - 
+
 ## Excellent Work :smile:
 
 Modules should have a direct purpose with not more than 3 uses. Minimize the number of possible use cases for any given module to ensure reusability across multiple processes. ✅
@@ -241,27 +259,6 @@ where the student used each of the specific requirements above:
 
 --- - - - - - - -
 
-
-### Nice Work :tada:
-
-Every .xaml file must have an annotation at the beginning (including a description, pre-condition, and post-action) and at any If statement, describing what the condition is testing. :white_check_mark: 
-
-All commented-out activities (or unused workflows) should be deleted for a clean workflow. :white_check_mark: 
-
-
-![ann.PNG](https://udacity-reviews-uploads.s .us-west-2.amazonaws.com/_attachments/3625268/1623910382/ann.PNG)
--- - - - - 
-
-### Nice Work :tada:
-
-Every .xaml file must have an annotation at the beginning (including a description, pre-condition, and post-action) and at any If statement, describing what the condition is testing. :x: 
-
-All commented-out activities (or unused workflows) should be deleted for a clean workflow. :white_check_mark: 
-
-### For Reference :-
-![Screenshot (98).png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1624622356/Screenshot__98_.png)
-
-- -- - - 
 
 ### Excellent Work :tada:
 Use partial selectors where several activities are executed in the same window.  ✅
