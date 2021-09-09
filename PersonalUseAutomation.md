@@ -46,39 +46,6 @@ You have to do this section . It seems to be missing. You need to manage the exc
 ### However at some places you have missed it. For Example if Orchestrator crashes their is no Handling there. orchestrator httpexception should handle it in that case.
 --- - - - 
 
-## Excellent Work :smile:
-
-Modules should have a direct purpose with not more than 3 uses. Minimize the number of possible use cases for any given module to ensure reusability across multiple processes. ✅
-Split by Interface interaction. Split by over-complexity. If a student's module is very complex, they explain why it is necessary to not break it up. ✅
-
-All invoked workflows must be listed in the Whiteboard file. Each workflow must have a name, detailed description, pre-condition, post-action, and argument values.✅
-
-![dh.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1624622681/dh.PNG)
-
-- - - - -
-
-If there are multiple “Click”, “Type Into”, or other activities within the same application right after the other, they should be in a container called "Attach Browser...", "Attach Window...", “Open Application…”, or “Open Browser…”.
-
-### However this seems to be missing. 
-
-### For Reference See here :-
-
-![aaaa.JPG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1630042852/aaaa.JPG)
-
-- - - - - - 
-## Nice Work :tada: 
-
-You have done this section really well. :smile:
-If there are multiple “Click”, “Type Into”, or other activities within the same application right after the other, they should be in a container called "Attach Browser...", "Attach Window...", “Open Application…”, or “Open Browser…”.  ✅
-
--------
-
-## Excellent Work :tada:
-No more than 2 "If" activities should be nested within each other. Instead, this must be in a “Flowchart” or “Switch” activity to improve logic understanding. ✅
-
-Each branch should have an activity; if there is an empty branch, have a “Comment” activity explaining what this branch means. ✅
-- - --- - - -
-
 ### Great job !!
 you have done excellent work using the log message activity! You used it to Log the exception message in each catch section of the "Try Catch" activity!
 
@@ -113,6 +80,39 @@ You have done excellent work using the log message activity! You used it to Log 
 
 -- - - - -
 
+## Excellent Work :smile:
+
+Modules should have a direct purpose with not more than 3 uses. Minimize the number of possible use cases for any given module to ensure reusability across multiple processes. ✅
+Split by Interface interaction. Split by over-complexity. If a student's module is very complex, they explain why it is necessary to not break it up. ✅
+
+All invoked workflows must be listed in the Whiteboard file. Each workflow must have a name, detailed description, pre-condition, post-action, and argument values.✅
+
+![dh.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1624622681/dh.PNG)
+
+- - - - -
+
+If there are multiple “Click”, “Type Into”, or other activities within the same application right after the other, they should be in a container called "Attach Browser...", "Attach Window...", “Open Application…”, or “Open Browser…”.
+
+### However this seems to be missing. 
+
+### For Reference See here :-
+
+![aaaa.JPG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1630042852/aaaa.JPG)
+
+- - - - - - 
+## Nice Work :tada: 
+
+You have done this section really well. :smile:
+If there are multiple “Click”, “Type Into”, or other activities within the same application right after the other, they should be in a container called "Attach Browser...", "Attach Window...", “Open Application…”, or “Open Browser…”.  ✅
+
+-------
+
+## Excellent Work :tada:
+No more than 2 "If" activities should be nested within each other. Instead, this must be in a “Flowchart” or “Switch” activity to improve logic understanding. ✅
+
+Each branch should have an activity; if there is an empty branch, have a “Comment” activity explaining what this branch means. ✅
+
+- - - -- - 
 ## Great work using assets in the Project !!
 
 Use at least 1 Orchestrator Assets.  :white_check_mark:
