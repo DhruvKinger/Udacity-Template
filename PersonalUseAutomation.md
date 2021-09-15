@@ -8,6 +8,9 @@ All arguments must start with "in", "out", or "io".  ✅
 Each activity must be renamed to include the action, application name, or title it interacts with.  ✅
 
 
+### Additonal Resources:-
+* [Variables](https://docs.uipath.com/studio/docs/types-of-variables)
+
 ![abc.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1623947640/abc.PNG)
 
 -- - - - -
@@ -95,6 +98,7 @@ All commented-out activities (or unused workflows) should be deleted for a clean
 Every .xaml file must have an annotation at the beginning (including a description, pre-condition, and post-action) and at any If statement, describing what the condition is testing. :x: 
 
 All commented-out activities (or unused workflows) should be deleted for a clean workflow. :white_check_mark: 
+### Please Add Necessary Annotations.
 
 - -- - - 
 
@@ -209,6 +213,17 @@ All invoked workflows must be listed in the Whiteboard file. Each workflow must 
 ![dh.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1624622681/dh.PNG)
 
 - - - - -
+## Excellent Work :smile:
+
+Modules should have a direct purpose with not more than 3 uses. Minimize the number of possible use cases for any given module to ensure reusability across multiple processes. ✅
+Split by Interface interaction. Split by over-complexity. If a student's module is very complex, they explain why it is necessary to not break it up. ✅
+
+All invoked workflows must be listed in the Whiteboard file. Each workflow must have a name, detailed description, pre-condition, post-action, and argument values.:x:
+
+### Please Define all your WorkFlows in Whiteboard File !!
+
+- -- - -
+
 
 ## Great work on the PDD. :clap: :smile:
 
