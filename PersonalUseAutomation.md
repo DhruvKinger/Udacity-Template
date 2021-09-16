@@ -32,6 +32,8 @@ Great job using the “Try Catch” activity to handle potential errors!
 
 You have done this section really well I can see all the exceptions being declared and caught!!
 
+### Additional Resources :-
+* [Try-Catch](https://docs.uipath.com/activities/docs/try-catch)
 
 
 ![ccatch.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1623868796/ccatch.PNG)
