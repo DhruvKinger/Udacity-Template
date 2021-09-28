@@ -182,9 +182,9 @@ You have completed these steps correctly and created the images - Disk for requi
 
 ### Reference for more details:
 
-### Short Article for [Image Creation](https://next.nutanix.com/prism-infrastructure-management-26/ahv-vdisk-part-3-creating-an-image-of-or-from-an-existing-vdisk-33686)
+ Short Article for [Image Creation](https://next.nutanix.com/prism-infrastructure-management-26/ahv-vdisk-part-3-creating-an-image-of-or-from-an-existing-vdisk-33686)
 
-### Note: You need to change the name of the Container from Image to Images .
+**Note**: You need to change the name of the Container from ISO to Images.
 -  -- - - -
 
 ## Dear Student :clap: :tada:
