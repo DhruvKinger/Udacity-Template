@@ -109,9 +109,15 @@ As evidence, provide a screenshot of the configuration.✅
 
 ![runbook_email1.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1633280387/runbook_email1.png)
 
-
 - - - - - - 
 
+### Great Work :clap:
+* Email showing the alert was triggered
+* Metrics or other evidence showing the RunBook executed and resolved the issue.
+
+![runbook_alert_summary.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1633281521/runbook_alert_summary.png)
+
+- - - - - -
 
 ## Dear Student :smile:
 Please do all the changes as suggested by previous reviewer and then resubmit. you are still missing this expected screenshot.
