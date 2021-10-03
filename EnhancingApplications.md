@@ -9,6 +9,22 @@ Here is an additional reference [Link](https://docs.microsoft.com/en-us/azure/az
 ![ai_and_law_created.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1633277992/ai_and_law_created.png)
 
 ----------
+### Nice Work :clap:
+Thanks for including the screenshot of Application Insights monitoring enabled on the VMSS.
+
+As evidence, provide a screenshot of the metrics from the VM Scale Set instance. This should show the following information:
+
+CPU % ✅
+Available Memory % ✅
+Information about the Disk ✅
+Information about the bytes sent and received. ✅
+
+### Additional Info :-
+[Documentation](https://azure.microsoft.com/en-in/services/virtual-machine-scale-sets/)
+
+![vmss-enabled1.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1633278236/vmss-enabled1.png)
+
+- - - -- 
 
 ## Dear Student :smile:
 Please do all the changes as suggested by previous reviewer and then resubmit. you are still missing this expected screenshot.
