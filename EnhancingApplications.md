@@ -75,6 +75,19 @@ As evidence, provide a screenshot of your resource group containing your running
 
 - - - -- 
 
+### Awesome :tada:
+Configure an Azure Alert in Azure Monitor to trigger the RunBook. ✅
+
+As evidence, provide a screenshot of the configuration.✅
+
+### Additional Reference:-
+* [Azure Monitor](https://azure.microsoft.com/en-in/services/monitor/)
+
+![runbook_email1.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1633280387/runbook_email1.png)
+
+
+- - - - - - 
+
 
 ## Dear Student :smile:
 Please do all the changes as suggested by previous reviewer and then resubmit. you are still missing this expected screenshot.
