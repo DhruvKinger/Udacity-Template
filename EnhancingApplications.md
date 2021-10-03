@@ -45,6 +45,15 @@ As evidence, provide a screenshot of the Azure Alert and email sent when the ale
 
 - -- - - - - 
 
+Nice Work :tada:
+The output of the Horizontal Pod Autoscaler, showing an increase in the number of pods. ✅
+The Application Insights metrics which show the increase in the number of pods. ✅
+The email you received from the alert when the pod count increased. ✅
+
+![hpa_watch.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1633281908/hpa_watch.png)
+
+--------
+
 
 ### Great Work :tada:
 References to each of these objects should be found in the def index() function  ✅
