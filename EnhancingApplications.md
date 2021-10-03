@@ -47,6 +47,34 @@ logger ✅
 
 -- - - - -
 
+## Great Work :clap:
+### You have done great Job here.
+* **Application Insight Events that show the results of clicking vote for each Dogs & Cats** ✅
+* **The output of the traces query in Azure Log Analytics** ✅
+* **The chart created from the output of the traces query** ✅
+
+---  - - - - - -
+
+### Great Work :clap:
+Create an auto-scaling rule for a VMSS. ✅
+As evidence, provide a screenshot showing the conditions set for the auto scaling rule. This can be found in the Scaling item in the VM Scale Set. ✅
+
+### Additional Resources:
+* [VMSS  Overview](https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/virtual-machine-scale-sets-autoscale-overview)
+* [Deploy  VMSS](https://azure.microsoft.com/en-in/resources/templates/vmss-azure-files-linux/)
+
+- -- - - 
+
+### Great Work :clap:
+Azure Automation Account and RunBook resources are created. ✅
+
+As evidence, provide a screenshot of your resource group containing your running resources. ✅
+
+
+![automation_acount_and_runbook_resources.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1633280142/automation_acount_and_runbook_resources.png)
+
+- - - -- 
+
 
 ## Dear Student :smile:
 Please do all the changes as suggested by previous reviewer and then resubmit. you are still missing this expected screenshot.
@@ -56,3 +84,6 @@ You have attached a screenshot showing creation of horizontal pod autoscaler, ho
 
 ### Expected One: 
 ![sbc](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/385208/1616600479/Screenshot_2021-03-24_at_9.09.22_PM.png)
+
+-- - - - --
+
