@@ -26,6 +26,28 @@ Information about the bytes sent and received. ✅
 
 - - - -- 
 
+### Nice Work :clap:
+
+You have did it as per expectations.
+Enable Application Insights on the AKS cluster created from the provided script create-cluster.sh ✅
+
+As evidence, provide a screenshot showing Application Insights is enabled on the AKS cluster. ✅
+
+- - - - - -
+
+### Great Work :tada:
+References to each of these objects should be found in the def index() function  ✅
+Import and reference the correct libraries for Application Insights ✅
+
+Add code to reference the Application Insights Instrumentation key. The objects that will use this key include:
+exporter ✅
+tracer ✅
+flask middleware ✅
+logger ✅
+
+-- - - - -
+
+
 ## Dear Student :smile:
 Please do all the changes as suggested by previous reviewer and then resubmit. you are still missing this expected screenshot.
 
