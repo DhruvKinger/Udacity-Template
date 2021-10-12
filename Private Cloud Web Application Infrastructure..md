@@ -97,7 +97,7 @@ It was my pleasure to review this wonderful project. Please continue with this s
 
 [High Availability and Data Protection](https://www.nutanix.com/blog/nutanix-high-availability-and-data-protection)
 
-
+- - - - - -
 ## Failed Project !!
 
 ### There are two major parts to the E-mail text file. They are,
