@@ -32,6 +32,14 @@ Excellent Work in configuration part of the Azure Functions. Keep Learning and g
 
 ---------
 
+### Well Done :star:
+Great Job Creating explanation of the services, See another submission of this component.
+
+![hhh.JPG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1634527414/hhh.JPG)
+
+
+- - - - - - - -
+
 ### Excellent Work :smile:
 See another reference screenshot how to prepare writeup.md file for cost analysis.
 You can use [Azure Pricing Calculator](https://azure.microsoft.com/en-in/pricing/calculator/) to do that so.
