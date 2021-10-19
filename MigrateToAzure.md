@@ -15,7 +15,30 @@ Here is an additional [Link](https://docs.microsoft.com/en-us/azure/app-service/
 
 
 ![App_Running.jpg](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1634638688/App_Running.jpg)
+
 - -- - - - - - 
+
+### Great Work :star:
+You have deployed databases as per expected requirement.
+
+Here is an additional [Link](https://azure.microsoft.com/en-in/product-categories/databases/) of Azure Databases.
+
+![Postgresql_Database_Resource.jpeg](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1634638795/Postgresql_Database_Resource.jpeg)
+
+------
+### Well Done :clap:
+Excellent Work in configuration part of the Azure Functions. Keep Learning and growing like that.
+![Function_App_Name.jpeg](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1634638923/Function_App_Name.jpeg)
+
+---------
+
+### Excellent Work :smile:
+See another reference screenshot how to prepare writeup.md file for cost analysis.
+You can use [Azure Pricing Calculator](https://azure.microsoft.com/en-in/pricing/calculator/) to do that so.
+- - - - - -- 
+![abc](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1634527309/abd.JPG)
+
+-- - -  - - -
 
 
 ## Dear Student,
