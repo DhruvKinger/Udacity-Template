@@ -7,6 +7,8 @@ Yes, the folder seems to be correct. :tada: You are done with all formats asked 
 - - - - -
 ## Excellent Work :tada:
 Yes, this thing is working fine! No file is left after sorting! You are good to go with this! :tada:
+verify that no file is left in the downloaded folder. ✅
+All the reports have been moved into appropriate folders.✅
 
 ![Capture.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1617007785/Capture.PNG)
 
