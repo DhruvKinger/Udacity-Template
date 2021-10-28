@@ -37,6 +37,8 @@ As evidence, provide a screenshot showing Application Insights is enabled on the
 
 ### Excellent Work :tada:
 
+All the requirements in this Point are as per the expectations.
+
 Create an Azure Alert in Azure Monitor. This alert should trigger when the number of pods increases beyond a certain threshold. ✅
 
 As evidence, provide a screenshot of the Azure Alert and email sent when the alert is triggered. ✅
@@ -45,11 +47,13 @@ As evidence, provide a screenshot of the Azure Alert and email sent when the ale
 
 - -- - - - - 
 
-Nice Work :tada:
+### Nice Work :tada:
+```
+I can clearly see this in your submission.
 The output of the Horizontal Pod Autoscaler, showing an increase in the number of pods. ✅
 The Application Insights metrics which show the increase in the number of pods. ✅
 The email you received from the alert when the pod count increased. ✅
-
+```
 ![hpa_watch.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1633281908/hpa_watch.png)
 
 --------
