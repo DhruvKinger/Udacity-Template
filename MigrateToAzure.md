@@ -1,5 +1,5 @@
-### Great Work :tada:
-Verify that the app service plan is an F1 or a B1 :white_check_mark:
+### Great Work :tada: 😃
+Your Submission Verifies that the app service plan is F1 or a B1 :white_check_mark:
 
 ### Additional Resource :-
 [App Plan Tiers](https://samcogan.com/what-is-an-azure-app-service-plan-and-what-does-it-do/)
