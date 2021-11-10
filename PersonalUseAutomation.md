@@ -8,7 +8,7 @@ All arguments must start with "in", "out", or "io".  ✅
 Each activity must be renamed to include the action, application name, or title it interacts with.  ✅
 
 
-### Additonal Resources:-
+### Additional Resources:-
 * [Variables](https://docs.uipath.com/studio/docs/types-of-variables)
 
 ![abc.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1623947640/abc.PNG)
