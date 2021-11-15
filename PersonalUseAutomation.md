@@ -180,6 +180,8 @@ You can add Sender Email Id as an Asset and use Get Asset Method !!
 
 ### Please fix this mandatory requirement !!
 
+### However there should be no hard-coded values in the workflow.
+
 ---- ----
 
 ### Excellent Work here !!  :tada:
@@ -260,9 +262,9 @@ All invoked workflows must be listed in the Whiteboard file. Each workflow must 
 * Unknown Exceptions :white_check_mark:
 * Known Errors or Exceptions :white_check_mark:
 
-### The As-Is and To-Be Process Map figures are missing !!
-
-### The Detail Process Map figure needs to be more detailed !!
+### Missing Points:-
+* The As-Is and To-Be Process Map figures are missing !!
+* Exceptions are not defined.
 
 ### Additional Resource :-
 
