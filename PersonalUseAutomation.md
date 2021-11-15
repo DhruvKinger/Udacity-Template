@@ -63,6 +63,10 @@ You have done excellent work using the log message activity! You used it to Log 
 
 ```
 
+- - - - - - - -
+### Additional Resources :-
+* [Logging-Levels](https://docs.uipath.com/studio/docs/logging-levels)
+
 ![snipz.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1623868867/snipz.PNG)
 
 --- -- - - - 
