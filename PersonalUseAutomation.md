@@ -52,7 +52,7 @@ You have to do this section . It seems to be missing. You need to manage the exc
 --- - - - 
 
 ### Great job !!
-you have done excellent work using the log message activity! You used it to Log the exception message in each catch section of the "Try Catch" activity!
+You have done excellent work using the log message activity! You used it to Log the exception message in each catch section of the "Try Catch" activity!
 
 ```
  Logging specific state changes within the workflow. Like the beginning and end of each workflow
