@@ -47,6 +47,19 @@ As evidence, provide a screenshot of the Azure Alert and email sent when the ale
 
 - -- - - - - 
 
+## Excellent Work :tada:
+
+### All the requirements in this Point are as per the expectations except only one.
+
+Create an Azure Alert in Azure Monitor. This alert should trigger when the number of pods increases beyond a certain threshold. ✅
+
+As evidence, provide a screenshot of the Azure Alert and email sent when the alert is triggered. :x:
+
+### Note: Please upload the screenshot of Email received.
+
+- -- - - - 
+
+
 ### Nice Work :tada:
 ```
 I can clearly see this in your submission.
@@ -130,6 +143,15 @@ As evidence, provide a screenshot of the configuration.✅
 
 ![runbook_alert_summary.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1633281521/runbook_alert_summary.png)
 
+---------
+
+### Great Work :clap:
+* Email showing the alert was triggered :x: 
+* Metrics or other evidence showing the RunBook executed and resolved the issue. ✅
+
+### Note: Please upload the screenshot of Email received.
+
+
 - - - - - -
 ## Dear Student,
 ### Congratulations! 🎉
@@ -149,6 +171,24 @@ I was impressed with the effort made on this submission. Especially in Applicati
 * [Docker](https://www.youtube.com/watch?v=fqMOX6JJhGo)
 
 - - - - - 
+## Dear Student,
+### Almost Done! 🎉
+
+I was impressed with the effort made on this submission. Especially in Application Insights and VM Scale Set. This is so cool.😎 It was my pleasure to review this wonderful project. I like how consistent and patient you have been in implementing this project. Most of the concept displayed shows you have grasped a lot from the classroom.
+You are left with only few changes. I have mentioned those in detail.
+------ - - - 
+### Keep Learning, All the best 👍🏼👍🏼
+
+### Additional Resources 💡:-
+### Below are some helpful resources related to the project implementation:
+
+* [Azure Application Insights](https://mindmajix.com/azure-application-insights)
+* [Azure Databases](https://azure.microsoft.com/en-in/blog/topics/database/)
+* [Blogs Link](https://github.com/DhruvKinger/Link-of-all-blogs)
+* [Docker](https://www.youtube.com/watch?v=fqMOX6JJhGo)
+
+ - - - --  - 
+
 
 ## Dear Student :smile:
 Please do all the changes as suggested by previous reviewer and then resubmit. you are still missing this expected screenshot.
