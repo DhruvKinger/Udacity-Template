@@ -161,5 +161,9 @@ You have attached a screenshot showing creation of horizontal pod autoscaler, ho
 
 -- - - - --
 
+## Dear Student 😄
+Please submit necessary screenshots in your submission and hence you're required to include that in your submission. Please read rubric points again and then resubmit.
 
+Thanks :smile:
 
+- - - - -
