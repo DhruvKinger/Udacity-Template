@@ -41,6 +41,15 @@ Here is an additional [Learning](https://azure.microsoft.com/en-in/services/func
 ![Function_App_Name.jpeg](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1634638923/Function_App_Name.jpeg)
 
 ---------
+### Well Done :clap:
+Excellent Work in configuration part of the Azure Functions. Keep Learning and growing like that.
+
+
+Here is an additional [Learning](https://azure.microsoft.com/en-in/services/functions/) Resource.
+
+### Note: Pls attach screenshot of your function app.
+
+--------
 
 ### Well Done :star:
 Great Job Creating explanation of the services, See another submission of this component.
