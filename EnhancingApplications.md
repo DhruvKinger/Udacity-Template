@@ -138,8 +138,8 @@ As evidence, provide a screenshot of the configuration.✅
 - - - - - - 
 
 ### Great Work :clap:
-* Email showing the alert was triggered
-* Metrics or other evidence showing the RunBook executed and resolved the issue.
+* Email showing the alert was triggered ✅
+* Metrics or other evidence showing the RunBook executed and resolved the issue. ✅
 
 ![runbook_alert_summary.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1633281521/runbook_alert_summary.png)
 
