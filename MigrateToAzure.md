@@ -51,6 +51,16 @@ Here is an additional [Learning](https://azure.microsoft.com/en-in/services/func
 
 --------
 
+### Excellent Work :tada:
+* Submitting a new notification :white_check_mark:
+* Notification processed after executing the Azure function :white_check_mark:
+
+### However your submission should contain number of attendees notified as well as the completion date.
+
+![boss.jpg](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1637497902/boss.jpg)
+
+- -- - - - - -
+
 ### Well Done :star:
 Great Job Creating explanation of the services, See another submission of this component.
 
@@ -67,7 +77,14 @@ You can use [Azure Pricing Calculator](https://azure.microsoft.com/en-in/pricing
 ![abc](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1634527309/abd.JPG)
 
 -- - -  - - -
+### Excellent Work :smile:
+You need some fixes in it.
+You can use [Azure Pricing Calculator](https://azure.microsoft.com/en-in/pricing/calculator/) to do that so.
 
+### Fixes
+* Pls mention cost of all resources used say you are missing function app.
+
+------
 
 ## Dear Student,
 
