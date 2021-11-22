@@ -283,7 +283,9 @@ All invoked workflows must be listed in the Whiteboard file. Each workflow must 
 
 --- - - - - - - -
 
-### Nice job so far!! However, to make your DSD perfect, you should do the following:
+### Nice job so far :smile: 
+
+** However, to make your DSD perfect, you should do the following: **
 
 * Add a runtime diagram. The runtime diagram should display the interaction between components (package/robots, Orchestrator queues). Check this [knowledge question](https://knowledge.udacity.com/questions/566782) for more information.
 
@@ -291,7 +293,7 @@ All invoked workflows must be listed in the Whiteboard file. Each workflow must 
 
 ### Fill the VI, VII fields. Check this [thread](https://knowledge.udacity.com/questions/367806) to learn how.
 
-### Please add Orchestrator Details.
+** Please add Orchestrator Details. **
 
 ![dhruv.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1624622842/dhruv.PNG)
 
