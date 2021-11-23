@@ -9,6 +9,18 @@ Here is an additional reference [Link](https://docs.microsoft.com/en-us/azure/az
 ![ai_and_law_created.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1633277992/ai_and_law_created.png)
 
 ----------
+
+
+### Brilliant start,:tada:
+Please Provide a screenshot of your resources.
+Here is an additional reference [Link](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/manage-resource-groups-portal) on Azure resource groups !!
+
+** For Reference :- **
+
+![ai_and_law_created.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1633277992/ai_and_law_created.png)
+
+_ _ _  _ _ _ _
+
 ### Nice Work :clap:
 Thanks for including the screenshot of Application Insights monitoring enabled on the VMSS.
 
@@ -65,11 +77,21 @@ As evidence, provide a screenshot of the Azure Alert and email sent when the ale
 I can clearly see this in your submission.
 The output of the Horizontal Pod Autoscaler, showing an increase in the number of pods. ✅
 The Application Insights metrics which show the increase in the number of pods. ✅
-The email you received from the alert when the pod count increased. ✅
+The email you received from the alert when the pod count increased. 
 ```
 ![hpa_watch.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1633281908/hpa_watch.png)
 
---------
+-------- 
+### Nice Work :tada:
+```
+I can clearly see this in your submission.
+The output of the Horizontal Pod Autoscaler, showing an increase in the number of pods. ✅
+The Application Insights metrics which show the increase in the number of pods. ✅
+The email you received from the alert when the pod count increased. ✖️
+```
+** Plz attach screenshot of alert Email. **
+
+- - - - - -
 
 
 ### Great Work :tada:
@@ -124,6 +146,15 @@ As evidence, provide a screenshot of your resource group containing your running
 ![criteria 0-Resource group containing your running resources.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1635058083/criteria_0-Resource_group_containing_your_running_resources.png)
 
 - - - -- 
+
+### Great Work :clap:
+Azure Automation Account and RunBook resources are created. ✅
+
+As evidence, provide a screenshot of your resource group containing your running resources. :x:
+
+### Here is an additional reference [Link](https://azure.microsoft.com/en-in/blog/introducing-the-azure-automation-runbook-gallery/) for the same.
+
+- - - - -
 
 ### Awesome :tada:
 Configure an Azure Alert in Azure Monitor to trigger the RunBook. ✅
