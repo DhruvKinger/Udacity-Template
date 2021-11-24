@@ -70,10 +70,22 @@ Great Job Creating explanation of the services, See another submission of this c
 
 - - - - - - - -
 
+### Well Done :star:
+Great Job Creating explanation of the services, See another submission of this component.
+
+** Student provides a README that includes a short explanation and reasoning of the architecture selected for both the Azure web app and the Azure function in terms of cost-effectiveness ** :x:
+
+** Please Provide detail Info of Services you have used. **
+
+- - - - -- - - -
+
 ### Excellent Work :smile:
 See another reference screenshot how to prepare writeup.md file for cost analysis.
 You can use [Azure Pricing Calculator](https://azure.microsoft.com/en-in/pricing/calculator/) to do that so.
+
 - - - - - -- 
+
+### For Reference :- 
 ![abc](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1634527309/abd.JPG)
 
 -- - -  - - -
