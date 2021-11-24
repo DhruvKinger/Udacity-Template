@@ -83,6 +83,7 @@ The student should be able to create a cluster with one node. ✅
 
 ![9-kubernetes1.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615660510/9-kubernetes1.PNG)
 - -----
+
 ## Dear Student,
 
 ![congrats.gif](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615661006/congrats.gif)
