@@ -125,9 +125,9 @@ As evidence, provide a screenshot showing the conditions set for the auto scalin
 - -- - - 
 
 ### Nice Work :tada:
-* The Activity log of the VM scale set that shows it scaled up, including a timestamp.
-* The new instances being created.
-* The metrics showing the load increasing, then decreasing once scaled up, including a timestamp.
+* The Activity log of the VM scale set that shows it scaled up, including a timestamp. ✅
+* The new instances being created. ✅
+* The metrics showing the load increasing, then decreasing once scaled up, including a timestamp. ✅
 
 
 
@@ -145,16 +145,7 @@ As evidence, provide a screenshot of your resource group containing your running
 
 ![criteria 0-Resource group containing your running resources.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1635058083/criteria_0-Resource_group_containing_your_running_resources.png)
 
-- - - -- 
-
-### Great Work :clap:
-Azure Automation Account and RunBook resources are created. ✅
-
-As evidence, provide a screenshot of your resource group containing your running resources. :x:
-
-### Here is an additional reference [Link](https://azure.microsoft.com/en-in/blog/introducing-the-azure-automation-runbook-gallery/) for the same.
-
-- - - - -
+-- - - - - - -
 
 ### Awesome :tada:
 Configure an Azure Alert in Azure Monitor to trigger the RunBook. ✅
