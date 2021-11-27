@@ -17,7 +17,7 @@ Here is an additional reference [Link](https://docs.microsoft.com/en-us/azure/az
 
 ** For Reference :- **
 
-![ai_and_law_created.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1633277992/ai_and_law_created.png)
+![reference](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1633277992/ai_and_law_created.png)
 
 _ _ _  _ _ _ _
 
