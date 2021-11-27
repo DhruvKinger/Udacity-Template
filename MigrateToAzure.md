@@ -59,7 +59,7 @@ Here is an additional [Learning](https://azure.microsoft.com/en-in/services/func
 
 ![boss.jpg](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1637497902/boss.jpg)
 
-- -- - - - - - Passed One 
+- -- - - - - - 
 
 ### Well Done :star:
 Great Job Creating explanation of the services, See another submission of this component.
@@ -68,7 +68,8 @@ Great Job Creating explanation of the services, See another submission of this c
 ![hhh.JPG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1634527414/hhh.JPG)
 
 
-- - - - - - - - Failed One 
+- - - - - - - - 
+
 
 ## Excellent Work :smile:
 ** You need some fixes in it. **
