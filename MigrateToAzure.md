@@ -37,13 +37,13 @@ You have submitted the correct screenshot that shows the list of attendees.
 Excellent Work in configuration part of the Azure Functions. Keep Learning and growing like that.
 
 
-Here is an additional [Learning](https://azure.microsoft.com/en-in/services/functions/) Resource.
+** Here is an additional [Learning](https://azure.microsoft.com/en-in/services/functions/) Resource. **
 ![Function_App_Name.jpeg](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1634638923/Function_App_Name.jpeg)
 
 ---------
+
 ### Well Done :clap:
 Excellent Work in configuration part of the Azure Functions. Keep Learning and growing like that.
-
 
 Here is an additional [Learning](https://azure.microsoft.com/en-in/services/functions/) Resource.
 
@@ -59,7 +59,7 @@ Here is an additional [Learning](https://azure.microsoft.com/en-in/services/func
 
 ![boss.jpg](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1637497902/boss.jpg)
 
-- -- - - - - -
+- -- - - - - - Passed One 
 
 ### Well Done :star:
 Great Job Creating explanation of the services, See another submission of this component.
@@ -68,10 +68,10 @@ Great Job Creating explanation of the services, See another submission of this c
 ![hhh.JPG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1634527414/hhh.JPG)
 
 
-- - - - - - - -
+- - - - - - - - Failed One 
 
-### Well Done :star:
-Great Job Creating explanation of the services, See another submission of this component.
+## Excellent Work :smile:
+** You need some fixes in it. **
 
 ** Student provides a README that includes a short explanation and reasoning of the architecture selected for both the Azure web app and the Azure function in terms of cost-effectiveness ** :x:
 
@@ -83,17 +83,16 @@ Great Job Creating explanation of the services, See another submission of this c
 See another reference screenshot how to prepare writeup.md file for cost analysis.
 You can use [Azure Pricing Calculator](https://azure.microsoft.com/en-in/pricing/calculator/) to do that so.
 
-- - - - - -- 
-
 ### For Reference :- 
 ![abc](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1634527309/abd.JPG)
 
 -- - -  - - -
+
 ### Excellent Work :smile:
 You need some fixes in it.
 You can use [Azure Pricing Calculator](https://azure.microsoft.com/en-in/pricing/calculator/) to do that so.
 
-### Fixes
+### Fixes :-
 * Pls mention cost of all resources used say you are missing function app.
 
 ------
