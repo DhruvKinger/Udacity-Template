@@ -67,7 +67,7 @@ Create an Azure Alert in Azure Monitor. This alert should trigger when the numbe
 
 As evidence, provide a screenshot of the Azure Alert and email sent when the alert is triggered. :x:
 
-### Note: Please upload the screenshot of Email received.
+** Note: Please upload the screenshot of Email received. **
 
 - -- - - - 
 
