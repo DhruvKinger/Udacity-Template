@@ -27,7 +27,7 @@ Here is an additional [Link](https://azure.microsoft.com/en-in/product-categorie
 
 ------
 ### Excellent Work :clap:
-You have submitted the correct screenshot that shows the list of attendees.
+** You have submitted the correct screenshot that shows the list of attendees. **
 
 ![2.2.1_Add_Attendee.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1636435803/2.2.1_Add_Attendee.PNG)
 
