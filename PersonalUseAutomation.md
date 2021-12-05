@@ -151,9 +151,11 @@ Use “Find Element” or “Element Exists” activities to wait for loading or
 Use partial selectors where several activities are executed in the same window.  ✅
 
 -----
-Use partial selectors where several activities are executed in the same window.  :x: 
 
-This section seems to be missing it will be done once you use the attach browser activity.
+### Dear Student :smile:
+Use partial selectors where several activities are executed in the same window.   :x: 
+
+** This section seems to be missing it will be done once you use the attach browser activity. **
 
 ![aaaa.JPG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1630042981/aaaa.JPG)
 
@@ -173,8 +175,8 @@ Use at least 1 Orchestrator Queue.  :white_check_mark:
 -- - - - -
 
 ### Nice Work :clap:
-As Per requirements Please Use at least 1 Orchestrator Assets and Orchestrator Queue.
-You can add Sender Email Id as an Asset and use Get Asset Method !!
+As Per requirements Please Use at least 1 Orchestrator Assets and Orchestrator Queue. :x:
+** You can add Sender Email Id as an Asset and use Get Asset Method !! **
 
 
 ![aas.JPG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1629305181/aas.JPG)
