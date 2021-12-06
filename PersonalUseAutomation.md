@@ -293,7 +293,7 @@ All invoked workflows must be listed in the Whiteboard file. Each workflow must 
 
 * Under the "List of packages" section, you must mention the orchestrator packages that your process consists of not the activities packages. For example, if your process consists of dispatcher and performer, you must add two packages (the dispatcher and performer). if it consists of one process, you must add one package. In your case, you have one package and its name as the project name.
 
-### Fill the VI, VII fields. Check this [thread](https://knowledge.udacity.com/questions/367806) to learn how.
+** Fill the VI, VII fields. Check this [thread](https://knowledge.udacity.com/questions/367806) to learn how. **
 
 ** Please add Orchestrator Details. **
 
