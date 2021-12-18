@@ -173,6 +173,7 @@ Good Read on [NTP usability.](https://next.nutanix.com/installation-configuratio
 
 ## Ideally, it should look something Like this :
 ![Capture4.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3935679/1609335240/Capture4.PNG)
+
 - - - - -
 
 ### Good work. :star: :clap:
@@ -184,7 +185,8 @@ You have completed these steps correctly and created the images - Disk for requi
 
  Short Article for [Image Creation](https://next.nutanix.com/prism-infrastructure-management-26/ahv-vdisk-part-3-creating-an-image-of-or-from-an-existing-vdisk-33686)
 
-**Note**: You need to change the name of the Container from ISO to Images.
+**Note: You need to change the name of the Container from ISO to Images.**
+
 -  -- - - -
 
 ## Dear Student :clap: :tada:
