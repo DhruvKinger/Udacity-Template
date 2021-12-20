@@ -45,9 +45,9 @@ You have completed these steps correctly and created the images - Disk for requi
 
 ![Images.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1604367727/Images.PNG)
 
-### Reference for more details:
+** Reference for more details: **
 
-### Short Article for [Image Creation](https://next.nutanix.com/prism-infrastructure-management-26/ahv-vdisk-part-3-creating-an-image-of-or-from-an-existing-vdisk-33686)
+** Short Article for [Image Creation](https://next.nutanix.com/prism-infrastructure-management-26/ahv-vdisk-part-3-creating-an-image-of-or-from-an-existing-vdisk-33686) **
 
 -----
 
