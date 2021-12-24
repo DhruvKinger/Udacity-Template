@@ -126,6 +126,7 @@ Here is an additional [Link](https://docs.microsoft.com/en-us/azure/azure-monito
 
 Successful is missing in your submission.
 - -- - - 
+
 ## Dear Student :smile:
 ### Almost there! :tada:
 Just minor bugs :ant: required in order to complete the project
@@ -141,7 +142,8 @@ Until next time :wave:
 * [Azure Databases](https://azure.microsoft.com/en-in/blog/topics/database/)
 * [Blogs Link](https://github.com/DhruvKinger/Link-of-all-blogs)
 * [Docker](https://www.youtube.com/watch?v=fqMOX6JJhGo)
- ---
+ 
+ ---- - - - - - -
  
  ### Magnificent work!
 The Python web app is able to connect to the related storage solutions.
