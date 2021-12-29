@@ -118,7 +118,7 @@ You need to rename the name of Managed network to Production !! Rest Everything 
 - - - -
 
 ### Good work. :tada:
-You need to rename the name of Unmanaged network to Development !! Rest Everything seems to be fine !! In a real-time scenario, there will be multiple Managed networks, and providing correct naming convention is very important
+You need to rename the name of Unmanaged network to Development !! Rest Everything seems to be fine !! In a real-time scenario, there will be multiple Unmanaged networks, and providing correct naming convention is very important
 
 -- - - -
 :100: Production VMs need to be correctly set and require correct Naming convention.
