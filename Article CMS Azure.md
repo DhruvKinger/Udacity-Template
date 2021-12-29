@@ -25,10 +25,12 @@ Thanks for including the screenshot of your blob storage. It looked like you pro
 
 ### Additional Resource:-
 [Azure Storage](https://docs.microsoft.com/en-us/azure/storage/common/storage-account-overview)
+
 ---
 ### Well done :tada:
 
-* You have correctly analyzed the costs, scalability, availability, and workflow for both VM and App Service 👍👍
+* You have correctly analyzed the costs, scalability, availability, and workflow for both VM
+ and App Service 👍👍
 * Great work on choosing App Service for deploying the app and justifying your choice 👍👍
 
 - - -  - -
@@ -43,7 +45,7 @@ Thanks for including the screenshot of your blob storage. It looked like you pro
 - -- - ---
 ## Well done :tada:
 
-### You have correctly assessed the changes in case you want to change your decision in future ✅👍👍
+** You have correctly assessed the changes in case you want to change your decision in future ✅👍👍 **
 
 IT IS A VALUABLE SKILL TO KNOW THE ADVANTAGES AND DISADVANTAGES OF THE VM AND APP SERVICE OFFERING TO MAKE REASONABLE DECISIONS. THIS WILL ALLOW YOU TO ADAPT TO THE NEEDS OF A SPECIFIC CASE.
 
@@ -53,6 +55,7 @@ Great work deploying your Article CMS web app! I can easily see the deployed app
 I can see the screenshot in your submission :star:
 
 Here is a **[Link](https://www.telerik.com/blogs/nine-performance-tips-for-azure-app-services) **to Improve the Performance of your Web Apps !!
+
 ---
 
 ### Magnificent work! :tada:
@@ -75,6 +78,7 @@ Here is an additional [Link](https://docs.microsoft.com/en-us/azure/azure-monito
 ![logs.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615612417/logs.png)
 
 ----
+
 ## Dear Student,
 ![congrats.gif](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1616011471/congrats.gif)
 
@@ -92,6 +96,7 @@ Keep Learning, All the best 👍🏼👍🏼
 
 ### Mine Submission :-
 ![sw](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1619977073/Screenshot__19_.png)
+
 ----  ----
 
 ## Failed Points !!
