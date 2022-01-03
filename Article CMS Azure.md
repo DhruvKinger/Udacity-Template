@@ -9,6 +9,7 @@ Here is an additional reference [Link](https://docs.microsoft.com/en-us/azure/az
 
 ![azure-portal-resource-group.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1619475362/azure-portal-resource-group.png)
 ----
+
 ## Another fine job here. 
 You have successfully created a DBO.POSTS and DBO.USERS databases to keep records of the data we might input and use later :clap: :tada:
 
@@ -133,9 +134,9 @@ Successful is missing in your submission.
 - -- - - 
 
 ## Dear Student :smile:
-### Almost there! :tada:
-Just minor bugs :ant: required in order to complete the project
-I was impressed with the effort made on this submission. Especially configuration of the redirects. This is so cool.:sunglasses:
+### Excellent Submission ! :tada:
+Just small changes are required in order to complete the project.
+I was impressed with the effort made on this submission. Especially configuration of the redirects. This is so cool. :sunglasses:
 You only need to update your writeup and submit successful and unsuccessful login attempts Screenshots.
 All the very best for the next submission :smile:.
 
