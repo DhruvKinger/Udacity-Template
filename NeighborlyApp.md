@@ -68,6 +68,7 @@ Here is a **[Link](https://www.telerik.com/blogs/nine-performance-tips-for-azure
 
 ### Additional Resources :-
 * [Azure Static Web Apps](https://azure.microsoft.com/en-in/services/app-service/static/)
+
 - - - -
 
 ### Awesome :star:
@@ -155,6 +156,7 @@ Students should be able to create a Logic App that watches for an HTTP trigger. 
 * [Azure Logic App](https://medium.com/@dhruvkinger813/social-media-sentimental-analysis-using-azure-logic-apps-5dc8147c42ee)
 
 **Note**: Everything here is fine you only need to provide a screenshot of the Azure Logic App Designer !!
+
 --
 
 ### Dear Student
