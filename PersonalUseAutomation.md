@@ -187,7 +187,7 @@ As Per requirements Please Use at least 1 Orchestrator Assets and Orchestrator Q
 
 ### Please fix this mandatory requirement !!
 
-### However there should be no hard-coded values in the workflow.
+### However there should be no hard-coded values in the workflow. You can use asset for the same.
 
 ---- ----
 
@@ -286,7 +286,7 @@ All invoked workflows must be listed in the Whiteboard file. Each workflow must 
 
 --- - - - - - - -
 
-### Nice job so far :smile: 
+## Nice job so far :smile: 
 
 ** However, to make your DSD perfect, you should do the following: **
 
