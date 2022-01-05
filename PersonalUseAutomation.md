@@ -48,7 +48,8 @@ You have to do this section . It seems to be missing. You need to manage the exc
 ![ccatch.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1623868796/ccatch.PNG)
 
 
-### However at some places you have missed it. For Example if Orchestrator crashes their is no Handling there. orchestrator httpexception should handle it in that case.
+** However at some places you have missed it. For Example if Orchestrator crashes their is no Handling there. orchestrator httpexception should handle it in that case. **
+
 --- - - - 
 
 ### Great job !!
