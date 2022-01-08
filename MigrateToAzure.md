@@ -38,6 +38,7 @@ Excellent Work in configuration part of the Azure Functions. Keep Learning and g
 
 
 ** Here is an additional [Learning](https://azure.microsoft.com/en-in/services/functions/) Resource. **
+
 ![Function_App_Name.jpeg](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1634638923/Function_App_Name.jpeg)
 
 ---------
