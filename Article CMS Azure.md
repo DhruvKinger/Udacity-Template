@@ -52,10 +52,12 @@ IT IS A VALUABLE SKILL TO KNOW THE ADVANTAGES AND DISADVANTAGES OF THE VM AND AP
 
 --- -  --
 
-Great work deploying your Article CMS web app! I can easily see the deployed app URL in the screenshot.
-I can see the screenshot in your submission :star:
+## Excellent Work :tada:
+I can easily see the deployed app URL in your submission. You have clearly met the rubric point.
 
-Here is a **[Link](https://www.telerik.com/blogs/nine-performance-tips-for-azure-app-services) **to Improve the Performance of your Web Apps !!
+### Additional Resources
+* [Static Web Apps](https://azure.microsoft.com/en-in/services/app-service/static/#overview)
+* [Improve the Performance of your Web Apps](https://www.telerik.com/blogs/nine-performance-tips-for-azure-app-services)
 
 ---
 
