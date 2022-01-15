@@ -119,11 +119,13 @@ Keep Learning, All the best 👍🏼👍🏼
 * [Scalability](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree#scalability)
 
 * [Availability](https://azure.microsoft.com/en-in/support/legal/sla/virtual-machines/v1_9/)
+
  -----
  
 Required same change as Mentioned Above !!
 Very Well Done :tada:
 Here is a useful=> [Link](https://docs.microsoft.com/en-us/azure/cost-management-billing/) you can take reference from this and see cost estimation!
+
 ---
 
 ### Excellent Work here too! :smile:
