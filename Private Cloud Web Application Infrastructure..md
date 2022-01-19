@@ -1,12 +1,14 @@
 ## Passed Project !!
 
 ### Good work. :tada: :clap:
-You have attached the excel which has the configuration details generated from Nutanix.
+Thanks for submitting the excel file. 
+Your attached excel which has the configuration details generated from Nutanix.
 
 - - - - - - - -
 
 ### Nice work! :star:
-A text file CTOEmail.txt containing a thorough summary of the tasks performed, based on emails from the CTO, networking team, and systems administration team had been submitted. ✅
+* A text file CTOEmail.txt containing a thorough summary of the tasks performed, based on emails from the CTO, networking team, and systems administration team had been submitted. ✅
+* Configuration Criteria should be included in the email. ✅
 
 - - - - - - - -
 
@@ -22,6 +24,7 @@ Good Read on [NTP usability.](https://next.nutanix.com/installation-configuratio
 
 
 - - - - - - - -
+
 ### Well done. :100: :tada:
 ```
 Domain Name Server configuration correctly added. It is part of Google Public DNS which has id such as 8.8.8.8 or 8.8.4.4
