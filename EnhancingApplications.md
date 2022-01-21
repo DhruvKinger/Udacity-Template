@@ -147,6 +147,17 @@ As evidence, provide a screenshot of your resource group containing your running
 
 -- - - - - - -
 
+### Great Work :clap:
+Azure Automation Account and RunBook resources are created. ✅
+
+As evidence, provide a screenshot of your resource group containing your running resources. :x:
+
+**  Here is an additional reference [Link](https://azure.microsoft.com/en-in/blog/introducing-the-azure-automation-runbook-gallery/) for the same. **
+
+** Plz provide resource group screenshot. **
+
+- - - - -
+
 ### Awesome :tada:
 Configure an Azure Alert in Azure Monitor to trigger the RunBook. ✅
 
