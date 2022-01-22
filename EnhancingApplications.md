@@ -136,6 +136,7 @@ As evidence, provide a screenshot showing the conditions set for the auto scalin
 ![vmss-scaling-rule2.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1633281061/vmss-scaling-rule2.png)
 
 - - - - - - -- 
+
 ### Great Work :clap:
 Azure Automation Account and RunBook resources are created. ✅
 
