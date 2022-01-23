@@ -182,4 +182,17 @@ You need to consider cost factors here! Cost Estimations can give us some real i
 Hope you are doing well !
 It seems that you are missing screenshots. Please add them and resubmit.
 
+- - - - -
+
+** No Submission is original and clearly plagiarized from the indicated source. **
+- - -- - - 
+Student has copied from this Source :- https://github.com/ploratran/AzureBlogPost
+
+This Student has already passed Project on 21st March 2021 and you are using her Screenshots.
+It is good to do the Project of your own rather than copying someone else work.
+
+![sign-out.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1642920930/sign-out.png)
+
+-- -  - -
+
 
