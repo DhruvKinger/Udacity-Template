@@ -64,7 +64,6 @@ You have done excellent work using the log message activity! You used it to Log 
 
 ```
 
-- - - - - - - -
 ### Additional Resources :-
 * [Logging-Levels](https://docs.uipath.com/studio/docs/logging-levels)
 
@@ -187,7 +186,7 @@ As Per requirements Please Use at least 1 Orchestrator Assets and Orchestrator Q
 
 ### Please fix this mandatory requirement !!
 
-### However there should be no hard-coded values in the workflow. You can use asset for the same.
+** However there should be no hard-coded values in the workflow. You can use asset for the same. **
 
 ---- ----
 
@@ -296,15 +295,15 @@ All invoked workflows must be listed in the Whiteboard file. Each workflow must 
 
 * Under the "List of packages" section, you must mention the orchestrator packages that your process consists of not the activities packages. For example, if your process consists of dispatcher and performer, you must add two packages (the dispatcher and performer). if it consists of one process, you must add one package. In your case, you have one package and its name as the project name.
 
-** Fill the VI, VII fields. Check this [thread](https://knowledge.udacity.com/questions/367806) to learn how. **
+* Please add Orchestrator Details. 
 
-** Please add Orchestrator Details. **
+** Fill the VI, VII fields. Check this [thread](https://knowledge.udacity.com/questions/367806) to learn how. **
 
 ![dhruv.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1624622842/dhruv.PNG)
 
 ------------
 
-## Dear Student :thumbsup:
+## Excellent Work :tada:
 ### You have met all the points mentioned Below :
 
 :white_check_mark: the overall process
