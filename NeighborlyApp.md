@@ -50,8 +50,13 @@ an email (with Gmail) notification. The student can validate this by a screensho
 * [Azure Logic App](https://medium.com/@dhruvkinger813/social-media-sentimental-analysis-using-azure-logic-apps-5dc8147c42ee)
 
 - - -- - -
+
 ## Nice Work :tada:
 The student should be able create an Event Hubs namespace and an event hub with the command line or through the portal. If successful, the student can obtain the namespace url. Add a screenshot from the portal of this being live. ✅
+
+### Additional Resource:-
+
+* [Event Hub](https://azure.microsoft.com/en-in/services/event-hubs/)
 
 
 ![6-eventhub_namespace.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615660314/6-eventhub_namespace.PNG)
@@ -107,6 +112,7 @@ grasped a lot from the classroom.
 ---- ---
 
 ## Failed Project !!
+
 ## Excellent Submission :clap: :clap:
 You have shown a good knowledge of Cloud Application Development in the Azure Ecosystem. Keep it up. :clap: :clap:
 
