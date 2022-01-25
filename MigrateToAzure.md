@@ -65,7 +65,9 @@ Here is an additional [Learning](https://azure.microsoft.com/en-in/services/func
 * Submitting a new notification :white_check_mark:
 * Notification processed after executing the Azure function :white_check_mark:
 
-### However your submission should contain number of attendees notified as well as the completion date.
+** However your submission should contain number of attendees notified as well as the completion date. **
+
+** Number of attendees notified should be visible. **
 
 ![boss.jpg](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1637497902/boss.jpg)
 
