@@ -71,6 +71,8 @@ The Python web app is able to connect to the related storage solutions. You have
 The MSAL library has been well implemented. This shows mastery of connecting into our database via the Microsoft tokens :smile:
 Moreover, the URL redirect is right on point :ok_hand:
 
+** Here is a reference Link on [MSAL](https://github.com/AzureAD/microsoft-authentication-library-for-python). **
+
 ----
 
 ### Excellent Work here too! :smile:
@@ -122,7 +124,8 @@ Keep Learning, All the best 👍🏼👍🏼
 
  -----
  
-Required same change as Mentioned Above !!
+### Dear Student :smile:
+This Requires the same change as Mentioned Above !!
 Very Well Done :tada:
 Here is a useful=> [Link](https://docs.microsoft.com/en-us/azure/cost-management-billing/) you can take reference from this and see cost estimation!
 
