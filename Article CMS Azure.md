@@ -64,6 +64,8 @@ I can easily see the deployed app URL in your submission. You have clearly met t
 ### Magnificent work! :tada:
 The Python web app is able to connect to the related storage solutions. You have done fantastic work here.
 
+The screenshot should include the URL and at least one article containing the title, author, body, and image. Alternatively, you can provide a link to the deployed app, if it is still live.  ✅
+
 ![edit-post.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615612253/edit-post.png)
 
 ----
