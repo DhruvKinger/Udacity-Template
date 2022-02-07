@@ -34,8 +34,13 @@ Good read on DNS for depth understanding :- https://developers.google.com/speed/
 
 
 - - - - 
+
 ## Good work. :tada:
-You have named the network appropriately as well. In a real-time scenario, there will be multiple Managed networks, and providing correct naming convention is very important.
+You have named the network appropriately as well. In a real-time scenario, there will be multiple Managed networks, and providing the correct naming convention is very important.
+
+### Additional Resources:-
+[Managed Network ](https://next.nutanix.com/how-it-works-22/create-managed-network-with-powershell-33024)
+
 
 ![Capture.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615430890/Capture.PNG)
 
