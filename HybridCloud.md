@@ -6,7 +6,7 @@ teccadmin
 teccdba
 
 ### ✅ Blueprint has four VM service tiers:
-Web Private Cloud
+Web Private Cloud121
 Web Public Cloud
 Database
 Load Balancer
@@ -134,7 +134,7 @@ We have two application profiles so always update all things on both small and m
 
 ![Screenshot (95).png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1622802421/Screenshot__95_.png)
 
-### Note: Please use Tthe correct script for db backup and you have missed db restore action !!
+### Note: Please use The correct script for db backup and you have missed db restore action !!
 
 
 ### Remember:-
