@@ -44,10 +44,11 @@ When the HTTP request is triggered, the student is sent
 an email (with Gmail) notification. The student can validate this by a screenshot of their inbox. ✅ 
 ```
 
-![5-LogicAppTrigger2.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615660160/5-LogicAppTrigger2.PNG)
-
 ### Additional Resource
 * [Azure Logic App](https://medium.com/@dhruvkinger813/social-media-sentimental-analysis-using-azure-logic-apps-5dc8147c42ee)
+
+
+![5-LogicAppTrigger2.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615660160/5-LogicAppTrigger2.PNG)
 
 - - -- - -
 
@@ -68,11 +69,11 @@ I can clearly see the App Service live URL in the browser !!
 
 Here is a **[Link](https://www.telerik.com/blogs/nine-performance-tips-for-azure-app-services) **to Improve the Performance of your Web Apps !!
 
-
-![7-clientapp_azure.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615660377/7-clientapp_azure.PNG)
-
 ### Additional Resources :-
 * [Azure Static Web Apps](https://azure.microsoft.com/en-in/services/app-service/static/)
+
+
+![7-clientapp_azure.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615660377/7-clientapp_azure.PNG)
 
 - - - -
 
@@ -86,6 +87,8 @@ I can see that the docker build is successful and the Docker image is successful
 
 ### Nice Work :tada:
 The student should be able to create a cluster with one node. ✅
+
+** Here is an Additional Link on [AKS](https://azure.microsoft.com/en-in/services/kubernetes-service/) !! **
 
 ![9-kubernetes1.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615660510/9-kubernetes1.PNG)
 - -----
@@ -118,6 +121,7 @@ You have shown a good knowledge of Cloud Application Development in the Azure Ec
 
 * You have correctly configured the Mongo details in all the Azure Function 👍👍
 * You have correctly configured and deployed the Frontend app 👍👍
+
 - - -
 As pointed out, there is need for some changes and think of these changes as a great opportunity to learn more and perfect your skills. These are required to ensure that you graduate with the knowledge and demonstrated skills Udacity aims at having their students develop. Please follow the suggestions given in the rubric to make adjustments accordingly and I am confident that you will get this done next time. 💪💪
 
@@ -165,9 +169,9 @@ Students should be able to create a Logic App that watches for an HTTP trigger. 
 
 --
 
-### Dear Student
-Please Provide a Screenshot showing all the endpoints.
-For reference :-
+### Dear Student :smile:
+As Per the Rubric Point. Please Provide a Screenshot showing all the endpoints.
+For reference:-
 
 ![dad](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1620761447/function_end.png)
 
