@@ -143,9 +143,9 @@ Successful is missing in your submission.
 - -- - - 
 
 ## Dear Student :smile:
-### Excellent Submission ! :tada:
+### Excellent Submission! :tada:
 Just small changes are required in order to complete the project.
-I was impressed with the effort made on this submission. Especially configuration of the redirects. This is so cool. :sunglasses:
+I was impressed with the effort made in this submission. Especially the configuration of the redirects. This is so cool. :sunglasses:
 You only need to update your writeup and submit successful and unsuccessful login attempts Screenshots.
 All the very best for the next submission :smile:.
 
