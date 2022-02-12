@@ -153,9 +153,9 @@ Azure Automation Account and RunBook resources are created. ✅
 
 As evidence, provide a screenshot of your resource group containing your running resources. :x:
 
-**  Here is an additional reference [Link](https://azure.microsoft.com/en-in/blog/introducing-the-azure-automation-runbook-gallery/) for the same. **
+Here is an additional reference [Link](https://azure.microsoft.com/en-in/blog/introducing-the-azure-automation-runbook-gallery/) for the same.
 
-** Plz provide resource group screenshot. **
+** Note: Plz provide a resource group screenshot. **
 
 - - - - -
 
@@ -225,16 +225,18 @@ You are left with only few changes. I have mentioned those in detail.
 
  - - - --  - 
 
+### Nice Work :tada:
+```
+I can clearly see this in your submission.
+The output of the Horizontal Pod Autoscaler shows an increase in the number of pods. ❌
+The Application Insights metrics show the increase in the number of pods. ❌
+The email you received from the alert when the pod count increased. ❌
+```
+** Plz attach a screenshot of the alert Email as well as the Pod Count increase screenshot. **
 
-## Dear Student :smile:
-Please do all the changes as suggested by previous reviewer and then resubmit. you are still missing this expected screenshot.
 
-The output of the Horizontal Pod Autoscaler, showing an increase in the number of pods.
-You have attached a screenshot showing creation of horizontal pod autoscaler, however it does not show increase in the number of pods.
-
-### Expected One: 
+** Expected One: ** 
 ![sbc](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/385208/1616600479/Screenshot_2021-03-24_at_9.09.22_PM.png)
-
 -- - - - --
 
 ## Dear Student 😄
