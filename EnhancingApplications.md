@@ -3,7 +3,9 @@
 The right resources can be seen from this submission. This guarantees a safe space for the features ahead :clap:
 It is cool putting your resources into a single resource group - it will make long-term management, or even quick clean up, much easier!
 
-Here is an additional reference [Link](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/manage-resource-groups-portal) on Azure resource groups !!
+### Additional Resources:-
+* [Resource Group](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/manage-resource-groups-portal) 
+* [Use Case](https://www.otava.com/reference/how-to-use-azure-resource-groups-a-simple-explanation/)
 
 
 ![ai_and_law_created.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1633277992/ai_and_law_created.png)
