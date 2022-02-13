@@ -4,7 +4,9 @@
 The right resources can be seen from this submission. This guarantees a safe space for the features ahead :clap:
 It is cool putting your resources into a single resource group - it will make long-term management, or even quick clean up, much easier!
 
-Here is an additional reference [Link](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/manage-resource-groups-portal) on Azure resource groups !!
+### Additional Resources:-
+* [Resource Group](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/manage-resource-groups-portal) 
+* [Use Case](https://www.otava.com/reference/how-to-use-azure-resource-groups-a-simple-explanation/)
 
 
 ![azure-portal-resource-group.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1619475362/azure-portal-resource-group.png)
@@ -13,10 +15,11 @@ Here is an additional reference [Link](https://docs.microsoft.com/en-us/azure/az
 ## Another fine job here. 
 You have successfully created a DBO.POSTS and DBO.USERS databases to keep records of the data we might input and use later :clap: :tada:
 
-### Good Read on [Azure Sql](https://azure.microsoft.com/en-in/services/sql-database/) Databases.
+** Good Read on [Azure Sql](https://azure.microsoft.com/en-in/services/sql-database/) Databases. **
 
 ### Additional Resources :-
 [Azure Databases](https://azure.microsoft.com/en-in/product-categories/databases/)
+
 
 ![sql_storage_solution.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1630054177/sql_storage_solution.png)
 ----
@@ -60,11 +63,12 @@ I can easily see the deployed app URL in your submission. You have clearly met t
 * [Improve the Performance of your Web Apps](https://www.telerik.com/blogs/nine-performance-tips-for-azure-app-services)
 
 ---
-
 ### Magnificent work! :tada:
 The Python web app is able to connect to the related storage solutions. You have done fantastic work here.
 
 The screenshot should include the URL and at least one article containing the title, author, body, and image. Alternatively, you can provide a link to the deployed app, if it is still live.  ✅
+
+** Here are some tips and tricks related to [Azure Web App](https://www.michaelcrump.net/azure-tips-and-tricks23/). **
 
 ![edit-post.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615612253/edit-post.png)
 
