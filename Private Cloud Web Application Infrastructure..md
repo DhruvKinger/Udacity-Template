@@ -12,7 +12,8 @@ Your attached excel which has the configuration details generated from Nutanix.
 
 - - - - - - - -
 
-### Well done. You have configured the NTP server details correctly in Nutanix.
+## Well done. :clap: :tada:
+** You have configured the NTP server details correctly in Nutanix. **
 
 ![NTP.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1604763730/NTP.PNG)
 
@@ -20,8 +21,7 @@ NTP server is used for Time Synchronization and it is used across different devi
 
 - - - -
 ### Additional Resource:-
-Good Read on [NTP usability.](https://next.nutanix.com/installation-configuration-23/time-synchronization-on-nutanix-cluster-33558) 
-
+Good Read on [NTP usability.](https://next.nutanix.com/installation-configuration-23/time-synchronization-on-nutanix-cluster-33558)
 
 - - - - - - - -
 
@@ -71,6 +71,9 @@ VM Name: web-prod (or equivalent) ✅
 The VMs should be on the production/managed network listed under column B (i.e VLANs). ✅
 ```
 
+### Additional Resource:-
+* [Automating Nutanix Prism VMs](https://www.scottharney.com/automating-nutanix-prism-vms/)
+
 -----
 
 ### Excellent :star: :tada:
@@ -82,13 +85,16 @@ The virtual machines needed for the development environment are successfully clo
 ```
 Successfully created a protection configuration for the production environment and the schedule has been correctly set up to repeat after every 60 minutes to take snapshots of all the virtual machines on the production environment for a backup in case of a power or any other failure.
 ```
+
 -----
+
 ### Nice Work 
 You have completed this Point successfully !!
 
 ![Capture1.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615431460/Capture1.PNG)
 
 -----
+
 ## Dear Student,
 
 ![congrats.gif](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615661006/congrats.gif)
