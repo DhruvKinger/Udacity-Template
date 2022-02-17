@@ -139,13 +139,16 @@ You need to rename the name of Managed network to Production !! Rest Everything 
 You need to rename the name of Unmanaged network to Development !! Rest Everything seems to be fine !! In a real-time scenario, there will be multiple Unmanaged networks, and providing correct naming convention is very important
 
 -- - - -
-:100: Production VMs need to be correctly set and require correct Naming convention.
+
+** :100: Production VMs need to be correctly set and require correct Naming convention. **
+
 ```
 VM Name: db-prod (or equivalent) ✅
 VM Name: app-prod (or equivalent) ❌
 VM Name: web-prod (or equivalent) ❌
 The VMs should be on the production/managed network listed under column B (i.e VLANs). ✅
 ```
+
 
 ![Capture1.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615479850/Capture1.PNG)
 
@@ -206,6 +209,13 @@ You have completed these steps correctly and created the images - Disk for requi
 **Note: You need to change the name of the Container from ISO to Images.**
 
 -  -- - - -
+### Dear Student :star:
+
+The Data Protection domain(s) should be easily identified as the protection configurations for the production environment and with the recovery parameters provided in the email from the CTO. :x:
+
+** Note: One Protection domain or multiple Protection domains are both acceptable. **
+
+- - - - -
 
 ## Dear Student :clap: :tada:
 
