@@ -84,7 +84,7 @@ You have done excellent work using the log message activity! You used it to Log 
 ### For Reference :- 
 ![snipz.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1623868867/snipz.PNG)
 
-### In other words, your log messages must cover all state changes in your code.
+** In other words, your log messages must cover all state changes in your code. **
 
 -- - - - -
 
@@ -106,10 +106,12 @@ All commented-out activities (or unused workflows) should be deleted for a clean
 Every .xaml file must have an annotation at the beginning (including a description, pre-condition, and post-action) and at any If statement, describing what the condition is testing. :x: 
 
 All commented-out activities (or unused workflows) should be deleted for a clean workflow. :white_check_mark: 
-### Please Add Necessary Annotations.
 
+- - 
 
-### Additional Info:
+** Please Add Necessary Annotations. **
+
+** Additional Info: **
 * [Reference](https://www.youtube.com/watch?v=n25m-mEuJQY)
 
 - -- - - 
