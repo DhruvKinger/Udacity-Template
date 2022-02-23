@@ -47,6 +47,8 @@ Enable Application Insights on the AKS cluster created from the provided script 
 
 As evidence, provide a screenshot showing Application Insights is enabled on the AKS cluster. ✅
 
+** Here is an additional reference [link](https://blog.coffeeapplied.com/using-azure-monitor-logs-with-azure-kubernetes-service-aks-c0b0625295d1?gi=b541cde27446) for Azure Monitor Logs with Azure Kubernetes Service (AKS). **
+
 - - - - - -
 
 ### Excellent Work :tada:
@@ -77,10 +79,11 @@ As evidence, provide a screenshot of the Azure Alert and email sent when the ale
 ### Nice Work :tada:
 ```
 I can clearly see this in your submission.
-The output of the Horizontal Pod Autoscaler, showing an increase in the number of pods. ✅
-The Application Insights metrics which show the increase in the number of pods. ✅
+The output of the Horizontal Pod Autoscaler shows an increase in the number of pods. ✅
+The Application Insights metrics show the increase in the number of pods. ✅
 The email you received from the alert when the pod count increased. 
 ```
+
 ![hpa_watch.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1633281908/hpa_watch.png)
 
 -------- 
