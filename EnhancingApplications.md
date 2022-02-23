@@ -147,7 +147,7 @@ Azure Automation Account and RunBook resources are created. ✅
 
 As evidence, provide a screenshot of your resource group containing your running resources. ✅
 
-### Here is an additional reference [Link](https://azure.microsoft.com/en-in/blog/introducing-the-azure-automation-runbook-gallery/) for the same.
+** Here is an additional reference [Link](https://azure.microsoft.com/en-in/blog/introducing-the-azure-automation-runbook-gallery/) for the same. **
 
 ![criteria 0-Resource group containing your running resources.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1635058083/criteria_0-Resource_group_containing_your_running_resources.png)
 
@@ -205,7 +205,7 @@ I was impressed with the effort made on this submission. Especially in Applicati
 ### Additional Resources 💡:-
 ### Below are some helpful resources related to the project implementation:
 
-* [Azure Application Insights](https://mindmajix.com/azure-application-insights)
+* [Application Insights](https://mindmajix.com/azure-application-insights)
 * [Azure Databases](https://azure.microsoft.com/en-in/blog/topics/database/)
 * [Blogs Link](https://github.com/DhruvKinger/Link-of-all-blogs)
 * [Docker](https://www.youtube.com/watch?v=fqMOX6JJhGo)
@@ -223,7 +223,7 @@ You are left with only few changes. I have mentioned those in detail.
 ### Additional Resources 💡:-
 ### Below are some helpful resources related to the project implementation:
 
-* [Azure Application Insights](https://mindmajix.com/azure-application-insights)
+* [Application Insights](https://mindmajix.com/azure-application-insights)
 * [Azure Databases](https://azure.microsoft.com/en-in/blog/topics/database/)
 * [Blogs Link](https://github.com/DhruvKinger/Link-of-all-blogs)
 * [Docker](https://www.youtube.com/watch?v=fqMOX6JJhGo)
