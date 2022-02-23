@@ -28,7 +28,8 @@ You have successfully created a DBO.POSTS and DBO.USERS databases to keep record
 Thanks for including the screenshot of your blob storage. It looked like you probably used General Purpose V2 storage, which is currently the preferred method to use blog storage for Azure.
 
 ### Additional Resource:-
-[Azure Storage](https://docs.microsoft.com/en-us/azure/storage/common/storage-account-overview)
+* [Azure Storage](https://docs.microsoft.com/en-us/azure/storage/common/storage-account-overview)
+* [Comparions](https://www.serverless360.com/azure-storage-account)
 
 ---
 ### Well done :tada:
@@ -47,6 +48,7 @@ Thanks for including the screenshot of your blob storage. It looked like you pro
 * [Availability](https://azure.microsoft.com/en-in/support/legal/sla/virtual-machines/v1_9/)
 
 - -- - ---
+
 ## Well done :tada:
 
 ** You have correctly assessed the changes in case you want to change your decision in future ✅👍👍 **
@@ -56,13 +58,14 @@ IT IS A VALUABLE SKILL TO KNOW THE ADVANTAGES AND DISADVANTAGES OF THE VM AND AP
 --- -  --
 
 ## Excellent Work :tada:
-I can easily see the deployed app URL in your submission. You have clearly met the rubric point.
+I can easily see the deployed app URL in your submission. You have clearly met the rubric point. You are on a right track starting with Web App. You will learn other services as well throughout this Course.
 
 ### Additional Resources
 * [Static Web Apps](https://azure.microsoft.com/en-in/services/app-service/static/#overview)
 * [Improve the Performance of your Web Apps](https://www.telerik.com/blogs/nine-performance-tips-for-azure-app-services)
 
 ---
+
 ### Magnificent work! :tada:
 The Python web app is able to connect to the related storage solutions. You have done fantastic work here.
 
@@ -73,6 +76,7 @@ The screenshot should include the URL and at least one article containing the ti
 ![edit-post.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615612253/edit-post.png)
 
 ----
+
 ## Great Work :tada:
 The MSAL library has been well implemented. This shows mastery of connecting into our database via the Microsoft tokens :smile:
 Moreover, the URL redirect is right on point :ok_hand:
