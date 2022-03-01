@@ -19,7 +19,7 @@ Here is an additional [Link](https://docs.microsoft.com/en-us/azure/app-service/
 - -- - - - - - 
 
 ### Great Work :star:
-You have deployed databases as per expected requirement.
+You have deployed databases as per expected requirements.
 
 Here is an additional [Link](https://azure.microsoft.com/en-in/product-categories/databases/) of Azure Databases.
 
@@ -35,7 +35,7 @@ Here is an additional [Link](https://azure.microsoft.com/en-in/product-categorie
 - - -- - - - 
 
 ### Well Done :clap:
-Excellent Work in configuration part of the Azure Functions. Keep Learning and growing like that.
+Excellent Work in the configuration part of the Azure Functions. Keep Learning and growing like that.
 
 
 ** Here is an additional [Learning](https://azure.microsoft.com/en-in/services/functions/) Resource. **
@@ -88,7 +88,7 @@ Great Job Creating explanation of the services, See another submission of this c
 
 ** Student provides a README that includes a short explanation and reasoning of the architecture selected for both the Azure web app and the Azure function in terms of cost-effectiveness ** :x:
 
-** Please Provide detail Info of Services you have used. **
+** Please Provide detailed Info on all the Services you have used. **
 
 - - - - -- - - -
 
@@ -143,9 +143,10 @@ grasped a lot from the classroom.
 * You have correctly configured the Db details in all the Azure Function 👍👍
 * You have correctly configured and deployed the Frontend app 👍👍
 ```
-### I have mentioned in the detail about the changes you need to do in order to pass the Project.
+** I have mentioned in the detail the changes you need to do in order to pass the Project. **
 
-### Keep Learning, All the best 👍🏼👍🏼
-## Additional Resources
+** Keep Learning, All the best 👍🏼👍🏼 **
+
+### Additional Resources
 * [Azure Web App Perfomance](https://www.telerik.com/blogs/nine-performance-tips-for-azure-app-services)
 * [Azure Blogs](https://github.com/DhruvKinger/Link-of-all-blogs)
