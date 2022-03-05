@@ -4,6 +4,8 @@ Your Submission Verifies that the app service plan is F1 or a B1 :white_check_ma
 ### Additional Resource :-
 [App Plan Tiers](https://samcogan.com/what-is-an-azure-app-service-plan-and-what-does-it-do/)
 
+** Key Point ** :- Without an App Service Plan, you cannot create App Service. So, in the Azure portal, when you try to create an app service, you will have to select an app service plan. 
+
 ![App_Service_Plan.jpeg](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1634638556/App_Service_Plan.jpeg)
 
 -- - - -- -
@@ -11,8 +13,7 @@ Your Submission Verifies that the app service plan is F1 or a B1 :white_check_ma
 ### Excellent Work :smile: :star:
 Student provides a screenshot of the application successfully running with the URL in this format https://*.azurewebsites.net**. The screenshot should be fullscreen showing the URL and application running. :white_check_mark:
 
-Here is an additional [Link](https://docs.microsoft.com/en-us/azure/app-service/quickstart-python?tabs=bash&pivots=python-framework-flask) for reference.
-
+Here is an additional [Link](https://docs.microsoft.com/en-us/azure/app-service/quickstart-python?tabs=bash&pivots=python-framework-flask) on how to deploy flask apps.
 
 ![App_Running.jpg](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1634638688/App_Running.jpg)
 
@@ -21,7 +22,12 @@ Here is an additional [Link](https://docs.microsoft.com/en-us/azure/app-service/
 ### Great Work :star:
 You have deployed databases as per expected requirements.
 
-Here is an additional [Link](https://azure.microsoft.com/en-in/product-categories/databases/) of Azure Databases.
+```
+Azure offers a choice of fully managed relational, NoSQL, and in-memory databases, spanning proprietary and open-source engines, to fit the needs of modern app developers.
+Infrastructure management – including scalability, availability saving you time and money.  
+```
+
+Here is an additional [Link](https://azure.microsoft.com/en-in/product-categories/databases/) on the type of Azure Databases.
 
 ![Postgresql_Database_Resource.jpeg](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1634638795/Postgresql_Database_Resource.jpeg)
 
