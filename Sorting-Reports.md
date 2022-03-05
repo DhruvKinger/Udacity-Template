@@ -130,9 +130,8 @@ Note: Also It is not allowed to use HardCoded Delays. Please use find an activit
 ## For Reference :-
 
 ![dIRECTORY.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1627473258/dIRECTORY.PNG)
+
 -- -- -
-
-
 
 ## Nice work :tada:
 I can see that happening ! It clearly shows the hard-work you have put in !
@@ -163,12 +162,10 @@ Good job with the implementation of proper naming and initialization of variable
 
 -- - - - - - - - -- 
 
+** Every .xaml file must have an annotation at the beginning (including a description, pre-condition, and post-action) and at any If statement, describing what the condition is testing. **  :x:
 
-
-:x: Every .xaml file must have an annotation at the beginning (including a description, pre-condition, and post-action) and at any If statement, describing what the condition is testing. 
-
-### Please add annotations in each xaml file.
-### Here is useful [Link](https://forum.uipath.com/t/comments-annotations-best-practices/20276) for reference !!
+** Please add annotations in each xaml file. **
+** Here is useful [Link](https://forum.uipath.com/t/comments-annotations-best-practices/20276) for reference !! **
 
 
 ![Capture.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1617008046/Capture.PNG)
