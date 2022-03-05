@@ -33,8 +33,11 @@ Here is an additional [Link](https://azure.microsoft.com/en-in/product-categorie
 
 ------
 
-### Excellent Work :clap:
+## Excellent Work :clap: :tada:
 ** You have submitted the correct screenshot that shows the list of attendees. **
+
+* Web App Deployed :white_check_mark:
+* Web app successfully loading the list of attendees and notifications from Postgres. :white_check_mark:
 
 ![2.2.1_Add_Attendee.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1636435803/2.2.1_Add_Attendee.PNG)
 
@@ -43,6 +46,7 @@ Here is an additional [Link](https://azure.microsoft.com/en-in/product-categorie
 ### Well Done :clap:
 Excellent Work in the configuration part of the Azure Functions. Keep Learning and growing like that.
 
+Azure portal provides the capabilities to create, manage, monitor, and integrate inputs & outputs of the Azure Functions.
 
 ** Here is an additional [Learning](https://azure.microsoft.com/en-in/services/functions/) Resource. **
 
@@ -79,12 +83,11 @@ Here is an additional [Learning](https://azure.microsoft.com/en-in/services/func
 
 - -- - - - - - 
 
-### Well Done :star:
-Great Job Creating explanation of the services, See another submission of this component.
+## Well Done :clap: :tada:
+Great Job-Creating an explanation of the services, See another submission of this component.
 
-### For Reference :-
+### See Mine Submission :-
 ![hhh.JPG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1634527414/hhh.JPG)
-
 
 - - - - - - - - 
 
@@ -99,7 +102,7 @@ Great Job Creating explanation of the services, See another submission of this c
 - - - - -- - - -
 
 ### Excellent Work :smile:
-See another reference screenshot how to prepare writeup.md file for cost analysis.
+See another reference screenshot on how to prepare a writeup for cost analysis.
 You can use [Azure Pricing Calculator](https://azure.microsoft.com/en-in/pricing/calculator/) to do that so.
 
 ### For Reference :- 
@@ -132,7 +135,7 @@ grasped a lot from the classroom.
 ```
 ### Keep Learning, All the best 👍🏼👍🏼
 ## Additional Resources
-* [Azure Web App Perfomance](https://www.telerik.com/blogs/nine-performance-tips-for-azure-app-services)
+* [Web App Perfomance](https://www.telerik.com/blogs/nine-performance-tips-for-azure-app-services)
 * [Azure Blogs](https://github.com/DhruvKinger/Link-of-all-blogs)
 
 --------
@@ -154,5 +157,5 @@ grasped a lot from the classroom.
 ** Keep Learning, All the best 👍🏼👍🏼 **
 
 ### Additional Resources
-* [Azure Web App Perfomance](https://www.telerik.com/blogs/nine-performance-tips-for-azure-app-services)
+* [Web App Perfomance](https://www.telerik.com/blogs/nine-performance-tips-for-azure-app-services)
 * [Azure Blogs](https://github.com/DhruvKinger/Link-of-all-blogs)
