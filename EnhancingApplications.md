@@ -216,12 +216,13 @@ I was impressed with the effort made on this submission. Especially in Applicati
 ### Almost Done! 🎉
 
 I was impressed with the effort made on this submission. Especially in Application Insights and VM Scale Set. This is so cool.😎 It was my pleasure to review this wonderful project. I like how consistent and patient you have been in implementing this project. Most of the concept displayed shows you have grasped a lot from the classroom.
-You are left with only few changes. I have mentioned those in detail.
+You are left with only a few changes. I have mentioned those in detail.
 ------ - - - 
 ### Keep Learning, All the best 👍🏼👍🏼
 
 ### Additional Resources 💡:-
-### Below are some helpful resources related to the project implementation:
+
+** Below are some helpful resources related to the project implementation: **
 
 * [Application Insights](https://mindmajix.com/azure-application-insights)
 * [Azure Databases](https://azure.microsoft.com/en-in/blog/topics/database/)
