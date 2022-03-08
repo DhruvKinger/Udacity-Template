@@ -8,7 +8,7 @@ It is cool putting your resources into a single resource group - it will make lo
 * [Use Case](https://www.otava.com/reference/how-to-use-azure-resource-groups-a-simple-explanation/)
 
 
-![ai_and_law_created.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1633277992/ai_and_law_created.png)
+![rg.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1646723070/rg.png)
 
 ----------
 
@@ -19,7 +19,7 @@ Here is an additional reference [Link](https://docs.microsoft.com/en-us/azure/az
 
 ** For Reference :- **
 
-![reference](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1633277992/ai_and_law_created.png)
+![rg.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1646723070/rg.png)
 
 _ _ _  _ _ _ _
 
@@ -116,6 +116,8 @@ logger ✅
 * **Application Insight Events that show the results of clicking vote for each Dogs & Cats** ✅
 * **The output of the traces query in Azure Log Analytics** ✅
 * **The chart created from the output of the traces query** ✅
+
+![traces2.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1646723251/traces2.png)
 
 ---  - - - - - -
 
