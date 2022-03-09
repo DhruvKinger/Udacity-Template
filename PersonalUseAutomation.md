@@ -122,6 +122,8 @@ No more than 2 "If" activities should be nested within each other. Instead, this
 
 Each branch should have an activity; if there is an empty branch, have a “Comment” activity explaining what this branch means. ✅
 
+** Here is an additional reference [Link](https://docs.uipath.com/studio/docs/the-if-activity) on If Else Statements. **
+
 - - - -- - 
 ## Nice Work :tada: 
 
