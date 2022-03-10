@@ -16,6 +16,9 @@ getAdvertisements, and deleteAdvertisement, getPost, getPosts. There should be 7
 
 ```
 
+
+** Note: **  Azure Functions can be used to achieve decoupling, high throughput, reusability, and shared. Being more reliable, it can also be used for production environments. 
+
 ![2-functions_endpoints1.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615659826/2-functions_endpoints1.PNG)
 - - - -
 
