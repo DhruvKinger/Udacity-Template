@@ -14,15 +14,15 @@ All the reports have been moved into appropriate folders.✅
 ![Capture.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1617007785/Capture.PNG)
 
 - -- - - -
+
+## Well done ! :clap: :clap:
 ### You have done an amazing job here !
-### Well done ! :clap: :clap:
 
 :white_check_mark: The downloaded file should be moved and unzipped in the “Project” directory itself. Note: Project directory here refers to the project workspace folder
 
-### Here is a [Link](https://forum.uipath.com/t/current-path-of-directory/15425) to detect current Path of Directory !!
+** Here is a [Link](https://forum.uipath.com/t/current-path-of-directory/15425) to detect current Path of Directory !! **
+
 - -- - - 
-
-
 
 Nice work :tada:
 I can see that happening ! It clearly shows the hard-work you have put in !
@@ -47,7 +47,7 @@ Good job with the implementation of proper naming and initialization of variable
 ### Excellent :tada:
 ✔️ Every .xaml file must have an annotation at the beginning (including a description, pre-condition, and post-action) and at any If statement, describing what the condition is testing.
 
-Here is useful [Link](https://forum.uipath.com/t/comments-annotations-best-practices/20276) for the reference !!
+Here is a useful [Link](https://forum.uipath.com/t/comments-annotations-best-practices/20276) for reference !!
 
 - - - - -
 
@@ -56,6 +56,7 @@ You have nicely explained the use for this automation as attended automation.
 Here is a [link](https://docs.uipath.com/robot/docs/attended-vs-unattended) for their difference !!
 
 - - -
+
 ## Great work doing this! :tada:
 I can clearly see all your workflows! Your naming convention seems to be appropriate as well! That would be easier to read from the User's perspective.
 
@@ -64,7 +65,6 @@ I can clearly see all your workflows! Your naming convention seems to be appropr
 ** Please see this [link](https://www.uipath.com/learning/video-tutorials/project-organization) about UiPath Project Organization. **
 
 - -- -- - 
-
 
 ## Dear Student,
 
@@ -165,7 +165,7 @@ Good job with the implementation of proper naming and initialization of variable
 ** Every .xaml file must have an annotation at the beginning (including a description, pre-condition, and post-action) and at any If statement, describing what the condition is testing. **  :x:
 
 ** Please add annotations in each xaml file. **
-** Here is useful [Link](https://forum.uipath.com/t/comments-annotations-best-practices/20276) for reference !! **
+** Here is a useful [Link](https://forum.uipath.com/t/comments-annotations-best-practices/20276) for reference !! **
 
 
 ![Capture.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1617008046/Capture.PNG)
