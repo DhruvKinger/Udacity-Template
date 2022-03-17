@@ -127,7 +127,7 @@ See the Link mentioned Above !!
 
 Note: Also It is not allowed to use HardCoded Delays. Please use find an activity to check if the File exists. Then Move further.
 
-## For Reference :-
+## For Reference:-
 
 ![dIRECTORY.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1627473258/dIRECTORY.PNG)
 
@@ -162,6 +162,8 @@ Good job with the implementation of proper naming and initialization of variable
 
 -- - - - - - - - -- 
 
+## Dear Student :smile:
+
 ** Every .xaml file must have an annotation at the beginning (including a description, pre-condition, and post-action) and at any If statement, describing what the condition is testing. **  :x:
 
 ** Please add annotations in each xaml file. **
@@ -174,9 +176,11 @@ Good job with the implementation of proper naming and initialization of variable
 - - - -
 
 ## Dear Student :smile:
-### Please Describe the use of this automation as attended or unattended In detail when doing the walkthrough of the bot. :x: 
 
-### Here is a [link](https://docs.uipath.com/robot/docs/attended-vs-unattended) for their difference !!
+** Please Describe the use of this automation as attended or unattended In detail when doing the walkthrough of the bot.  **
+
+** Here is a [link](https://docs.uipath.com/robot/docs/attended-vs-unattended) for their difference !! **
+
 -- -  - -
 
 Great work doing this !
