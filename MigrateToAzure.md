@@ -68,6 +68,9 @@ Here is an additional [Learning](https://azure.microsoft.com/en-in/services/func
 * Submitting a new notification :white_check_mark:
 * Notification processed after executing the Azure function :white_check_mark:
 
+** Additional Resources :- **
+* [Service Bus](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-python-how-to-use-queues)
+
 -------
 
 
