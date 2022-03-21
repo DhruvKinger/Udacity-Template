@@ -145,7 +145,7 @@ Here is a useful=> [Link](https://docs.microsoft.com/en-us/azure/cost-management
 You have done a really good job !
 Here is an additional [Link](https://docs.microsoft.com/en-us/azure/azure-monitor/logs/data-platform-logs) to monitor Azure Logs.
 
-** Note: Please provide at least one screenshot of the successful and 1 unsuccessful login attempt. :x: **
+** Note: Please provide at least one screenshot of the successful and 1 unsuccessful login attempt. **
 
 Successful is missing in your submission.
 - -- - - 
