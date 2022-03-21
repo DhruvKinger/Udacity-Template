@@ -51,7 +51,7 @@ Thanks for including the screenshot of your blob storage. It looked like you pro
 
 ## Well done :tada:
 
-** You have correctly assessed the changes in case you want to change your decision in future ✅👍👍 **
+** You have correctly assessed the changes in case you want to change your decision in the future ✅👍👍 **
 
 IT IS A VALUABLE SKILL TO KNOW THE ADVANTAGES AND DISADVANTAGES OF THE VM AND APP SERVICE OFFERING TO MAKE REASONABLE DECISIONS. THIS WILL ALLOW YOU TO ADAPT TO THE NEEDS OF A SPECIFIC CASE.
 
@@ -60,7 +60,7 @@ IT IS A VALUABLE SKILL TO KNOW THE ADVANTAGES AND DISADVANTAGES OF THE VM AND AP
 ## Excellent Work :tada:
 I can easily see the deployed app URL in your submission. You have clearly met the rubric point. You are on a right track starting with Web App. You will learn other services as well throughout this Course.
 
-### Additional Resources
+### Additional Resources:-
 * [Static Web Apps](https://azure.microsoft.com/en-in/services/app-service/static/#overview)
 * [Improve the Performance of your Web Apps](https://www.telerik.com/blogs/nine-performance-tips-for-azure-app-services)
 
@@ -82,6 +82,9 @@ The MSAL library has been well implemented. This shows mastery of connecting int
 Moreover, the URL redirect is right on point :ok_hand:
 
 ** Here is a reference Link on [MSAL](https://github.com/AzureAD/microsoft-authentication-library-for-python). **
+
+
+** Note:- ** The Microsoft Authentication Library (MSAL) for Python library enables your app to access the Microsoft Cloud by supporting authentication of users with Microsoft Azure Active Directory accounts (AAD) and Microsoft Accounts (MSA) using industry-standard OAuth2 and OpenID Connect. 
 
 ----
 
@@ -114,13 +117,17 @@ Keep Learning, All the best 👍🏼👍🏼
 
 ----  ----
 
-## Failed Points !!
+## Failed Points Section ......
 
-## Some points need to be fixed .
-**KeyNote** : You need to consider cost analysis, scalability-like features in more detail !!
+- - - - - - -
 
-**Hint** : You can create a table to display differences b/w both of the services !! 
- You can explain like how a particular ** VM ** in a tier can cost and similarly **Azure App Service** in tier can cost. So, Like you can compare the scenarios .
+### Dear Student :smile:
+
+## Some points need to be fixed.
+**KeyNote**: You need to consider cost analysis, scalability-like features in more detail !!
+
+**Hint**: You can create a table to display differences b/w both of the services !! 
+ You can explain how a particular ** VM ** in a tier can cost and similarly **Azure App Service** in the tier can cost. So, Like you can compare the scenarios.
 
  For some helpful analysis between these options, check out this  **=> [post](https://cloudacademy.com/blog/microsoft-azure-app-service-virtual-machines/).**
  
