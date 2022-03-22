@@ -27,7 +27,7 @@ Azure offers a choice of fully managed relational, NoSQL, and in-memory database
 Infrastructure management – including scalability, availability saving you time and money.  
 ```
 
-Here is an additional [Link](https://azure.microsoft.com/en-in/product-categories/databases/) on the type of Azure Databases.
+** Here is an additional [Link](https://azure.microsoft.com/en-in/product-categories/databases/) on the type of Azure Databases. **
 
 ![Postgresql_Database_Resource.jpeg](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1634638795/Postgresql_Database_Resource.jpeg)
 
