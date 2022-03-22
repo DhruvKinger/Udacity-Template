@@ -82,6 +82,10 @@ Here is an additional [Learning](https://azure.microsoft.com/en-in/services/func
 
 ** Number of attendees notified should be visible. **
 
+
+### Additional Resources :- 
+* [Service Bus](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-python-how-to-use-queues)
+
 ![boss.jpg](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1637497902/boss.jpg)
 
 - -- - - - - - 
@@ -149,8 +153,9 @@ grasped a lot from the classroom.
 
 It was my pleasure to review this wonderful project. Please continue with this same sense of hard work and good luck with the next project. :udacious:
 ```
-I like how consistent and patient you have been in implementing this project. Most of the concept displayed shows you have 
-grasped a lot from the classroom.
+
+I like how consistent and patient you have been in implementing this project. Most of the concept displayed shows
+you have grasped a lot from the classroom.
 
 * You have correctly configured the Db details in all the Azure Function 👍👍
 * You have correctly configured and deployed the Frontend app 👍👍
