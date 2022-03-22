@@ -32,6 +32,7 @@ Thanks for including the screenshot of your blob storage. It looked like you pro
 * [Comparions](https://www.serverless360.com/azure-storage-account)
 
 ---
+
 ### Well done :tada:
 
 * You have correctly analyzed the costs, scalability, availability, and workflow for both VM
