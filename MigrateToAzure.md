@@ -2,9 +2,10 @@
 Your Submission Verifies that the app service plan is F1 or a B1 :white_check_mark:
 
 ### Additional Resource :-
-[App Plan Tiers](https://samcogan.com/what-is-an-azure-app-service-plan-and-what-does-it-do/)
+* [App Plan Tiers](https://samcogan.com/what-is-an-azure-app-service-plan-and-what-does-it-do/)
 
-** Key Point ** :- Without an App Service Plan, you cannot create App Service. So, in the Azure portal, when you try to create an app service, you will have to select an app service plan. 
+** Key Point **:- Without an App Service Plan, you cannot create App Service. So, in the Azure portal, when you try to create an app service, you will have to select an app service plan. 
+
 
 ![App_Service_Plan.jpeg](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1634638556/App_Service_Plan.jpeg)
 
@@ -29,6 +30,7 @@ Infrastructure management – including scalability, availability saving you tim
 
 ** Here is an additional [Link](https://azure.microsoft.com/en-in/product-categories/databases/) on the type of Azure Databases. **
 
+
 ![Postgresql_Database_Resource.jpeg](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1634638795/Postgresql_Database_Resource.jpeg)
 
 ------
@@ -49,6 +51,7 @@ Excellent Work in the configuration part of the Azure Functions. Keep Learning a
 Azure portal provides the capabilities to create, manage, monitor, and integrate inputs & outputs of the Azure Functions.
 
 ** Here is an additional [Learning](https://azure.microsoft.com/en-in/services/functions/) Resource. **
+
 
 ![Function_App_Name.jpeg](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1634638923/Function_App_Name.jpeg)
 
@@ -102,7 +105,7 @@ Great Job-Creating an explanation of the services, See another submission of thi
 ## Excellent Work :smile:
 ** You need some fixes in it. **
 
-** Student provides a README that includes a short explanation and reasoning of the architecture selected for both the Azure web app and the Azure function in terms of cost-effectiveness ** :x:
+The Student provides a README that includes a short explanation and reasoning of the architecture selected for both the Azure web app and the Azure function in terms of cost-effectiveness  ❎
 
 ** Please Provide detailed Info on all the Services you have used. **
 
