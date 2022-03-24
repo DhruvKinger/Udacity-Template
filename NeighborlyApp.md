@@ -139,24 +139,17 @@ Keep Learning
 * [Azure Blogs](https://github.com/DhruvKinger/Link-of-all-blogs)
 
 - - - -
-
-Well done :tada:
+ 
+## Well done :tada:
 You have correctly provided a screenshot showing eventHub connection string in the function.json file ✅
-Please provide screenshot of successful requests !!
 
-Please see this [Link](https://classroom.udacity.com/nanodegrees/nd081/parts/dfa3dcff-4f4a-44ed-b414-651a19d623c6/modules/189463fe-c9b3-47d2-bd98-bb39735da1ca/lessons/2773200b-6bac-4fa6-8c87-9d525e268e30/concepts/a6cea8eb-42eb-450b-b500-f17e60e5fd57) in Classroom !!
+** Please provide a screenshot of the Portal of Successful as well as failed Requests. Rest Everything is fine !! **
 
-Here is another Helpful [Resource](https://askinglot.com/how-do-i-set-up-azure-event-hub) !!
+** Here is another Helpful [Resource](https://askinglot.com/how-do-i-set-up-azure-event-hub) !! **
 
---- 
+### For Reference :-
 
-## Nice Work :tada:
-The student should be able to create an Event Hubs namespace and an event hub with the command line or through the portal. If successful, the student can obtain the namespace url. Add a screenshot from the portal of this being live. ✅
-
-For Reference :-
 ![2.2-event_hub.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1618828008/2.2-event_hub.png)
-
-**Note**: Please provide a screenshot of the Portal of Successful as well as failed Requests. Rest Everything is fine !!
 
 ---  
 
