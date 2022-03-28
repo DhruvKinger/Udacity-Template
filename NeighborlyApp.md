@@ -1,4 +1,4 @@
-## Passed Project !!
+
 ## Excellent :star:
 Students should be able to create a MongoDB database, two collections, and import raw data into the database. The MongoDB database is hosted in Azure CosmosDB. ✅
 - - -
