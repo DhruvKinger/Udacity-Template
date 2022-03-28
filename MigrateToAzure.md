@@ -57,12 +57,12 @@ Azure portal provides the capabilities to create, manage, monitor, and integrate
 
 ---------
 
-### Well Done :clap:
-Excellent Work in configuration part of the Azure Functions. Keep Learning and growing like that.
+## Well Done :clap:
+Excellent Work in the configuration part of the Azure Functions. Keep Learning and growing like that.
 
 Here is an additional [Learning](https://azure.microsoft.com/en-in/services/functions/) Resource.
 
-### Note: Pls attach screenshot of your function app.
+** Note: Pls attach screenshot of your function app. **
 
 --------
 
