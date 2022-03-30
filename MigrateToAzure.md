@@ -111,8 +111,11 @@ The Student provides a README that includes a short explanation and reasoning of
 
 - - - - -- - - -
 
-### Excellent Work :smile:
-See another reference screenshot on how to prepare a writeup for cost analysis.
+## Excellent Work :smile:
+** You have done an amazing job here. **
+
+See another reference screenshot on how to prepare a write-up for cost analysis.
+
 You can use [Azure Pricing Calculator](https://azure.microsoft.com/en-in/pricing/calculator/) to do that so.
 
 ### For Reference :- 
@@ -157,10 +160,10 @@ grasped a lot from the classroom.
 It was my pleasure to review this wonderful project. Please continue with this same sense of hard work and good luck with the next project. :udacious:
 ```
 
-I like how consistent and patient you have been in implementing this project. Most of the concept displayed shows
+I like how consistent and patient you have been in implementing this project. Most of the concepts displayed show
 you have grasped a lot from the classroom.
 
-* You have correctly configured the Db details in all the Azure Function 👍👍
+* You have correctly configured the Db details in all the Azure Functions 👍👍
 * You have correctly configured and deployed the Frontend app 👍👍
 ```
 ** I have mentioned in the detail the changes you need to do in order to pass the Project. **
