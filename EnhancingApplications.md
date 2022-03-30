@@ -40,16 +40,17 @@ Information about the bytes sent and received. ✅
 
 - - - -- 
 
-### Nice Work :clap:
+## Nice Work :clap:
 
-You have did it as per expectations.
+### You have done it as per expectations.
+
 Enable Application Insights on the AKS cluster created from the provided script create-cluster.sh ✅
 
 As evidence, provide a screenshot showing Application Insights is enabled on the AKS cluster. ✅
 
 ** Here is an additional reference [link](https://blog.coffeeapplied.com/using-azure-monitor-logs-with-azure-kubernetes-service-aks-c0b0625295d1?gi=b541cde27446) for Azure Monitor Logs with Azure Kubernetes Service (AKS). **
 
-- - - - - -
+- - - - - - - - - - - -  - -- -  -
 
 ## Nice Work :clap:
 
@@ -58,6 +59,10 @@ As evidence, provide a screenshot showing Application Insights is enabled on the
 * As evidence, provide a screenshot showing Application Insights is enabled on the AKS cluster. 
 
 ** Here is an additional reference [link](https://blog.coffeeapplied.com/using-azure-monitor-logs-with-azure-kubernetes-service-aks-c0b0625295d1?gi=b541cde27446) for Azure Monitor Logs with Azure Kubernetes Service (AKS). **
+
+### Screenshot For Reference:-
+
+![1-insights-aks.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1648668875/1-insights-aks.png)
 
 - - - - - -  - -
 
@@ -105,6 +110,10 @@ The email you received from the alert when the pod count increased. ✖️
 ```
 ** Plz attach screenshot of alert Email. **
 
+### For Reference :- 
+
+![3-output-hpa.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1648669056/3-output-hpa.png)
+
 - - - - - -
 
 
@@ -121,12 +130,13 @@ logger ✅
 -- - - - -
 
 ## Great Work :clap:
-### You have done great Job here.
+
+### You have done a great job here.
 * **Application Insight Events that show the results of clicking vote for each Dogs & Cats** ✅
 * **The output of the traces query in Azure Log Analytics** ✅
 * **The chart created from the output of the traces query** ✅
 
-![traces2.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1646723251/traces2.png)
+![3-dogs-cats.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1648669165/3-dogs-cats.png)
 
 ---  - - - - - -
 
@@ -155,6 +165,10 @@ As evidence, provide a screenshot showing the conditions set for the auto scalin
 * The Activity log of the VM scale set that shows it scaled up, including a timestamp. 
 * The new instances are being created. 
 * The metrics showing the load increasing, then decreasing once scaled up, including a timestamp.
+
+### For Reference:-
+
+![4-new-instance-running.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1648669234/4-new-instance-running.png)
 
 - -  --  --  -- - 
 
