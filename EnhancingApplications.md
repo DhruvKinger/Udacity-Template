@@ -51,6 +51,16 @@ As evidence, provide a screenshot showing Application Insights is enabled on the
 
 - - - - - -
 
+## Nice Work :clap:
+
+### Plz, do these changes as mentioned below:-
+* Enable Application Insights on the AKS cluster created from the provided script create-cluster.sh
+* As evidence, provide a screenshot showing Application Insights is enabled on the AKS cluster. 
+
+** Here is an additional reference [link](https://blog.coffeeapplied.com/using-azure-monitor-logs-with-azure-kubernetes-service-aks-c0b0625295d1?gi=b541cde27446) for Azure Monitor Logs with Azure Kubernetes Service (AKS). **
+
+- - - - - -  - -
+
 ### Excellent Work :tada:
 
 All the requirements in this Point are as per the expectations.
@@ -65,13 +75,11 @@ As evidence, provide a screenshot of the Azure Alert and email sent when the ale
 
 ## Excellent Work :tada:
 
-### All the requirements in this Point are as per the expectations except only one.
+### Plz, attach the screenshots for the following requirements.
 
-Create an Azure Alert in Azure Monitor. This alert should trigger when the number of pods increases beyond a certain threshold. ✅
+* Create an Azure Alert in Azure Monitor. This alert should trigger when the number of pods increases beyond a certain threshold. 
 
-As evidence, provide a screenshot of the Azure Alert and email sent when the alert is triggered. :x:
-
-** Note: Please upload the screenshot of Email received. **
+* As evidence, provide a screenshot of the Azure Alert and the email sent when the alert is triggered. 
 
 - -- - - - 
 
@@ -87,10 +95,11 @@ The email you received from the alert when the pod count increased.
 ![hpa_watch.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1633281908/hpa_watch.png)
 
 -------- 
+
 ### Nice Work :tada:
 ```
 I can clearly see this in your submission.
-The output of the Horizontal Pod Autoscaler, showing an increase in the number of pods. ✅
+The output of the Horizontal Pod Autoscaler, shows an increase in the number of pods. ✅
 The Application Insights metrics which show the increase in the number of pods. ✅
 The email you received from the alert when the pod count increased. ✖️
 ```
@@ -136,13 +145,18 @@ As evidence, provide a screenshot showing the conditions set for the auto scalin
 * The new instances being created. ✅
 * The metrics showing the load increasing, then decreasing once scaled up, including a timestamp. ✅
 
-
-
 ![vmss-scaling-rule1.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1633281061/vmss-scaling-rule1.png)
 
-![vmss-scaling-rule2.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1633281061/vmss-scaling-rule2.png)
-
 - - - - - - -- 
+
+## Nice Work :tada:
+### Plz, attach the screenshots mentioned below:- 
+
+* The Activity log of the VM scale set that shows it scaled up, including a timestamp. 
+* The new instances are being created. 
+* The metrics showing the load increasing, then decreasing once scaled up, including a timestamp.
+
+- -  --  --  -- - 
 
 ### Great Work :clap:
 Azure Automation Account and RunBook resources are created. ✅
@@ -178,6 +192,18 @@ As evidence, provide a screenshot of the configuration.✅
 
 - - - - - - 
 
+## Awesome :tada:
+
+### Plz, attach a screenshot of the below requirements.
+* Configure an Azure Alert in Azure Monitor to trigger the RunBook. 
+
+* As evidence, provide a screenshot of the configuration.
+
+### Additional Reference:-
+* [Azure Monitor](https://azure.microsoft.com/en-in/services/monitor/)
+
+ - - - -- - - - 
+
 ### Great Work :clap:
 * Email showing the alert was triggered ✅
 * Metrics or other evidence showing the RunBook executed and resolved the issue. ✅
@@ -186,11 +212,13 @@ As evidence, provide a screenshot of the configuration.✅
 
 ---------
 
-### Great Work :clap:
-* Email showing the alert was triggered :x: 
-* Metrics or other evidence showing the RunBook executed and resolved the issue. ✅
+## Great Work :clap:
 
-### Note: Please upload the screenshot of Email received.
+### Required Changes:-
+* Email showing the alert was triggered 
+* Metrics or other evidence showing the RunBook executed and resolved the issue. 
+
+** Note: Please upload the screenshot of Email received and runbook execution. You are missing this screenshot. **
 
 
 - - - - - -
@@ -217,7 +245,7 @@ I was impressed with the effort made on this submission. Especially in Applicati
 ## Dear Student,
 ### Almost Done! 🎉
 
-I was impressed with the effort made on this submission. Especially in Application Insights and VM Scale Set. This is so cool.😎 It was my pleasure to review this wonderful project. I like how consistent and patient you have been in implementing this project. Most of the concept displayed shows you have grasped a lot from the classroom.
+I was impressed with the effort made in this submission. Especially in Application Insights and VM Scale Set. This is so cool.😎 It was my pleasure to review this wonderful project. I like how consistent and patient you have been in implementing this project. Most of the concept displayed shows you have grasped a lot from the classroom.
 You are left with only a few changes. I have mentioned those in detail.
 ------ - - - 
 ### Keep Learning, All the best 👍🏼👍🏼
