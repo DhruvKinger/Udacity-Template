@@ -104,16 +104,15 @@ The email you received from the alert when the pod count increased.
 ### Nice Work :tada:
 ```
 I can clearly see this in your submission.
-The output of the Horizontal Pod Autoscaler, shows an increase in the number of pods. ✅
-The Application Insights metrics which show the increase in the number of pods. ✅
+The output of the Horizontal Pod Autoscaler shows an increase in the number of pods. ✖️
+The Application Insights metrics show the increase in the number of pods. ✖️
 The email you received from the alert when the pod count increased. ✖️
 ```
-** Plz attach screenshot of alert Email. **
+** Plz attach a screenshot of the alert Email. **
 
 ### For Reference :- 
 
 ![3-output-hpa.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1648669056/3-output-hpa.png)
-
 - - - - - -
 
 
