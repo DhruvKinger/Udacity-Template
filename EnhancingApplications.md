@@ -151,7 +151,7 @@ As evidence, provide a screenshot showing the conditions set for the auto scalin
 
 ### Nice Work :tada:
 * The Activity log of the VM scale set that shows it scaled up, including a timestamp. ✅
-* The new instances being created. ✅
+* The new instances are being created. ✅
 * The metrics showing the load increasing, then decreasing once scaled up, including a timestamp. ✅
 
 ![vmss-scaling-rule1.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1633281061/vmss-scaling-rule1.png)
