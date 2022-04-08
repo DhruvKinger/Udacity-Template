@@ -173,21 +173,17 @@ Until next time :wave:
 * [Blogs Link](https://github.com/DhruvKinger/Link-of-all-blogs)
 * [Docker](https://www.youtube.com/watch?v=fqMOX6JJhGo)
  
- ---- - - - - - -
- 
- ### Magnificent work!
-The Python web app is able to connect to the related storage solutions.
+--- - - - - -
 
-Please Provide a screenshot that contains **URL** Of APP in the Header !!
-- - - -- 
+## Excellent :star:
 
-Great work deploying your Article CMS web app! I can easily see the deployed app URL in the screenshot.
-I can see the screenshot ! :star:
+** I can easily see the deployed app in the screenshot. **
 
 Here is a **[Link](https://www.telerik.com/blogs/nine-performance-tips-for-azure-app-services) **to Improve the Performance of your Web Apps !!
 
-Please Provide a screenshot that contains **URL** Of App in the Header !!
----  
+** Please Provide a screenshot that contains URL Of App in the Header !! **
+
+- - - - - - - - - - - ----  
 
 ## Code Review :-
 ### Dear Student :bulb:
