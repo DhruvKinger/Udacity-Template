@@ -154,7 +154,6 @@ Here is an additional [Link](https://docs.microsoft.com/en-us/azure/azure-monito
 
 ** Note: Please provide at least one screenshot of the successful and 1 unsuccessful login attempt. **
 
-Successful is missing in your submission.
 - -- - - 
 
 ## Dear Student :smile:
