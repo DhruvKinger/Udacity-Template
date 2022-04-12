@@ -210,8 +210,7 @@ Students should be able to create a Logic App that watches for an HTTP trigger. 
 
 **Note**: Here you need to create a Logic App for http Trigger !!
 
-![logic-app-email-evidence.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1619474352/logic-app-email-evidence.png)
-
+### For Reference :-
 
 ![5-LogicAppTrigger2.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615660160/5-LogicAppTrigger2.PNG)
 
