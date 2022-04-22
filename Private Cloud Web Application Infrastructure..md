@@ -165,6 +165,7 @@ The VMs should be on the development network listed under column B (i.e VLANs). 
 ```
 
 - - - -- 
+
 ### Dear Student :smile:
 You have missed configuring the NTP server details correctly in Nutanix.
 
@@ -177,7 +178,6 @@ You have missed configuring the NTP server details correctly in Nutanix.
 
 NTP server is used for Time Synchronization and it is used across different devices and services on a network to maintain the reliability and integrity of services, data, and other critical functions.
 
-- - - -
 ### Additional Resource:-
 Good Read on [NTP usability.](https://next.nutanix.com/installation-configuration-23/time-synchronization-on-nutanix-cluster-33558) 
 
