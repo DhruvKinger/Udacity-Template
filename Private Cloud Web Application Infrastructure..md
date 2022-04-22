@@ -1,4 +1,3 @@
-## Passed Project !!
 
 ### Good work. :tada: :clap:
 Thanks for submitting the excel file. 
@@ -51,7 +50,11 @@ You have named the network appropriately as well. In a real-time scenario, there
 The unmanaged network is identified as the development network by name and has the correct Vlan and Prefix Length shown in the email provided by the Network Operations group. ✅
 ```
 
+### Additional Resource:-
+* [Unmanaged Network](https://www.hyve.com/insights/managed-vs-unmanaged-cloud/)
+
 ----
+
 ### Good work. :star: :clap:
 You have completed these steps correctly and created the images - Disk for required OS types.
 
@@ -186,7 +189,7 @@ Good Read on [NTP usability.](https://next.nutanix.com/installation-configuratio
 3 - VM - Dev
 1 VM which is cloned one after deleting any prod VM.
 
-### Note: you have cloned VM's but they should be done after deleting production VM's!
+### Note: you have cloned VMs but they should be done after deleting production VMs!
 
 ## Your Submission
 
