@@ -11,7 +11,7 @@ It is cool putting your resources into a single resource group - it will make lo
 ![azure-portal-resource-group.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1619475362/azure-portal-resource-group.png)
 ----
 
-## Another fine job here. 
+## Excellent Work :smile:
 You have successfully created a DBO.POSTS and DBO.USERS databases to keep records of the data we might input and use later :clap: :tada:
 
 ** Good Read on [Azure Sql](https://azure.microsoft.com/en-in/services/sql-database/) Databases. **
