@@ -98,7 +98,7 @@ medium
 1) Please rename your Application Profiles to small and medium !!
 2) For Security Reasons pls delete API_User .
 3) Please use correct credentials for WebServer and HAProxy use teccadmin and for db operations use teccdba.
-
+4) Please use different usernames for SSH Credentials !! Guess How you can have the same username for different Profiles.
 
 ### Additional Resources :-
 * [Kubernetes](https://www.nutanix.com/solutions/cloud-native/hybrid-cloud-kubernetes)
