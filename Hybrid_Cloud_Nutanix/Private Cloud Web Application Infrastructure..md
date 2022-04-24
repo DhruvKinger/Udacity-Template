@@ -1,11 +1,11 @@
 
-### Good work. :tada: :clap:
+## Good work. :tada: :clap:
 Thanks for submitting the excel file. 
 Your attached excel which has the configuration details generated from Nutanix.
 
 - - - - - - - -
 
-### Nice work! :star:
+## Nice work :smile:
 * A text file CTOEmail.txt containing a thorough summary of the tasks performed, based on emails from the CTO, networking team, and systems administration team had been submitted. ✅
 * Configuration Criteria should be included in the email. ✅
 
