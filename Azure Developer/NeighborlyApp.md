@@ -64,8 +64,14 @@ The student should be able create an Event Hubs namespace and an event hub with 
 
 
 ![6-eventhub_namespace.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615660314/6-eventhub_namespace.PNG)
-![6-eventhubnamescape2.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615660314/6-eventhubnamescape2.PNG)
+
 ------
+
+### Excellent Work :smile:
+
+The student should be able to use the endpoint connection string from the event hub to the eventHubTrigger function in the function.json file. :white_check_mark:
+
+- - - - -- 
 
 ### Well done :star:
 I can clearly see the App Service live URL in the browser !!
