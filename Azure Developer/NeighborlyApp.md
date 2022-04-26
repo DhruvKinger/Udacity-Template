@@ -99,7 +99,6 @@ The student should be able to create a cluster with one node. ✅
 
 ** Here is an Additional Link on [AKS](https://azure.microsoft.com/en-in/services/kubernetes-service/) !! **
 
-![9-kubernetes1.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615660510/9-kubernetes1.PNG)
 - -----
 
 ## Dear Student,
