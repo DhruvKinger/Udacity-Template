@@ -172,7 +172,8 @@ Students should be able to create a Logic App that watches for an HTTP trigger. 
 
 ### Dear Student :smile:
 As Per the Rubric Point. Please Provide a Screenshot showing all the endpoints.
-For reference:-
+
+** For reference:- **
 
 ![dad](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1620761447/function_end.png)
 
