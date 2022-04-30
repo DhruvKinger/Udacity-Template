@@ -94,7 +94,7 @@ As evidence, provide a screenshot of the Azure Alert and the email sent when the
 I can clearly see this in your submission.
 The output of the Horizontal Pod Autoscaler shows an increase in the number of pods. ✅
 The Application Insights metrics show the increase in the number of pods. ✅
-The email you received from the alert when the pod count increased. 
+The email you received from the alert when the pod count increased. ✅
 ```
 
 ![hpa_watch.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1633281908/hpa_watch.png)
