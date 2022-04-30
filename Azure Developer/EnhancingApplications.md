@@ -108,7 +108,8 @@ The output of the Horizontal Pod Autoscaler shows an increase in the number of p
 The Application Insights metrics show the increase in the number of pods. ✖️
 The email you received from the alert when the pod count increased. ✖️
 ```
-** Plz attach a screenshot of the alert Email. **
+
+** Plz attach a screenshot of the number of pods. **
 
 ### For Reference :- 
 
