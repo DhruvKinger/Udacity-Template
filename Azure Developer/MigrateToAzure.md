@@ -142,7 +142,7 @@ It was my pleasure to review this wonderful project. Please continue with this s
 I like how consistent and patient you have been in implementing this project. Most of the concept displayed shows you have 
 grasped a lot from the classroom.
 
-* You have correctly configured the Db details in all the Azure Function 👍👍
+* You have correctly configured the Db details in all the Azure Functions 👍👍
 * You have correctly configured and deployed the Frontend app 👍👍
 ```
 ### Keep Learning, All the best 👍🏼👍🏼
