@@ -56,7 +56,7 @@ an email (with Gmail) notification. The student can validate this by a screensho
 - - -- - -
 
 ## Nice Work :tada:
-The student should be able create an Event Hubs namespace and an event hub with the command line or through the portal. If successful, the student can obtain the namespace url. Add a screenshot from the portal of this being live. ✅
+The student should be able to create an Event Hubs namespace and an event hub with the command line or through the portal. If successful, the student can obtain the namespace url. Add a screenshot from the portal of this being live. ✅
 
 ### Additional Resource:-
 
