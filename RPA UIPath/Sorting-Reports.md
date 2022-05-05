@@ -118,10 +118,10 @@ However you have Hardcoded the folders instead you should find characters and th
 
 ✔️ The downloaded file should be moved and unzipped in the “Project” directory itself. Note: Project directory here refers to the project workspace folder
 
-Here is a [Link](https://forum.uipath.com/t/current-path-of-directory/15425) to detect the current Path of Directory !!
+Here is a [Link](https://forum.uipath.com/t/current-path-of-directory/15425) to detect the current Path of the Directory !!
 
-You have done it correctly but the path is hardcoded it should be dynamic so that anyone can use this Project !!
-See the Link mentioned Above !!
+You have done it correctly but the path is hardcoded it should be dynamic so that anyone can use this Project.
+** See the Link mentioned Above. **
 
 ![path.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1624674362/path.PNG)
 
