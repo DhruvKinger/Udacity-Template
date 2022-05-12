@@ -211,7 +211,9 @@ As per this rubric requirement, you need to provide a screenshot from Azure Cont
 ### Further Reading
 * [Publishing Images to Azure Container Registry](https://docs.microsoft.com/en-us/azure/container-registry/container-registry-get-started-docker-cli)
 
----
+--- - - -- - - - 
+
+
 ## Nice Work :tada:
 Students should be able to create a Logic App that watches for an HTTP trigger. When the HTTP request is triggered, the student is sent an email (with Gmail) notification. The student can validate this by a screenshot of their inbox. :x:
 
@@ -224,4 +226,5 @@ Students should be able to create a Logic App that watches for an HTTP trigger. 
 
 ### Additional Resource
 * [Azure Logic App](https://medium.com/@dhruvkinger813/social-media-sentimental-analysis-using-azure-logic-apps-5dc8147c42ee)
-----
+
+
