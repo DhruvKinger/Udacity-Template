@@ -149,6 +149,7 @@ grasped a lot from the classroom.
 ## Additional Resources
 * [Web App Perfomance](https://www.telerik.com/blogs/nine-performance-tips-for-azure-app-services)
 * [Azure Blogs](https://github.com/DhruvKinger/Link-of-all-blogs)
+* [Azure Pricing Calculator](https://azure.microsoft.com/en-in/pricing/calculator/)
 
 --------
 
@@ -172,3 +173,4 @@ you have grasped a lot from the classroom.
 ### Additional Resources
 * [Web App Perfomance](https://www.telerik.com/blogs/nine-performance-tips-for-azure-app-services)
 * [Azure Blogs](https://github.com/DhruvKinger/Link-of-all-blogs)
+* [Azure Pricing Calculator](https://azure.microsoft.com/en-in/pricing/calculator/)
