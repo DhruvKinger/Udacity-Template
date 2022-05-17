@@ -157,7 +157,7 @@ grasped a lot from the classroom.
 
 ### Almost Done !! :smile:
 
-It was my pleasure to review this wonderful project. Please continue with this same sense of hard work and good luck with the next project. :udacious:
+It was my pleasure to review this wonderful project. As pointed out, there is a need for some changes, and think of these changes as a great opportunity to learn more and perfect your skills. :udacious:
 ```
 
 I like how consistent and patient you have been in implementing this project. Most of the concepts displayed show
