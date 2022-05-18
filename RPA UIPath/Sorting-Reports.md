@@ -6,6 +6,7 @@ Yes, the folder seems to be correct. :tada: You are done with all formats asked 
 **Tip**: Here is a resource to use the String manipulation method/s or Regex for capturing the year data from the file name and then creating the folder. You can check this [documentation](https://docs.uipath.com/studio/docs/regex-search) to know how RegEx Search Works.
 
 - - - - -
+
 ## Excellent Work :tada:
 Yes, this thing is working fine! No file is left after sorting! You are good to go with this! :tada:
 verify that no file is left in the downloaded folder. ✅
@@ -125,7 +126,7 @@ You have done it correctly but the path is hardcoded it should be dynamic so tha
 
 ![path.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1624674362/path.PNG)
 
-Note: Also It is not allowed to use HardCoded Delays. Please use find an activity to check if the File exists. Then Move further.
+** Note**: Also It is not allowed to use HardCoded Delays. Please use find an activity to check if the File exists. Then Move further.
 
 ## For Reference:-
 
@@ -144,8 +145,6 @@ Well done ! :clap: :clap:
 
 :x: Close the browser after the file has been downloaded - Used Close Tab Activity for closing the webpage
 
-- -- - - - - - - -
-** You are left with only 1 thing. **
 ** See the [Link](https://forum.uipath.com/t/how-to-close-a-browser/78978) for reference !! **
 
 - - - -
