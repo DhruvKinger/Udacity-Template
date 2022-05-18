@@ -91,8 +91,9 @@ Successfully created a protection configuration for the production environment a
 
 -----
 
-### Nice Work 
-You have completed this Point successfully !!
+### Nice Work 😃
+
+The restored production virtual machine will be identified by the default restore naming convention as shown during the restore process in Prism. ✅
 
 ![Capture1.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615431460/Capture1.PNG)
 
@@ -119,11 +120,12 @@ It was my pleasure to review this wonderful project. Please continue with this s
 [High Availability and Data Protection](https://www.nutanix.com/blog/nutanix-high-availability-and-data-protection)
 
 - - - - - -
-## Failed Project !!
 
-### There are two major parts to the E-mail text file. They are,
-A summary of the requirements based on emails from the CTO, networking team, and systems administration team.
-An outline of the tasks that have been performed.
+### There are two major parts to the E-mail text file. They are :-
+
+* A summary of the requirements based on emails from the CTO, networking team, and systems administration team.
+* An outline of the tasks that have been performed.
+
 The submitted E-mail text contains the tasks that have been performed but there also should be a short summary containing the requirements at the beginning that have been told. Follow the below suggestions which will help you with this section.
 
 Give a brief summary of the requirements that were asked at the beginning.
@@ -131,6 +133,7 @@ In the performed tasks outline, give more details of the configurations. For exa
 You can use bullet points for both sections. It will give a clear view of the message.
 
 ---- 
+
 ## Good work. :tada:
 You need to rename the name of Managed network to Production !! Rest Everything seems to be fine !! In a real-time scenario, there will be multiple Managed networks, and providing correct naming convention is very important
 
@@ -219,6 +222,8 @@ The Data Protection domain(s) should be easily identified as the protection conf
 ** Note: One Protection domain or multiple Protection domains are both acceptable. **
 
 - - - - -
+
+![good](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1652877164/good.gif)
 
 ## Dear Student :clap: :tada:
 
