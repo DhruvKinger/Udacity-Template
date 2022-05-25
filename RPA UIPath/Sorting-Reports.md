@@ -25,9 +25,9 @@ All the reports have been moved into appropriate folders.✅
 
 - -- - - 
 
-Nice work :tada:
-I can see that happening ! It clearly shows the hard-work you have put in !
-You have done an amazing job here !
+### Nice work :tada:
+I can see that happening! It clearly shows the hard work you have put in!
+You have done an amazing job here!
 Well done ! :clap: :clap:
 
 :white_check_mark: Use the correct UiPath Browser Activity - used the Open browser activity
