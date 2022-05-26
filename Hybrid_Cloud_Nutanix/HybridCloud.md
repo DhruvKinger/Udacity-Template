@@ -141,6 +141,7 @@ We have two application profiles so always update all things on both small and m
 We have two application profiles so always update all things on both small and medium application profiles. If anything required changes for one profile make sure to verify for the other profile too.
 
 --  -- -- -
+
 ## Dear Student :clap: :tada:
 You are almost done! :muscle:
 The structure of this project is already impressive and you’ve done a great job with most of the specifications.
@@ -148,7 +149,7 @@ You are only left with renaming Application Profile Names and need to add Macro 
 Rest everything seems to be fine !!
 
 
-For every change mentioned, ensure that you do the fix on both the small and medium profile. Also, check other VM and tasks to be sure they are Okay.
+For every change mentioned, ensure that you do the fix on both the small and medium profiles. Also, check other VM and tasks to be sure they are Okay.
 Launch your blueprint to ensure it gets launched and you see the corresponding VMs and instances created on both the private cloud and on AWS.
 Perform the scale in/ scale out on both the private and public cloud and verify it works.
 Perform a backup action and verify your database is backed up.
