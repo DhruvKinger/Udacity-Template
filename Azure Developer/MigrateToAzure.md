@@ -131,7 +131,7 @@ You can use [Azure Pricing Calculator](https://azure.microsoft.com/en-in/pricing
 
 ------
 
-## Dear Student,
+## Dear Student :smile:
 
 ![congrats.gif](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615661006/congrats.gif)
 
