@@ -181,16 +181,14 @@ As Per the Rubric Point. Please Provide a Screenshot showing all the endpoints.
 
 -----
 
-
-
-### Dear Student 
+### Dear Student :smile:
 Please Provide screenshot of the App Service deployed on Azure.
 It seems to be missing in your submission.
 
 Here is a **[Link](https://www.telerik.com/blogs/nine-performance-tips-for-azure-app-services) **to Improve the Performance of your Web Apps !!
 
 ---
-
+### Dear Student :smile:
 Please Provide screenshot of the frontend App running on localhost.
 It seems to be missing in your submission.
 
