@@ -125,6 +125,7 @@ Each branch should have an activity; if there is an empty branch, have a “Comm
 ** Here is an additional reference [Link](https://docs.uipath.com/studio/docs/the-if-activity) on If Else Statements. **
 
 - - - -- - 
+
 ## Nice Work :tada: 
 
 You have done this section really well. :smile:
