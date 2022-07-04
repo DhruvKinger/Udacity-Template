@@ -4,15 +4,16 @@ Your Submission Verifies that the app service plan is F1 or a B1 :white_check_ma
 ### Additional Resource :-
 * [App Plan Tiers](https://samcogan.com/what-is-an-azure-app-service-plan-and-what-does-it-do/)
 
-** Key Point **:- Without an App Service Plan, you cannot create App Service. So, in the Azure portal, when you try to create an app service, you will have to select an app service plan. 
-
+** Key Points **:-
+*  Without an App Service Plan, you cannot create App Service. So, in the Azure portal, when you try to create an app service, you will have to select an app service plan. 
+* You can host up to 100 apps in a single app service plan, but the key thing to know here is that as with the free plan you are charged per app, not per app service plan.
 
 ![App_Service_Plan.jpeg](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1634638556/App_Service_Plan.jpeg)
 
 -- - - -- -
 
 ### Excellent Work :smile: :star:
-Student provides a screenshot of the application successfully running with the URL in this format https://*.azurewebsites.net**. The screenshot should be fullscreen showing the URL and application running. :white_check_mark:
+Student provides a screenshot of the application successfully running with the URL in this format https://*.azurewebsites.net**. The screenshot should be Fullscreen showing the URL and application running. :white_check_mark:
 
 Here is an additional [Link](https://docs.microsoft.com/en-us/azure/app-service/quickstart-python?tabs=bash&pivots=python-framework-flask) on how to deploy flask apps.
 
@@ -52,6 +53,9 @@ Azure portal provides the capabilities to create, manage, monitor, and integrate
 
 ** Here is an additional [Learning](https://azure.microsoft.com/en-in/services/functions/) Resource. **
 
+**Key Point : -** The Azure Functions host is written in .NET Core which means it can operate on any operating system that has .NET Core installed.
+
+**How awesome is that? That means your team can work on the same project regardless of their personal operating system.**
 
 ![Function_App_Name.jpeg](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1634638923/Function_App_Name.jpeg)
 
