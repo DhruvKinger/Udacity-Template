@@ -99,6 +99,8 @@ Here is an additional [Learning](https://azure.microsoft.com/en-in/services/func
 ## Well Done :clap: :tada:
 Great Job-Creating an explanation of the services, See another submission of this component.
 
+**For any additional information you can check this [Link](https://docs.microsoft.com/en-us/learn/).**
+
 ### See Mine Submission :-
 ![hhh.JPG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1634527414/hhh.JPG)
 
