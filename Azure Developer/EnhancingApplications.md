@@ -140,6 +140,13 @@ logger ✅
 
 ---  - - - - - -
 
+## Dear Student :smile:
+
+You are missing the screenshot that outputs traces chart created using query.
+**Please include that in your submission.**
+
+-- --
+
 ### Great Work :clap:
 Create an auto-scaling rule for a VMSS. ✅
 As evidence, provide a screenshot showing the conditions set for the auto scaling rule. This can be found in the Scaling item in the VM Scale Set. ✅
