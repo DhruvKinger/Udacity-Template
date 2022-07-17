@@ -8,8 +8,6 @@ Your Submission Verifies that the app service plan is F1 or a B1 :white_check_ma
 *  Without an App Service Plan, you cannot create App Service. So, in the Azure portal, when you try to create an app service, you will have to select an app service plan. 
 * You can host up to 100 apps in a single app service plan, but the key thing to know here is that as with the free plan you are charged per app, not per app service plan.
 
-![App_Service_Plan.jpeg](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1634638556/App_Service_Plan.jpeg)
-
 -- - - -- -
 
 ### Excellent Work :smile: :star:
@@ -17,7 +15,6 @@ Student provides a screenshot of the application successfully running with the U
 
 Here is an additional [Link](https://docs.microsoft.com/en-us/azure/app-service/quickstart-python?tabs=bash&pivots=python-framework-flask) on how to deploy flask apps.
 
-![App_Running.jpg](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1634638688/App_Running.jpg)
 
 - -- - - - - - 
 
@@ -32,8 +29,6 @@ Infrastructure management – including scalability, availability saving you tim
 ** Here is an additional [Link](https://azure.microsoft.com/en-in/product-categories/databases/) on the type of Azure Databases. **
 
 
-![Postgresql_Database_Resource.jpeg](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1634638795/Postgresql_Database_Resource.jpeg)
-
 ------
 
 ## Excellent Work :clap: :tada:
@@ -41,8 +36,6 @@ Infrastructure management – including scalability, availability saving you tim
 
 * Web App Deployed :white_check_mark:
 * Web app successfully loading the list of attendees and notifications from Postgres. :white_check_mark:
-
-![2.2.1_Add_Attendee.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1636435803/2.2.1_Add_Attendee.PNG)
 
 - - -- - - - 
 
@@ -57,8 +50,6 @@ Azure portal provides the capabilities to create, manage, monitor, and integrate
 
 **How awesome is that? That means your team can work on the same project regardless of their personal operating system.**
 
-![Function_App_Name.jpeg](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1634638923/Function_App_Name.jpeg)
-
 ---------
 
 ## Well Done :clap:
@@ -67,6 +58,10 @@ Excellent Work in the configuration part of the Azure Functions. Keep Learning a
 Here is an additional [Learning](https://azure.microsoft.com/en-in/services/functions/) Resource.
 
 ** Note: Pls attach screenshot of your function app. **
+
+**Key Point : -** The Azure Functions host is written in .NET Core which means it can operate on any operating system that has .NET Core installed.
+
+**How awesome is that? That means your team can work on the same project regardless of their personal operating system.**
 
 --------
 
@@ -77,8 +72,8 @@ Here is an additional [Learning](https://azure.microsoft.com/en-in/services/func
 ** Additional Resources :- **
 * [Service Bus](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-python-how-to-use-queues)
 
--------
 
+-------
 
 ### Excellent Work :tada:
 * Submitting a new notification :white_check_mark:
@@ -87,7 +82,6 @@ Here is an additional [Learning](https://azure.microsoft.com/en-in/services/func
 ** However your submission should contain number of attendees notified as well as the completion date. **
 
 ** Number of attendees notified should be visible. **
-
 
 ### Additional Resources :- 
 * [Service Bus](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-python-how-to-use-queues)
