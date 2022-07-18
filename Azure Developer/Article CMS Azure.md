@@ -73,8 +73,6 @@ The screenshot should include the URL and at least one article containing the ti
 
 ** Here are some tips and tricks related to [Azure Web App](https://www.michaelcrump.net/azure-tips-and-tricks23/). **
 
-![edit-post.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615612253/edit-post.png)
-
 ----
 
 ## Great Work :tada:
@@ -157,6 +155,9 @@ Here is an additional [Link](https://docs.microsoft.com/en-us/azure/azure-monito
 - -- - - 
 
 ## Dear Student :smile:
+
+![fail](https://camo.githubusercontent.com/71f9c5a373827629f332b7bc210c5d912cc0b0d2735d5ed440cd5a8c4cefbc8c/68747470733a2f2f756461636974792d726576696577732d75706c6f6164732e73332e75732d776573742d322e616d617a6f6e6177732e636f6d2f5f6174746163686d656e74732f333632353236382f313635323837373136342f676f6f642e676966)
+
 ### Excellent Submission! :tada:
 Just small changes are required in order to complete the project.
 I was impressed with the effort made in this submission. Especially the configuration of the redirects. This is so cool. :sunglasses:
