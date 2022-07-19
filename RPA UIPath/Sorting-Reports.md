@@ -61,8 +61,6 @@ Here is a [link](https://docs.uipath.com/robot/docs/attended-vs-unattended) for 
 ## Great work doing this! :tada:
 I can clearly see all your workflows! Your naming convention seems to be appropriate as well! That would be easier to read from the User's perspective.
 
-![kkk.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1623859842/kkk.PNG)
-
 ** Please see this [link](https://www.uipath.com/learning/video-tutorials/project-organization) about UiPath Project Organization. **
 
 - -- -- - 
@@ -117,7 +115,7 @@ However you have Hardcoded the folders instead you should find characters and th
 ## Well done! :clap: :clap:
 ### You have done an amazing job here !
 
-✔️ The downloaded file should be moved and unzipped in the “Project” directory itself. Note: Project directory here refers to the project workspace folder
+✔️ The downloaded file should be moved and unzipped in the “Project” directory itself. Note: The Project directory here refers to the project workspace folder
 
 Here is a [Link](https://forum.uipath.com/t/current-path-of-directory/15425) to detect the current Path of the Directory !!
 
