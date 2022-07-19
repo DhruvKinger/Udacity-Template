@@ -29,7 +29,7 @@ Good Read on [NTP usability.](https://next.nutanix.com/installation-configuratio
 Domain Name Server configuration correctly added. It is part of Google Public DNS which has id such as 8.8.8.8 or 8.8.4.4
 ```
 ### Additional Resource :-
-Good read on DNS for depth understanding :- https://developers.google.com/speed/public-dns :clap:
+Good read on DNS for depth understanding:- https://developers.google.com/speed/public-dns :clap:
 
 
 - - - - 
