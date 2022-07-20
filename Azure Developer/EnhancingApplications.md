@@ -127,6 +127,7 @@ tracer ✅
 flask middleware ✅
 logger ✅
 
+**Here is an additional resourceful [link](https://github.com/microsoft/ApplicationInsights-Python) on Application Insights.**
 -- - - - -
 
 ## Great Work :clap:
@@ -162,8 +163,6 @@ As evidence, provide a screenshot showing the conditions set for the auto scalin
 * The new instances are being created. ✅
 * The metrics showing the load increasing, then decreasing once scaled up, including a timestamp. ✅
 
-![vmss-scaling-rule1.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1633281061/vmss-scaling-rule1.png)
-
 - - - - - - -- 
 
 ## Nice Work :tada:
@@ -186,8 +185,6 @@ As evidence, provide a screenshot of your resource group containing your running
 
 ** Here is an additional reference [Link](https://azure.microsoft.com/en-in/blog/introducing-the-azure-automation-runbook-gallery/) for the same. **
 
-![criteria 0-Resource group containing your running resources.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1635058083/criteria_0-Resource_group_containing_your_running_resources.png)
-
 -- - - - - - -
 
 ### Great Work :clap:
@@ -209,8 +206,6 @@ As evidence, provide a screenshot of the configuration.✅
 ### Additional Reference:-
 * [Azure Monitor](https://azure.microsoft.com/en-in/services/monitor/)
 
-![runbook_email1.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1633280387/runbook_email1.png)
-
 - - - - - - 
 
 ## Awesome :tada:
@@ -228,8 +223,6 @@ As evidence, provide a screenshot of the configuration.✅
 ### Great Work :clap:
 * Email showing the alert was triggered ✅
 * Metrics or other evidence showing the Runbook executed and resolved the issue. ✅
-
-![runbook_alert_summary.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1633281521/runbook_alert_summary.png)
 
 ---------
 
