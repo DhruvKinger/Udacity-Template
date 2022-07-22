@@ -23,7 +23,7 @@ You have deployed databases as per expected requirements.
 
 ```
 Azure offers a choice of fully managed relational, NoSQL, and in-memory databases, spanning proprietary and open-source engines, to fit the needs of modern app developers.
-Infrastructure management – including scalability, availability saving you time and money.  
+Infrastructure management – including scalability, and availability saving you time and money.  
 ```
 
 ** Here is an additional [Link](https://azure.microsoft.com/en-in/product-categories/databases/) on the type of Azure Databases. **
