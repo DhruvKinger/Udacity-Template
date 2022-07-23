@@ -47,7 +47,7 @@ You have to do this section . It seems to be missing. You need to manage the exc
 
 ![ccatch.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1623868796/ccatch.PNG)
 
-** However at some places you have missed it. For Example, if Orchestrator crashes there is no Handling there. orchestrator httpexception should handle it in that case. **
+** However in some places you have missed it. For Example, if Orchestrator crashes there is no Handling there. The orchestrator HTTP exception should handle it in that case. **
 
 --- - - - 
 
@@ -115,7 +115,6 @@ All commented-out activities (or unused workflows) should be deleted for a clean
 * [Reference](https://www.youtube.com/watch?v=n25m-mEuJQY)
 
 - -- - - 
-
 
 ## Excellent Work :tada:
 No more than 2 "If" activities should be nested within each other. Instead, this must be in a “Flowchart” or “Switch” activity to improve logic understanding. ✅
@@ -297,13 +296,14 @@ All invoked workflows must be listed in the Whiteboard file. Each workflow must 
 
 ** However, to make your DSD perfect, you should do the following: **
 
-+ * Add a runtime diagram. The runtime diagram should display the interaction between components (package/robots, Orchestrator queues). Check this [knowledge question](https://knowledge.udacity.com/questions/566782) for more information.
++ Add a runtime diagram. The runtime diagram should display the interaction between components (package/robots, Orchestrator queues). Check this [knowledge question](https://knowledge.udacity.com/questions/566782) for more information.
 
-+ * Under the "List of packages" section, you must mention the orchestrator packages that your process consists of not the activities packages. For example, if your process consists of dispatcher and performer, you must add two packages (the dispatcher and performer). if it consists of one process, you must add one package. In your case, you have one package and its name as the project name.
++ Under the "List of packages" section, you must mention the orchestrator packages that your process consists of not the activities packages. For example, if your process consists of dispatcher and performer, you must add two packages (the dispatcher and performer). if it consists of one process, you must add one package. In your case, you have one package and its name as the project name.
 
-+ * Please add Orchestrator Details. 
++ Please add Orchestrator Details. 
 
-+ ** Fill the VI, VII fields. Check this [thread](https://knowledge.udacity.com/questions/367806) to learn how. **
++ ** Fill the VI, and VII fields. Check this [thread](https://knowledge.udacity.com/questions/367806) to learn how. **
+
 
 ![dhruv.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1624622842/dhruv.PNG)
 
