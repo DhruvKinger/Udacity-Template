@@ -1,9 +1,9 @@
-## Passed
-- - -- -
 ### Nice work !! :clap: Excellent !! :smile:
 Yes, the folder seems to be correct. :tada: You are done with all formats asked according to the rubrics! ✅
 
 **Tip**: Here is a resource to use the String manipulation method/s or Regex for capturing the year data from the file name and then creating the folder. You can check this [documentation](https://docs.uipath.com/studio/docs/regex-search) to know how RegEx Search Works.
+
+**Here is an additional resource [Link](https://enterprisersproject.com/article/2019/5/rpa-robotic-process-automation-how-explain) for Basics of RPA UIPath.**
 
 - - - - -
 
@@ -12,16 +12,14 @@ Yes, this thing is working fine! No file is left after sorting! You are good to 
 verify that no file is left in the downloaded folder. ✅
 All the reports have been moved into appropriate folders.✅
 
-![Capture.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1617007785/Capture.PNG)
-
 - -- - - -
 
-## Well done ! :clap: :clap:
-### You have done an amazing job here !
+## Well done! :clap: :clap:
+### You have done an amazing job here!
 
-:white_check_mark: The downloaded file should be moved and unzipped in the “Project” directory itself. Note: Project directory here refers to the project workspace folder
+:white_check_mark: The downloaded file should be moved and unzipped in the “Project” directory itself. Note: The project directory here refers to the project workspace folder
 
-** Here is a [Link](https://forum.uipath.com/t/current-path-of-directory/15425) to detect current Path of Directory !! **
+** Here is a [Link](https://forum.uipath.com/t/current-path-of-directory/15425) to detect the current Path of the Directory !! **
 
 - -- - - 
 
@@ -43,12 +41,16 @@ Good job with the implementation of proper naming and initialization of variable
 ✔️All arguments must start with "in", "out", or "io".
 ✔️Meaningful and readable (Camel Case or Upper Camel/Pascal Case) names
 
+**Here is an additional resource [Link](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Pass-UiPath-Arguments-Example-Tutorial) on arguments and variables.**
+
 - - - -- 
 
 ### Excellent :tada:
 ✔️ Every .xaml file must have an annotation at the beginning (including a description, pre-condition, and post-action) and at any If statement, describing what the condition is testing.
 
 Here is a useful [Link](https://forum.uipath.com/t/comments-annotations-best-practices/20276) for reference !!
+
+**Note: Annotation is basically used to display a short message to the developer to give insights on like why a particular workflow is created for.**
 
 - - - - -
 
