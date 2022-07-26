@@ -85,8 +85,6 @@ I like how consistent and patient you have been in implementing this project. Mo
 
 --  -
 
-## Failed Project
-
 ## Dear Student :clap: :tada:
 ### You are almost done! :muscle:
 ### You have done an excellent Submission.
