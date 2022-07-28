@@ -12,6 +12,8 @@ Yes, this thing is working fine! No file is left after sorting! You are good to 
 verify that no file is left in the downloaded folder. ✅
 All the reports have been moved into appropriate folders.✅
 
+**Here is an additional [source](https://forum.uipath.com/t/datatable-sorting/193537/2) for Sorting in DataTables.**
+
 - -- - - -
 
 ## Well done! :clap: :clap:
@@ -32,6 +34,8 @@ Well done ! :clap: :clap:
 :white_check_mark: Use the correct Browser Type property to this activity - BrowserType.Chrome
 :white_check_mark: Open the browser with the URL provided
 :white_check_mark: Close the browser after the file has been downloaded - Used Close Tab Activity for closing the webpage
+
+**Here is an additional source [link](https://forum.uipath.com/t/how-to-close-a-browser/78978) for Close Browser Activity.**
 
 - - - -- 
 
@@ -55,8 +59,10 @@ Here is a useful [Link](https://forum.uipath.com/t/comments-annotations-best-pra
 - - - - -
 
 ### Great :tada: :clap:
-You have nicely explained the use for this automation as attended automation.
-Here is a [link](https://docs.uipath.com/robot/docs/attended-vs-unattended) for their difference !!
+You have nicely explained the use of this automation as attended automation.
+**Here is a [link](https://docs.uipath.com/robot/docs/attended-vs-unattended) for their difference !!**
+
+**Note:** Unattended RPA bots work independently, following a rules-based process to completion. Attended RPA bots are ready and waiting to be activated by employees whenever they are needed to help the process along. Unattended RPA bots operate on a preset schedule, or as triggered by logic in the process flow.
 
 - - -
 
