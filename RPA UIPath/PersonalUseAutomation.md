@@ -25,18 +25,17 @@ You should rename the if activities or giving them a meaningful annotation.
 ![snip.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1623868637/snip.PNG)
 
 ### Also Please follow Proper Naming Conventions Like UpperCase or Camel Case!
+
 --- - -- - -
 
 ## Nice Work :tada: :clap:
 Great job using the “Try Catch” activity to handle potential errors! 
-
 You have done this section really well I can see all the exceptions being declared and caught!!
 
 ### Additional Resources :-
 * [Try-Catch](https://docs.uipath.com/activities/docs/try-catch)
 
-
-![ccatch.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1623868796/ccatch.PNG)
+**Note:** Try Catch activity is used when you want to test something and handle the exception accordingly. So, whatever you want to test you can put it under the try section, and then if any error occurs, then it can be handled using the catch section.
 
 - -----
 ## Nice Work :tada: :clap:
@@ -66,8 +65,6 @@ You have done excellent work using the log message activity! You used it to Log 
 ### Additional Resources :-
 * [Logging-Levels](https://docs.uipath.com/studio/docs/logging-levels)
 
-![snipz.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1623868867/snipz.PNG)
-
 --- -- - - - 
 
 ## Great job !!
@@ -94,11 +91,9 @@ Every .xaml file must have an annotation at the beginning (including a descripti
 
 All commented-out activities (or unused workflows) should be deleted for a clean workflow. :white_check_mark: 
 
-
 ### Additional Info:
 * [Reference](https://www.youtube.com/watch?v=n25m-mEuJQY)
 
-![ann.PNG](https://udacity-reviews-uploads.s .us-west-2.amazonaws.com/_attachments/3625268/1623910382/ann.PNG)
 -- - - - - 
 
 ### Nice Work :tada:
@@ -130,6 +125,8 @@ Each branch should have an activity; if there is an empty branch, have a “Comm
 You have done this section really well. :smile:
 If there are multiple “Click”, “Type Into”, or other activities within the same application right after the other, they should be in a container called "Attach Browser...", "Attach Window...", “Open Application…”, or “Open Browser…”.  ✅
 
+**Here is an additional resource [link](https://docs.uipath.com/activities/docs/browser-scope) on Attach Browser activity.**
+
 - - - - - - 
 
 If there are multiple “Click”, “Type Into”, or other activities within the same application right after the other, they should be in a container called "Attach Browser...", "Attach Window...", “Open Application…”, or “Open Browser…”.
@@ -145,13 +142,12 @@ If there are multiple “Click”, “Type Into”, or other activities within t
 ### Nice Work :clap:
 Use “Find Element” or “Element Exists” activities to wait for loading or lagging applications, or check that an element is present on the screen before continuing with the execution. ✅
 
-![Url.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1625418615/Url.PNG)
-
 ------
-
 
 ### Excellent Work :tada:
 Use partial selectors where several activities are executed in the same window.  ✅
+
+**Here is an additional resource [link](https://docs.uipath.com/studio/docs/full-versus-partial-selectors) that differentiates b/w a full selector and a partial selector.**
 
 -----
 
@@ -231,8 +227,6 @@ Modules should have a direct purpose with not more than 3 uses. Minimize the num
 Split by Interface interaction. Split by over-complexity. If a student's module is very complex, they explain why it is necessary to not break it up. ✅
 
 All invoked workflows must be listed in the Whiteboard file. Each workflow must have a name, detailed description, pre-condition, post-action, and argument values.✅
-
-![dh.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1624622681/dh.PNG)
 
 - - - - -
 
