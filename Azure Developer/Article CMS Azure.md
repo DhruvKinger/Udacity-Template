@@ -7,8 +7,6 @@ It is cool putting your resources into a single resource group - it will make lo
 * [Resource Group](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/manage-resource-groups-portal) 
 * [Use Case](https://www.otava.com/reference/how-to-use-azure-resource-groups-a-simple-explanation/)
 
-
-![azure-portal-resource-group.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1619475362/azure-portal-resource-group.png)
 ----
 
 ## Excellent Work :smile:
@@ -19,8 +17,6 @@ You have successfully created a DBO.POSTS and DBO.USERS databases to keep record
 ### Additional Resources :-
 [Azure Databases](https://azure.microsoft.com/en-in/product-categories/databases/)
 
-
-![sql_storage_solution.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1630054177/sql_storage_solution.png)
 ----
 
 ### Nice Work :clap:
