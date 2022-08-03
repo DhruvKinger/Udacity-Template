@@ -95,9 +95,9 @@ Successfully created a protection configuration for the production environment a
 
 ### Nice Work 😃
 
-The restored production virtual machine will be identified by the default restore naming convention as shown during the restore process in Prism. ✅
+* The restored production virtual machine will be identified by the default restore naming convention as shown during the restore process in Prism. ✅
 
-![Capture1.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615431460/Capture1.PNG)
+* The Hybrid Cloud VM Info section should show a total of six VMs.  ✅
 
 -----
 
