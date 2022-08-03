@@ -74,7 +74,6 @@ Create an Azure Alert in Azure Monitor. This alert should trigger when the numbe
 
 As evidence, provide a screenshot of the Azure Alert and the email sent when the alert is triggered. ✅
 
-![runbook_email2.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1633280636/runbook_email2.png)
 
 - -- - - - - 
 
@@ -96,8 +95,6 @@ The output of the Horizontal Pod Autoscaler shows an increase in the number of p
 The Application Insights metrics show the increase in the number of pods. ✅
 The email you received from the alert when the pod count increased. ✅
 ```
-
-![hpa_watch.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1633281908/hpa_watch.png)
 
 -------- 
 
@@ -128,6 +125,7 @@ flask middleware ✅
 logger ✅
 
 **Here is an additional resourceful [link](https://github.com/microsoft/ApplicationInsights-Python) on Application Insights.**
+
 -- - - - -
 
 ## Great Work :clap:
@@ -136,8 +134,6 @@ logger ✅
 * **Application Insight Events that show the results of clicking vote for each Dogs & Cats** ✅
 * **The output of the traces query in Azure Log Analytics** ✅
 * **The chart created from the output of the traces query** ✅
-
-![3-dogs-cats.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1648669165/3-dogs-cats.png)
 
 ---  - - - - - -
 
