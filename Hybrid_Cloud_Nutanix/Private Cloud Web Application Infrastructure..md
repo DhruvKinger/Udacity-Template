@@ -31,17 +31,17 @@ Domain Name Server configuration correctly added. It is part of Google Public DN
 ### Additional Resource :-
 Good read on DNS for depth understanding:- https://developers.google.com/speed/public-dns :clap:
 
+**Note:** In the simplest form, a DNS is a directory of domain names that align with IP addresses. They bridge the gap between computer language and human language – keeping both servers and people happy.
 
 - - - - 
 
 ## Good work. :tada:
 You have named the network appropriately as well. In a real-time scenario, there will be multiple Managed networks, and providing the correct naming convention is very important.
 
+**Keynote:** Managed networks may include solutions and services such as managed LAN, managed WAN, a managed gateway, managed wireless networks, and other automated network support services.
+
 ### Additional Resources:-
 [Managed Network ](https://next.nutanix.com/how-it-works-22/create-managed-network-with-powershell-33024)
-
-
-![Capture.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615430890/Capture.PNG)
 
 ---- 
 
@@ -88,6 +88,8 @@ The virtual machines needed for the development environment are successfully clo
 ```
 Successfully created a protection configuration for the production environment and the schedule has been correctly set up to repeat after every 60 minutes to take snapshots of all the virtual machines on the production environment for a backup in case of a power or any other failure.
 ```
+
+**Keynote:** A protection domain is a group of VMs or volume groups that you can either snapshot locally or replicates to one or more clusters when you have a remote site configured. Prism Element uses protection domains when replicating between remote sites.
 
 -----
 
@@ -186,19 +188,18 @@ Good Read on [NTP usability.](https://next.nutanix.com/installation-configuratio
 
 -----------
 
-
 ### There should be 6 VM in the end state in total.
 2 - VM prod
 3 - VM - Dev
 1 VM which is cloned one after deleting any prod VM.
 
-### Note: you have cloned VMs but they should be done after deleting production VMs!
+**Note:** you have cloned VMs but they should be done after deleting production VMs!
 
-## Your Submission
+### Your Submission
 
 ![Capture.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615680304/Capture.PNG)
 
-## Ideally, it should look something Like this :
+### Ideally, it should look something Like this :
 ![Capture4.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3935679/1609335240/Capture4.PNG)
 
 - - - - -
