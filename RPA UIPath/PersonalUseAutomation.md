@@ -1,4 +1,3 @@
-## Points
 
 ### You have done an excellent Job. :smile:
 
@@ -11,7 +10,6 @@ Each activity must be renamed to include the action, application name, or title 
 ### Additional Resources:-
 * [Variables](https://docs.uipath.com/studio/docs/types-of-variables)
 
-![abc.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1623947640/abc.PNG)
 
 -- - - - -
 
@@ -19,7 +17,7 @@ Each activity must be renamed to include the action, application name, or title 
 
 ### However :
 There are still some activities that you didn't rename like the "Sequence" activities". Please, check again all the activities and make sure all of them have been renamed.
-You should rename the if activities or giving them a meaningful annotation.
+You should rename those activities or give them a meaningful annotation.
 ### See the screenshot below:-
 
 ![snip.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1623868637/snip.PNG)
@@ -68,8 +66,8 @@ You have done excellent work using the log message activity! You used it to Log 
 --- -- - - - 
 
 ## Great job !!
-You have done excellent work using the log message activity! You used it to Log the exception message in each catch section of the "Try Catch" activity!
-
+You have done excellent work in the try-catch activity! 
+**However, you are missing the logging part.**
 
  Logging specific state changes within the workflow. Like the beginning and end of each workflow
  and that includes the main :x:
@@ -101,8 +99,6 @@ All commented-out activities (or unused workflows) should be deleted for a clean
 Every .xaml file must have an annotation at the beginning (including a description, pre-condition, and post-action) and at any If statement, describing what the condition is testing. :x: 
 
 All commented-out activities (or unused workflows) should be deleted for a clean workflow. :white_check_mark: 
-
-- - 
 
 ** Please Add Necessary Annotations. **
 
@@ -139,8 +135,10 @@ If there are multiple “Click”, “Type Into”, or other activities within t
 
 -------
 
-### Nice Work :clap:
+### Excellent Work :clap: :tada:
 Use “Find Element” or “Element Exists” activities to wait for loading or lagging applications, or check that an element is present on the screen before continuing with the execution. ✅
+
+**Note:** Find Element waits for the specified UI element to appear on the screen and returns it as a UiElement variable.
 
 ------
 
