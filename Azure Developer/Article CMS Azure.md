@@ -3,6 +3,9 @@
 The right resources can be seen from this submission. This guarantees a safe space for the features ahead :clap:
 It is cool putting your resources into a single resource group - it will make long-term management, or even quick clean up, much easier!
 
+**Keynote:** A resource group is a container that holds related resources for an Azure solution. The resource group can include all the resources for the solution, or only those resources that you want to manage as a group.
+
+
 ### Additional Resources:-
 * [Resource Group](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/manage-resource-groups-portal) 
 * [Use Case](https://www.otava.com/reference/how-to-use-azure-resource-groups-a-simple-explanation/)
@@ -25,6 +28,8 @@ Thanks for including the screenshot of your blob storage. It looked like you pro
 ### Additional Resource:-
 * [Azure Storage](https://docs.microsoft.com/en-us/azure/storage/common/storage-account-overview)
 * [Comparions](https://www.serverless360.com/azure-storage-account)
+
+**Note:** The Azure Storage platform is Microsoft's cloud storage solution for modern data storage scenarios. Azure Storage offers highly available, massively scalable, durable, and secure storage for a variety of data objects in the cloud.
 
 ---
 
@@ -69,6 +74,8 @@ The screenshot should include the URL and at least one article containing the ti
 
 ** Here are some tips and tricks related to [Azure Web App](https://www.michaelcrump.net/azure-tips-and-tricks23/). **
 
+**Note:** Azure App Services provide a hosting service that developers can use to develop mobile or web apps. Apart from this, developers can also use it to build API apps or Logic apps, which provide integration with SaaS.
+
 ----
 
 ## Great Work :tada:
@@ -85,9 +92,6 @@ Moreover, the URL redirect is right on point :ok_hand:
 ### Excellent Work here too! :smile:
 You have done a really good job !
 Here is an additional [Link](https://docs.microsoft.com/en-us/azure/azure-monitor/logs/data-platform-logs) to monitor Azure Logs.
-
-
-![logs.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615612417/logs.png)
 
 ----
 
