@@ -7,9 +7,6 @@ It is cool putting your resources into a single resource group - it will make lo
 * [Resource Group](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/manage-resource-groups-portal) 
 * [Use Case](https://www.otava.com/reference/how-to-use-azure-resource-groups-a-simple-explanation/)
 
-
-![rg.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1646723070/rg.png)
-
 ----------
 
 
@@ -36,7 +33,6 @@ Information about the bytes sent and received. ✅
 ### Additional Info :-
 [Documentation](https://azure.microsoft.com/en-in/services/virtual-machine-scale-sets/)
 
-![vmss-enabled1.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1633278236/vmss-enabled1.png)
 
 - - - -- 
 
