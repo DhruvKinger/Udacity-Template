@@ -3,6 +3,8 @@
 The right resources can be seen from this submission. This guarantees a safe space for the features ahead :clap:
 It is cool putting your resources into a single resource group - it will make long-term management, or even quick clean up, much easier!
 
+**Keynote:** A resource group is a container that holds related resources for an Azure solution. The resource group can include all the resources for the solution, or only those resources that you want to manage as a group.
+
 ### Additional Resources:-
 * [Resource Group](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/manage-resource-groups-portal) 
 * [Use Case](https://www.otava.com/reference/how-to-use-azure-resource-groups-a-simple-explanation/)
@@ -32,7 +34,6 @@ Information about the bytes sent and received. ✅
 
 ### Additional Info :-
 [Documentation](https://azure.microsoft.com/en-in/services/virtual-machine-scale-sets/)
-
 
 - - - -- 
 
@@ -127,9 +128,11 @@ logger ✅
 ## Great Work :clap:
 
 ### You have done a great job here.
-* **Application Insight Events that show the results of clicking vote for each Dogs & Cats** ✅
-* **The output of the traces query in Azure Log Analytics** ✅
-* **The chart created from the output of the traces query** ✅
+* Application Insight Events that show the results of clicking vote for each Dogs & Cats ✅
+* The output of the traces query in Azure Log Analytics ✅
+* The chart created from the output of the traces query ✅
+
+**Note:** Tracing can be used in almost every situation. Application Insights is an extensible Application Performance Management (APM) service for web developers on multiple platforms. It can be used to monitor your live web application.
 
 ---  - - - - - -
 
@@ -143,6 +146,8 @@ You are missing the screenshot that outputs traces chart created using query.
 ### Great Work :clap:
 Create an auto-scaling rule for a VMSS. ✅
 As evidence, provide a screenshot showing the conditions set for the auto scaling rule. This can be found in the Scaling item in the VM Scale Set. ✅
+
+**Keynote:** Autoscale is a built-in feature of Cloud Services, Mobile Services, Virtual Machine Scale Sets, and Websites that helps applications perform their best when demand changes. Of course, performance means different things for different applications. Some apps are CPU-bound, others memory-bound.
 
 ### Additional Resources:
 * [VMSS  Overview](https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/virtual-machine-scale-sets-autoscale-overview)
