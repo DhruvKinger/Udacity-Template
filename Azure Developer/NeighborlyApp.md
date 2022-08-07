@@ -18,11 +18,11 @@ getAdvertisements, and deleteAdvertisement, getPost, getPosts. There should be 7
 
 ** Note: **  Azure Functions can be used to achieve decoupling, high throughput, reusability, and shared. Being more reliable, it can also be used for production environments. 
 
-![2-functions_endpoints1.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615659826/2-functions_endpoints1.PNG)
 - - - -
 
 ## Nice Work :clap: :star:
 To verify that the database is configured, the student should be able to retrieve the connection on each of their API endpoints in the server-API application. ✅
+
 ### Further Reading
 
 * [Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-reference-python#folder-structure)
@@ -36,7 +36,6 @@ Functions endpoints. The student can run the client-side application on localhos
 and should be able to view the feed of advertisements and posts. ✅
 ```
 
-![4-clientapp_localhost.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615660047/4-clientapp_localhost.PNG)
 
 -- ----
 
@@ -50,9 +49,6 @@ an email (with Gmail) notification. The student can validate this by a screensho
 ### Additional Resource
 * [Azure Logic App](https://medium.com/@dhruvkinger813/social-media-sentimental-analysis-using-azure-logic-apps-5dc8147c42ee)
 
-
-![5-LogicAppTrigger2.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615660160/5-LogicAppTrigger2.PNG)
-
 - - -- - -
 
 ## Nice Work :tada:
@@ -61,9 +57,6 @@ The student should be able to create an Event Hubs namespace and an event hub wi
 ### Additional Resource:-
 
 * [Event Hub](https://azure.microsoft.com/en-in/services/event-hubs/)
-
-
-![6-eventhub_namespace.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615660314/6-eventhub_namespace.PNG)
 
 ------
 
@@ -80,9 +73,6 @@ Here is a **[Link](https://www.telerik.com/blogs/nine-performance-tips-for-azure
 
 ### Additional Resources :-
 * [Azure Static Web Apps](https://azure.microsoft.com/en-in/services/app-service/static/)
-
-
-![7-clientapp_azure.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615660377/7-clientapp_azure.PNG)
 
 - - - -
 
