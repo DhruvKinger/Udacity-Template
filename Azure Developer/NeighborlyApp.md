@@ -52,11 +52,14 @@ an email (with Gmail) notification. The student can validate this by a screensho
 - - -- - -
 
 ## Nice Work :tada:
-The student should be able to create an Event Hubs namespace and an event hub with the command line or through the portal. If successful, the student can obtain the namespace url. Add a screenshot from the portal of this being live. ✅
+The student should be able to create an Event Hubs namespace and an event hub with the command line or through the portal. If successful, the student can obtain the namespace URL. Add a screenshot from the portal of this being live. ✅
 
 ### Additional Resource:-
 
 * [Event Hub](https://azure.microsoft.com/en-in/services/event-hubs/)
+
+
+**Note:** Azure Event Hub is a data ingestion service that streams a huge count of messages from any source to provide an immediate response to business challenges. The event Hub comes into play when handling of events along with data is required. Unlike Event Grids, Event Hubs perform certain additional tasks apart from just being an event broadcaster.
 
 ------
 
