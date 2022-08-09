@@ -162,12 +162,13 @@ You have correctly provided a screenshot showing eventHub connection string in t
 ## Nice Work :tada:
 Students should be able to create a Logic App that watches for an HTTP trigger. When the HTTP request is triggered, the student is sent an email (with Gmail) notification. The student can validate this by a screenshot of their inbox. ✅
 
-![logic-app-email-evidence.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1619474352/logic-app-email-evidence.png)
-
 ### Additional Resource
 * [Azure Logic App](https://medium.com/@dhruvkinger813/social-media-sentimental-analysis-using-azure-logic-apps-5dc8147c42ee)
 
 **Note**: Everything here is fine you only need to provide a screenshot of the Azure Logic App Designer !!
+
+### For Refernce:
+![5-LogicAppTrigger2.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615660160/5-LogicAppTrigger2.PNG)
 
 --
 
