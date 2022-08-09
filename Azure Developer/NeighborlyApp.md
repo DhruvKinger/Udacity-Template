@@ -25,8 +25,9 @@ getAdvertisements, and deleteAdvertisement, getPost, getPosts. There should be 7
 ## Nice Work :clap: :star:
 To verify that the database is configured, the student should be able to retrieve the connection on each of their API endpoints in the server-API application. ✅
 
-### Further Reading
+**Note:** Azure Functions are best suited for smaller apps have events that can work independently of other websites. Some of the common azure functions are sending emails, starting backup, order processing, task scheduling such as database cleanup, sending notifications, messages, and IoT data processing.
 
+### Further Reading
 * [Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-reference-python#folder-structure)
 
 -- ----
@@ -37,7 +38,6 @@ The client-side python Flask application has the routes to obtain services creat
 Functions endpoints. The student can run the client-side application on localhost:5000 and on the home page 
 and should be able to view the feed of advertisements and posts. ✅
 ```
-
 
 -- ----
 
