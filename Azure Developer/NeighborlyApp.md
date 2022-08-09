@@ -86,6 +86,8 @@ Here is a **[Link](https://www.telerik.com/blogs/nine-performance-tips-for-azure
 ### Awesome :star:
 I can see that the docker build is successful and the Docker image is successfully pushed to Azure Container Registry !!
 
+**Note:** Azure Container Registry is a private registry service for building, storing, and managing container images and related artifacts.It provides cloud-based container image building for platforms including Linux, Windows, and ARM, and can automate OS and framework patching for your Docker containers.
+
 ### Further Reading
 * [Azure Container Registry](https://docs.microsoft.com/en-us/azure/container-registry/container-registry-get-started-docker-cli)
 
