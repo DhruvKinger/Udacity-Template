@@ -20,6 +20,8 @@ You have successfully created a DBO.POSTS and DBO.USERS databases to keep record
 ### Additional Resources :-
 [Azure Databases](https://azure.microsoft.com/en-in/product-categories/databases/)
 
+**Note:** Azure offers a choice of fully managed relational, NoSQL, and in-memory databases, spanning proprietary and open-source engines, to fit the needs of modern app developers. 
+
 ----
 
 ### Nice Work :clap:
@@ -90,8 +92,10 @@ Moreover, the URL redirect is right on point :ok_hand:
 ----
 
 ### Excellent Work here too! :smile:
-You have done a really good job !
+You have done an excellent job!
 Here is an additional [Link](https://docs.microsoft.com/en-us/azure/azure-monitor/logs/data-platform-logs) to monitor Azure Logs.
+
+**Note:** Azure Monitor maximizes the availability and performance of your applications and services by delivering a comprehensive solution for collecting, analyzing, and acting on telemetry from your cloud and on-premises environments.
 
 ----
 
