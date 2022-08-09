@@ -1,6 +1,8 @@
 
 ## Excellent :star:
 Students should be able to create a MongoDB database, two collections, and import raw data into the database. The MongoDB database is hosted in Azure CosmosDB. ✅
+
+**Note:** Azure Cosmos DB is a fully managed, serverless NoSQL database for high-performance applications of any size or scale.
 - - -
 ### Further Reading
 * [Azure Databases](https://azure.microsoft.com/en-in/product-categories/databases/)
