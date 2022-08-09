@@ -48,6 +48,8 @@ When the HTTP request is triggered, the student is sent
 an email (with Gmail) notification. The student can validate this by a screenshot of their inbox. ✅ 
 ```
 
+**Note:** Azure Logic Apps is a cloud-based platform for creating and running automated workflows that integrate your apps, data, services, and systems. With this platform, you can quickly develop highly scalable integration solutions for your enterprise and business-to-business (B2B) scenarios.
+
 ### Additional Resource
 * [Azure Logic App](https://medium.com/@dhruvkinger813/social-media-sentimental-analysis-using-azure-logic-apps-5dc8147c42ee)
 
