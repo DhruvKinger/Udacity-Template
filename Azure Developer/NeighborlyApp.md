@@ -18,7 +18,7 @@ getAdvertisements, and deleteAdvertisement, getPost, getPosts. There should be 7
 
 ```
 
-** Note: **  Azure Functions can be used to achieve decoupling, high throughput, reusability, and shared. Being more reliable, it can also be used for production environments. 
+**Note:**  Azure Functions can be used to achieve decoupling, high throughput, reusability, and shared. Being more reliable, it can also be used for production environments. 
 
 - - - -
 
