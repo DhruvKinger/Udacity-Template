@@ -46,7 +46,7 @@ Azure portal provides the capabilities to create, manage, monitor, and integrate
 
 ** Here is an additional [Learning](https://azure.microsoft.com/en-in/services/functions/) Resource. **
 
-**Key Point : -** The Azure Functions host is written in .NET Core which means it can operate on any operating system that has .NET Core installed.
+**Key Point: -** The Azure Functions host is written in .NET Core which means it can operate on any operating system that has .NET Core installed.
 
 **How awesome is that? That means your team can work on the same project regardless of their personal operating system.**
 
@@ -71,7 +71,6 @@ Here is an additional [Learning](https://azure.microsoft.com/en-in/services/func
 
 ** Additional Resources :- **
 * [Service Bus](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-python-how-to-use-queues)
-
 
 -------
 
