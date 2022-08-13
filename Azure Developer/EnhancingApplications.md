@@ -71,7 +71,6 @@ Create an Azure Alert in Azure Monitor. This alert should trigger when the numbe
 
 As evidence, provide a screenshot of the Azure Alert and the email sent when the alert is triggered. ✅
 
-
 - -- - - - - 
 
 ## Excellent Work :tada:
@@ -83,7 +82,6 @@ As evidence, provide a screenshot of the Azure Alert and the email sent when the
 * As evidence, provide a screenshot of the Azure Alert and the email sent when the alert is triggered. 
 
 - -- - - - 
-
 
 ### Nice Work :tada:
 ```
