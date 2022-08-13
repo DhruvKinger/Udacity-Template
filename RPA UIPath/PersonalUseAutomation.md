@@ -10,6 +10,8 @@ Each activity must be renamed to include the action, application name, or title 
 ### Additional Resources:-
 * [Variables](https://docs.uipath.com/studio/docs/types-of-variables)
 
+**Note:** Arguments, resembling variables, are used to pass data from one workflow to another. They can store data dynamically and pass it on. One difference between variable and argument is that variables pass data to other activities while arguments pass data to other workflows.
+
 
 -- - - - -
 
@@ -91,6 +93,8 @@ All commented-out activities (or unused workflows) should be deleted for a clean
 
 ### Additional Info:
 * [Reference](https://www.youtube.com/watch?v=n25m-mEuJQY)
+
+**Note:** Annotation is basically used to display a short message to the developer/business for why a particular sequence/workflow is created for. To create annotations we can right-click on the activity or sequence and click on Add annotations to write the specific message.
 
 -- - - - - 
 
@@ -254,6 +258,8 @@ All invoked workflows must be listed in the Whiteboard file. Each workflow must 
 ### Additional Resource :-
 
 * [Docs](https://docs.uipath.com/task-capture/docs/details-about-the-pdd)
+
+**Note:** A process definition document (PDD) is the representation of “AS-IS” business processes that are chosen for RPA.
 
 - -- - - 
 
