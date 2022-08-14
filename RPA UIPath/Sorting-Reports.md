@@ -47,6 +47,8 @@ Good job with the implementation of proper naming and initialization of variable
 
 **Here is an additional resource [Link](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Pass-UiPath-Arguments-Example-Tutorial) on arguments and variables.**
 
+**Note:** Variables are used to pass the data between the activities of same project, while Arguments are used to pass the data between the workflows or projects. Arguments have global scope in a workflow or project by default unlike variables where we can define the scope for them manually as per the requirement.
+
 - - - -- 
 
 ### Excellent :tada:
