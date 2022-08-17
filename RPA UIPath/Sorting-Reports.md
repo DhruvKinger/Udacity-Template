@@ -17,7 +17,7 @@ All the reports have been moved into appropriate folders.✅
 - -- - - -
 
 ## Well done! :clap: :clap:
-### You have done an amazing job here!
+**You have done an amazing job here!**
 
 :white_check_mark: The downloaded file should be moved and unzipped in the “Project” directory itself. Note: The project directory here refers to the project workspace folder
 
@@ -47,7 +47,7 @@ Good job with the implementation of proper naming and initialization of variable
 
 **Here is an additional resource [Link](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Pass-UiPath-Arguments-Example-Tutorial) on arguments and variables.**
 
-**Note:** Variables are used to pass the data between the activities of same project, while Arguments are used to pass the data between the workflows or projects. Arguments have global scope in a workflow or project by default unlike variables where we can define the scope for them manually as per the requirement.
+**Note:** Variables are used to pass the data between the activities of the same project, while Arguments are used to pass the data between the workflows or projects. Arguments have global scope in a workflow or project by default, unlike variables where we can define the scope for them manually as per the requirement.
 
 - - - -- 
 
@@ -173,7 +173,6 @@ Good job with the implementation of proper naming and initialization of variable
 
 ** Please add annotations in each xaml file. **
 ** Here is a useful [Link](https://forum.uipath.com/t/comments-annotations-best-practices/20276) for reference !! **
-
 
 ![Capture.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1617008046/Capture.PNG)
 
