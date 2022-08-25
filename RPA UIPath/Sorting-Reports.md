@@ -121,7 +121,7 @@ However you have Hardcoded the folders instead you should find characters and th
 
 
 ## Well done! :clap: :clap:
-### You have done an amazing job here !
+### You have done an amazing job here!
 
 ✔️ The downloaded file should be moved and unzipped in the “Project” directory itself. Note: The Project directory here refers to the project workspace folder
 
@@ -173,9 +173,6 @@ Good job with the implementation of proper naming and initialization of variable
 
 ** Please add annotations in each xaml file. **
 ** Here is a useful [Link](https://forum.uipath.com/t/comments-annotations-best-practices/20276) for reference !! **
-
-![Capture.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1617008046/Capture.PNG)
-
 
 - - - -
 
