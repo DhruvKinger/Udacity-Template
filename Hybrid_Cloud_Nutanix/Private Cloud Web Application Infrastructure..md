@@ -140,18 +140,16 @@ You can use bullet points for both sections. It will give a clear view of the me
 ---- 
 
 ## Good work. :tada:
-You need to rename the name of Managed network to Production !! Rest Everything seems to be fine !! In a real-time scenario, there will be multiple Managed networks, and providing correct naming convention is very important
-
-![Capture1.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615680130/Capture1.PNG)
+You need to rename the name of Managed network to Production !! Rest Everything seems to be fine !! In a real-time scenario, there will be multiple Managed networks, and providing correct naming convention is very important.
 
 - - - -
 
 ### Good work. :tada:
-You need to rename the name of Unmanaged network to Development !! Rest Everything seems to be fine !! In a real-time scenario, there will be multiple Unmanaged networks, and providing correct naming convention is very important
+You need to rename the name of the Unmanaged network to Development !! Rest Everything seems to be fine !! In a real-time scenario, there will be multiple Unmanaged networks, and providing the correct naming convention is very important.
 
 -- - - -
 
-** :100: Production VMs need to be correctly set and require correct Naming convention. **
+** :100: Production VMs need to be correctly set and require the correct Naming convention. **
 
 ```
 VM Name: db-prod (or equivalent) ✅
@@ -164,7 +162,8 @@ The VMs should be on the production/managed network listed under column B (i.e V
 ![Capture1.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615479850/Capture1.PNG)
 
 - - - -
-### :100: Development VMs need to be correctly set and require correct Naming convention.
+
+### :100: Development VMs need to be correctly set and require the correct Naming convention.
 ```
 VM Name: db-dev (or equivalent) ❌
 VM Name: app-dev (or equivalent) ✅
