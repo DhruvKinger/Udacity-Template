@@ -11,10 +11,9 @@ Your Submission Verifies that the app service plan is F1 or a B1 :white_check_ma
 -- - - -- -
 
 ### Excellent Work :smile: :star:
-Student provides a screenshot of the application successfully running with the URL in this format https://*.azurewebsites.net**. The screenshot should be Fullscreen showing the URL and application running. :white_check_mark:
+The Student provides a screenshot of the application successfully running with the URL in this format https://*.azurewebsites.net**. The screenshot should be Fullscreen showing the URL and application running. :white_check_mark:
 
 Here is an additional [Link](https://docs.microsoft.com/en-us/azure/app-service/quickstart-python?tabs=bash&pivots=python-framework-flask) on how to deploy flask apps.
-
 
 - -- - - - - - 
 
@@ -125,7 +124,7 @@ You need some fixes in it.
 You can use [Azure Pricing Calculator](https://azure.microsoft.com/en-in/pricing/calculator/) to do that so.
 
 ### Fixes :-
-* Pls mention cost of all resources used say you are missing function app.
+* Pls mention the cost of all resources used say you are missing the function app.
 
 ------
 
