@@ -66,7 +66,6 @@ You have completed these steps correctly and created the images - Disk for requi
 
 ** Short Article for [Image Creation](https://next.nutanix.com/prism-infrastructure-management-26/ahv-vdisk-part-3-creating-an-image-of-or-from-an-existing-vdisk-33686) **
 
-
 -----
 
 :100: Production VMs correctly created and required Naming convention followed.
