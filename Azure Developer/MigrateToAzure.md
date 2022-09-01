@@ -49,7 +49,7 @@ Azure portal provides the capabilities to create, manage, monitor, and integrate
 
 **How awesome is that? That means your team can work on the same project regardless of their personal operating system.**
 
----------
+---------.
 
 ## Well Done :clap:
 Excellent Work in the configuration part of the Azure Functions. Keep Learning and growing like that.
@@ -83,8 +83,6 @@ Here is an additional [Learning](https://azure.microsoft.com/en-in/services/func
 
 ### Additional Resources :- 
 * [Service Bus](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-python-how-to-use-queues)
-
-![boss.jpg](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1637497902/boss.jpg)
 
 - -- - - - - - 
 
