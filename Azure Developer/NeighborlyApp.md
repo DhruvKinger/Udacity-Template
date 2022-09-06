@@ -63,7 +63,7 @@ The student should be able to create an Event Hubs namespace and an event hub wi
 * [Event Hub](https://azure.microsoft.com/en-in/services/event-hubs/)
 
 
-**Note:** Azure Event Hub is a data ingestion service that streams a huge count of messages from any source to provide an immediate response to business challenges. The event Hub comes into play when handling of events along with data is required. Unlike Event Grids, Event Hubs perform certain additional tasks apart from just being an event broadcaster.
+**Note:** Azure Event Hub is a data ingestion service that streams a huge count of messages from any source to provide an immediate response to business challenges. The event Hub comes into play when handling events along with data is required. Unlike Event Grids, Event Hubs perform certain additional tasks apart from just being an event broadcaster.
 
 ------
 
@@ -127,7 +127,7 @@ have grasped a lot from the classroom.
 ## Excellent Submission :clap: :clap:
 You have shown a good knowledge of Cloud Application Development in the Azure Ecosystem. Keep it up. :clap: :clap:
 
-* You have correctly configured the Mongo details in all the Azure Function 👍👍
+* You have correctly configured the Mongo details in all the Azure Functions 👍👍
 * You have correctly configured and deployed the Frontend app 👍👍
 
 - - -
