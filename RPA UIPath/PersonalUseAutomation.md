@@ -341,7 +341,7 @@ All the Modifications you need to do I have mentioned below.
 
 
 You are only left with renaming Naming Conventions of the activities, logging and you need to update the documentation !!
-Rest everything seems to be fine !!
+Rest everything seems to be OK!!
 
 ### Additional Resources :bulb:
 
