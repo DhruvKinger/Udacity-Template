@@ -106,7 +106,7 @@ medium
 
 - ------
 
-### WebScaleIn, WebScaleOut, AWSScaleOut, AWSScaleIn, HAProxy Install are missing AWS web server address macro in the configuration :warning: With the current configuration, HAProxy forwards all traffic to the private cloud web tier only, not the AWS web tier. Add the AWS address macro to the configuration similar to how I have attached the screenshot below.
+### WebScaleIn, WebScaleOut, AWSScaleOut, AWSScaleIn, HAProxy Install are missing the AWS web server address macro in the configuration :warning: With the current configuration, HAProxy forwards all traffic to the private cloud web tier only, not the AWS web tier. Add the AWS address macro to the configuration similar to how I have attached the screenshot below.
 
 ### Your Submission:-
 
@@ -154,7 +154,7 @@ For every change mentioned, ensure that you do the fix on both the small and med
 Launch your blueprint to ensure it gets launched and you see the corresponding VMs and instances created on both the private cloud and on AWS.
 Perform the scale in/ scale out on both the private and public cloud and verify it works.
 Perform a backup action and verify your database is backed up.
-When all these works you will be 100% sure that your project has met all the required specs.
+When all this work you will be 100% sure that your project has met all the required specs.
 
 ### Additional Resources :bulb:
 ### Below are some helpful resources related to the project implementation:
