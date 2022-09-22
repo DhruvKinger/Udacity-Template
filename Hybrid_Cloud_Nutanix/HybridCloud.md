@@ -147,7 +147,7 @@ We have two application profiles so always update all things on both small and m
 You are almost done! :muscle:
 The structure of this project is already impressive and you’ve done a great job with most of the specifications.
 You are only left with renaming Application Profile Names and need to add Macro of AWS WebServer !!
-Rest everything seems to be fine !!
+Rest everything seems to be OK!!
 
 
 For every change mentioned, ensure that you do the fix on both the small and medium profiles. Also, check other VM and tasks to be sure they are Okay.
