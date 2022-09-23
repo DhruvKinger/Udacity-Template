@@ -1,7 +1,7 @@
 
 ### Brilliant start,:tada:
-The right resources can be seen from this submission. This guarantees a safe space for the features ahead :clap:
-It is cool putting your resources into a single resource group - it will make long-term management, or even quick clean up, much easier!
+The right resources can be seen in this submission. This guarantees a safe space for the features ahead :clap:
+It is cool putting your resources into a single resource group - it will make long-term management, or even quick clean-up, much easier!
 
 **Keynote:** A resource group is a container that holds related resources for an Azure solution. The resource group can include all the resources for the solution, or only those resources that you want to manage as a group.
 
