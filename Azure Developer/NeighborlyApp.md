@@ -167,7 +167,7 @@ Students should be able to create a Logic App that watches for an HTTP trigger. 
 
 **Note**: Everything here is fine you only need to provide a screenshot of the Azure Logic App Designer !!
 
-### For Refernce:
+### For Reference:
 ![5-LogicAppTrigger2.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615660160/5-LogicAppTrigger2.PNG)
 
 --
