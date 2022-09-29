@@ -169,7 +169,6 @@ Use partial selectors where several activities are executed in the same window. 
 Use at least 1 Orchestrator Assets.  :white_check_mark:
 Use at least 1 Orchestrator Queue.  :white_check_mark:
 
-
 ** Key Point ** : Orchestrator is a product of UiPath which enables you to orchestrate the UiPath robots in continuously executing repetitive processes on various platforms.
 
 ### Additional Resource:
@@ -293,7 +292,7 @@ All invoked workflows must be listed in the Whiteboard file. Each workflow must 
 
 + Add a runtime diagram. The runtime diagram should display the interaction between components (package/robots, Orchestrator queues). Check this [knowledge question](https://knowledge.udacity.com/questions/566782) for more information.
 
-+ Under the "List of packages" section, you must mention the orchestrator packages that your process consists of not the activities packages. For example, if your process consists of dispatcher and performer, you must add two packages (the dispatcher and performer). if it consists of one process, you must add one package. In your case, you have one package and its name as the project name.
++ Under the "List of packages" section, you must mention the orchestrator packages that your process consists of not the activities packages. For example, if your process consists of a dispatcher and performer, you must add two packages (the dispatcher and performer). if it consists of one process, you must add one package. In your case, you have one package and its name as the project name.
 
 + Please add Orchestrator Details. 
 
