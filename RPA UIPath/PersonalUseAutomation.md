@@ -292,11 +292,11 @@ All invoked workflows must be listed in the Whiteboard file. Each workflow must 
 
 + Add a runtime diagram. The runtime diagram should display the interaction between components (package/robots, Orchestrator queues). Check this [knowledge question](https://knowledge.udacity.com/questions/566782) for more information.
 
-+ Under the "List of packages" section, you must mention the orchestrator packages that your process consists of not the activities packages. For example, if your process consists of a dispatcher and performer, you must add two packages (the dispatcher and performer). if it consists of one process, you must add one package. In your case, you have one package and its name as the project name.
++ Under the "List of packages" section, you must mention the orchestrator packages that your process consists of not the activities packages. For example, if your process consists of a dispatcher and a performer, you must add two packages (the dispatcher and the performer). if it consists of one process, you must add one package. In your case, you have one package, and its name is the project name.
 
 + Please add Orchestrator Details. 
 
-+ Fill the VI, and VII fields. Check this [thread](https://knowledge.udacity.com/questions/367806) to learn how.
++ Fill in the VI, and VII fields. Check this [thread](https://knowledge.udacity.com/questions/367806) to learn how.
 
 ![dhruv.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1624622842/dhruv.PNG)
 
