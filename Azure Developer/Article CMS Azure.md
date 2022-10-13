@@ -104,7 +104,7 @@ Here is an additional [Link](https://docs.microsoft.com/en-us/azure/azure-monito
 
 ### Congratulations! :tada:
 
-I was impressed with the effort made on this submission. Especially configuration of the redirects. This is so cool.:sunglasses:
+I was impressed with the effort made on this submission. Especially the configuration of the redirects. This is so cool.:sunglasses:
 It was my pleasure to review this wonderful project. Please continue with this same sense of hard work and good luck with the next project. :udacious:
 I like how consistent and patient you have been in implementing this project. Most of the concept displayed shows you have grasped a lot from the classroom.
 
