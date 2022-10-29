@@ -103,11 +103,11 @@ The email you received from the alert when the pod count increased. ✖️
 
 ** Plz attach a screenshot of the number of pods. **
 
-### For Reference :- 
+### For Reference:- 
 
 ![3-output-hpa.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1648669056/3-output-hpa.png)
-- - - - - -
 
+- - - - - -
 
 ### Great Work :tada:
 References to each of these objects should be found in the def index() function  ✅
@@ -230,7 +230,6 @@ As evidence, provide a screenshot of the configuration.✅
 * Metrics or other evidence showing the RunBook executed and resolved the issue. 
 
 ** Note: Please upload the screenshot of Email received and runbook execution. You are missing this screenshot. **
-
 
 - - - - - -
 
