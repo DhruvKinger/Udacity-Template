@@ -32,7 +32,7 @@ Available Memory % ✅
 Information about the Disk ✅
 Information about the bytes sent and received. ✅
 
-### Additional Info :-
+### Additional Info:-
 [Documentation](https://azure.microsoft.com/en-in/services/virtual-machine-scale-sets/)
 
 - - - -- 
