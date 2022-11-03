@@ -4,7 +4,7 @@ Your Submission Verifies that the app service plan is F1 or a B1 :white_check_ma
 ### Additional Resource :-
 * [App Plan Tiers](https://samcogan.com/what-is-an-azure-app-service-plan-and-what-does-it-do/)
 
-** Key Points **:-
+**Key Points**:-
 *  Without an App Service Plan, you cannot create App Service. So, in the Azure portal, when you try to create an app service, you will have to select an app service plan. 
 * You can host up to 100 apps in a single app service plan, but the key thing to know here is that as with the free plan you are charged per app, not per app service plan.
 
