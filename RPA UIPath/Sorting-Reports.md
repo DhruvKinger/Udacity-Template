@@ -100,7 +100,7 @@ The structure of this project is already impressive and you’ve done a great jo
 You are only left with writing Annotations, using System.CurrentDirectory and Proper Naming Conventions, Creating Today's date directory and describing whether your bot is attended or unattended !!
 Rest everything seems to be fine !!
 
-### Additional Resources :-
+### Additional Resources:-
 ### Below are some helpful resources related to the project implementation:
 * [InterView-Questions](https://www.guru99.com/uipath-interview-questions.html)
 * [Test Suite](https://docs.uipath.com/test-suite)
