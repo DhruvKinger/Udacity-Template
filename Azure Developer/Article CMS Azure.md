@@ -17,7 +17,7 @@ You have successfully created a DBO.POSTS and DBO.USERS databases to keep record
 
 ** Good Read on [Azure Sql](https://azure.microsoft.com/en-in/services/sql-database/) Databases. **
 
-### Additional Resources :-
+### Additional Resources:-
 [Azure Databases](https://azure.microsoft.com/en-in/product-categories/databases/)
 
 **Note:** Azure offers a choice of fully managed relational, NoSQL, and in-memory databases, spanning proprietary and open-source engines, to fit the needs of modern app developers. 
