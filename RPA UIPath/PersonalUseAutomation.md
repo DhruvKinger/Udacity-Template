@@ -186,7 +186,7 @@ As Per requirements Please Use at least 1 Orchestrator Assets and Orchestrator Q
 
 ### Please fix this mandatory requirement ...
 
-** However there should be no hard-coded values in the workflow. You can use asset for the same. **
+** However there should be no hard-coded values in the workflow. You can use assets for the same. **
 
 ---- ----
 
@@ -237,7 +237,6 @@ Split by Interface interaction. Split by over-complexity. If a student's module 
 All invoked workflows must be listed in the Whiteboard file. Each workflow must have a name, detailed description, pre-condition, post-action, and argument values.:x:
 
 ### Please Define all your WorkFlows in Whiteboard File !!
-
 
 **Note**:- Please attach the Whiteboard file in your submission. :smile:
 
