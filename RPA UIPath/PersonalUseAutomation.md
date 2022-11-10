@@ -32,7 +32,7 @@ You should rename those activities or give them a meaningful annotation.
 Great job using the “Try Catch” activity to handle potential errors! 
 You have done this section really well I can see all the exceptions being declared and caught!!
 
-### Additional Resources :-
+### Additional Resources:-
 * [Try-Catch](https://docs.uipath.com/activities/docs/try-catch)
 
 **Note:** Try Catch activity is used when you want to test something and handle the exception accordingly. So, whatever you want to test you can put it under the try section, and then if any error occurs, then it can be handled using the catch section.
@@ -62,7 +62,7 @@ You have done excellent work using the log message activity! You used it to Log 
 
 ```
 
-### Additional Resources :-
+### Additional Resources:-
 * [Logging-Levels](https://docs.uipath.com/studio/docs/logging-levels)
 
 --- -- - - - 
@@ -199,7 +199,7 @@ You've met all the specifications of this rubric.
 :white_check_mark: 5 different data types
 :white_check_mark: Dispatcher and Performer design frameworks
 
-### Additional Resource :-
+### Additional Resource:-
 * [Datatypes](https://excelcult.com/uipath-data-types-complete-guide/)
 
 - - - - - -
@@ -251,7 +251,7 @@ All invoked workflows must be listed in the Whiteboard file. Each workflow must 
 * Unknown Exceptions :white_check_mark:
 * Known Errors or Exceptions :white_check_mark:
 
-### Additional Resource :-
+### Additional Resource:-
 
 * [Docs](https://docs.uipath.com/task-capture/docs/details-about-the-pdd)
 
