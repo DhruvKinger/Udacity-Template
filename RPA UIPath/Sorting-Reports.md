@@ -119,7 +119,6 @@ However you have Hardcoded the folders instead you should find characters and th
 
 ---------
 
-
 ## Well done! :clap: :clap:
 ### You have done an amazing job here!
 
@@ -134,7 +133,7 @@ You have done it correctly but the path is hardcoded it should be dynamic so tha
 
 ** Note**: Also It is not allowed to use HardCoded Delays. Please use find an activity to check if the File exists. Then Move further.
 
-## For Reference:-
+### For Reference:-
 
 ![dIRECTORY.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1627473258/dIRECTORY.PNG)
 
@@ -169,10 +168,9 @@ Good job with the implementation of proper naming and initialization of variable
 
 ## Dear Student :smile:
 
-** Every .xaml file must have an annotation at the beginning (including a description, pre-condition, and post-action) and at any If statement, describing what the condition is testing. **  :x:
+Every .xaml file must have an annotation at the beginning (including a description, pre-condition, and post-action) and at any If statement, describing what the condition is testing.   :x:
 
-** Please add annotations in each xaml file. **
-** Here is a useful [Link](https://forum.uipath.com/t/comments-annotations-best-practices/20276) for reference !! **
+**Please add annotations in each xaml file. Here is a useful [Link](https://forum.uipath.com/t/comments-annotations-best-practices/20276) for reference !!**
 
 - - - -
 
