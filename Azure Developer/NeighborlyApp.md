@@ -78,7 +78,7 @@ I can clearly see the App Service live URL in the browser !!
 
 Here is a **[Link](https://www.telerik.com/blogs/nine-performance-tips-for-azure-app-services) **to Improve the Performance of your Web Apps !!
 
-### Additional Resources :-
+### Additional Resources:-
 * [Azure Static Web Apps](https://azure.microsoft.com/en-in/services/app-service/static/)
 
 - - - -
