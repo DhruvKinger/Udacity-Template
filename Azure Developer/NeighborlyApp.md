@@ -39,6 +39,9 @@ Functions endpoints. The student can run the client-side application on localhos
 and should be able to view the feed of advertisements and posts. ✅
 ```
 
+**Keynote:** Azure Web Apps is a cloud computing-based platform for hosting websites, created and operated by Microsoft. It is a platform as a service (PaaS) that allows publishing Web apps running on multiple frameworks and written in different programming languages.
+
+
 -- ----
 
 ## Nice Work :tada:
