@@ -302,7 +302,7 @@ All invoked workflows must be listed in the Whiteboard file. Each workflow must 
 ------------
 
 ## Excellent Work :tada:
-### You have met all the points mentioned Below :
+### You have met all the points mentioned Below:
 
 :white_check_mark: the overall process
 whether the process will be unattended or attended, and when it will be scheduled, used by a user, or triggered another way
