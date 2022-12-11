@@ -13,7 +13,9 @@ Your Submission Verifies that the app service plan is F1 or a B1 :white_check_ma
 ### Excellent Work :smile: :star:
 The Student provides a screenshot of the application successfully running with the URL in this format https://*.azurewebsites.net**. The screenshot should be Fullscreen showing the URL and application running. :white_check_mark:
 
-Here is an additional [Link](https://docs.microsoft.com/en-us/azure/app-service/quickstart-python?tabs=bash&pivots=python-framework-flask) on how to deploy flask apps.
+**Here is an additional [Link](https://docs.microsoft.com/en-us/azure/app-service/quickstart-python?tabs=bash&pivots=python-framework-flask) on how to deploy flask apps.**
+
+> **Note:** Microsoft Azure Web Sites is a web hosting platform that supports multiple technologies, and programming languages (. NET, node. js, PHP, Python). Users with Microsoft Azure subscriptions can create Websites, and deploy content and code into the Web sites.
 
 - -- - - - - - 
 
@@ -84,6 +86,8 @@ Here is an additional [Learning](https://azure.microsoft.com/en-in/services/func
 ### Additional Resources:- 
 * [Service Bus](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-python-how-to-use-queues)
 
+**Note:** If you have any doubts you could ask over the [Knowledge Platform](https://knowledge.udacity.com/) and we guys would try to clear your doubts.
+
 - -- - - - - - 
 
 ## Well Done :clap: :tada:
@@ -92,7 +96,7 @@ Great Job-Creating an explanation of the services, See another submission of thi
 **For any additional information you can check this [Link](https://docs.microsoft.com/en-us/learn/).**
 
 ### See Mine Submission:
-![hhh.JPG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1634527414/hhh.JPG)
+![hhh.JPG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com_attachments/3625268/1634527414/hhh.JPG)
 
 - - - - - - - - 
 
