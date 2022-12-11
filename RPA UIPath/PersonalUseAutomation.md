@@ -78,7 +78,7 @@ You have done excellent work in the try-catch activity!
  Use detailed logs when starting and/or completing actions that may result in errors. :x:
 
 
-### For Reference :- 
+### For Reference:- 
 ![snipz.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1623868867/snipz.PNG)
 
 ** In other words, your log messages must cover all state changes in your code. **
