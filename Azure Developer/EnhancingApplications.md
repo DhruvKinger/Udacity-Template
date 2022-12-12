@@ -191,6 +191,8 @@ As evidence, provide a screenshot of your resource group containing your running
 
 Here is an additional reference [Link](https://azure.microsoft.com/en-in/blog/introducing-the-azure-automation-runbook-gallery/) for the same.
 
+**Keynote:** Runbooks are a set of standardized written procedures for completing repetitive information technology (IT) processes within a company. They are part of IT Infrastructure Library (ITIL) protocols, which incorporate information from IT processes, such as knowledge management and problem management.
+
 ** Note: Plz provide a resource group screenshot. **
 
 - - - - -
