@@ -65,11 +65,13 @@ As evidence, provide a screenshot showing Application Insights is enabled on the
 
 ### Excellent Work :tada:
 
-All the requirements in this Point are as per the expectations.
+All the requirements at this Point are as per the expectations.
 
 Create an Azure Alert in Azure Monitor. This alert should trigger when the number of pods increases beyond a certain threshold. ✅
 
 As evidence, provide a screenshot of the Azure Alert and the email sent when the alert is triggered. ✅
+
+> **Note:** Alerts help you detect and address issues before users notice them by proactively notifying you when Azure Monitor data indicates that there may be a problem with your infrastructure or application. You can alert on any metric or log data source in the Azure Monitor data platform.
 
 - -- - - - - 
 
