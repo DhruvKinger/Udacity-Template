@@ -56,7 +56,7 @@ Good job with the implementation of proper naming and initialization of variable
 
 Here is a useful [Link](https://forum.uipath.com/t/comments-annotations-best-practices/20276) for reference !!
 
-**Note: Annotation is basically used to display a short message to the developer to give insights on like why a particular workflow is created for.**
+> **Note:** Annotation is basically used to display a short message to the developer to give insights on like why a particular workflow is created for.
 
 - - - - -
 
