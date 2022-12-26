@@ -199,8 +199,8 @@ You need to consider cost factors here! Cost Estimations can give us some real i
 ## Ungradeable
 
 ## Dear Student 💡,
-** Hope you are doing well! It seems that you are missing screenshots. Screenshots are one of the prerequisites for this Project. **
-** Please add them and resubmit. **
+**Hope you are doing well! It seems that you are missing screenshots. Screenshots are one of the prerequisites for this Project.**
+**Please add them and resubmit. **
 
 - - - - -
 
