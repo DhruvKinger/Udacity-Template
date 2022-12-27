@@ -56,7 +56,7 @@ Good job with the implementation of proper naming and initialization of variable
 
 Here is a useful [Link](https://forum.uipath.com/t/comments-annotations-best-practices/20276) for reference !!
 
-> **Note:** Annotation is basically used to display a short message to the developer to give insights on like why a particular workflow is created for.
+> **Note**: Annotation is used to display a short message to the developer/business for why a particular sequence/workflow is created for.  This helps the person viewing your code understand the usage of the sequence or understand the condition that’ll be applied to the “if” loop.  
 
 - - - - -
 
@@ -171,6 +171,8 @@ Good job with the implementation of proper naming and initialization of variable
 Every .xaml file must have an annotation at the beginning (including a description, pre-condition, and post-action) and at any If statement, describing what the condition is testing.   :x:
 
 **Please add annotations in each xaml file. Here is a useful [Link](https://forum.uipath.com/t/comments-annotations-best-practices/20276) for reference !!**
+
+> **Note**: Annotation is used to display a short message to the developer/business for why a particular sequence/workflow is created for.  This helps the person viewing your code understand the usage of the sequence or understand the condition that’ll be applied to the “if” loop.  
 
 - - - -
 
