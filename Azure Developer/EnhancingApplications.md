@@ -292,6 +292,6 @@ The email you received from the alert when the pod count increased. ❌
 ## Dear Student 😄
 Please submit necessary screenshots in your submission and hence you're required to include that in your submission. Please read rubric points again and then resubmit.
 
-Thanks :smile:
+### Thanks :smile:
 
 - - - - -
