@@ -169,7 +169,7 @@ Use partial selectors where several activities are executed in the same window. 
 Use at least 1 Orchestrator Assets.  :white_check_mark:
 Use at least 1 Orchestrator Queue.  :white_check_mark:
 
-** Key Point ** : Orchestrator is a product of UiPath which enables you to orchestrate the UiPath robots in continuously executing repetitive processes on various platforms.
+** Key Point **: Orchestrator is a product of UiPath that enables you to orchestrate the UiPath robots in continuously executing repetitive processes on various platforms.
 
 ### Additional Resource:
 * [Asset Docs](https://docs.uipath.com/orchestrator/docs/about-assets)
