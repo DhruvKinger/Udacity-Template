@@ -85,7 +85,7 @@ I like how consistent and patient you have been in implementing this project. Mo
 
 ### Keep Learning, All the best 👍🏼👍🏼
 
-### Additional Resources :-
+### Additional Resources:-
 ### Below are some helpful resources related to the project implementation:
 * [InterView-Questions](https://www.guru99.com/uipath-interview-questions.html)
 * [Test Suite](https://docs.uipath.com/test-suite)
