@@ -105,7 +105,7 @@ Great Job-Creating an explanation of the services, See another submission of thi
 
 The Student provides a README that includes a short explanation and reasoning of the architecture selected for both the Azure web app and the Azure function in terms of cost-effectiveness  ❎
 
-** Please Provide detailed Info on all the Services you have used. **
+** Please provide detailed Info on all the Services you have used. **
 
 - - - - -- - - -
 
