@@ -215,7 +215,7 @@ You've met all the specifications of this rubric except one.
 
 ### Note: You haven't described the use of the above missing point.
 
-### Additional Resource :-
+### Additional Resource:-
 * [Datatypes](https://excelcult.com/uipath-data-types-complete-guide/)
 
 - - - - - -
@@ -332,14 +332,12 @@ where the student used each of the specific requirements above:
 - - - - - -
 
 ## Dear Student :clap: :tada:
-You are almost done! :muscle:
+
+### You are almost done! :muscle:
 The structure of this project is already impressive and you’ve done a great job with most of the specifications.
 You have defined all the types of Exceptions that could arise in your case and you have used Queues and Orchestrator in an efficient way as per requirements.
-All the Modifications you need to do I have mentioned below.
 
-
-You are only left with renaming Naming Conventions of the activities, logging and you need to update the documentation !!
-Rest everything seems to be OK!!
+> **Keynote:** All the Modifications you need to do I have mentioned in detail in the rubric points. You could check them and fix them.
 
 ### Additional Resources :bulb:
 
