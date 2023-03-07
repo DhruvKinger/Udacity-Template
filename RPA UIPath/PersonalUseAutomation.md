@@ -272,7 +272,7 @@ All invoked workflows must be listed in the Whiteboard file. Each workflow must 
 * The As-Is and To-Be Process Map figures are missing !!
 * Exceptions are not defined.
 
-### Additional Resource :-
+### Additional Resource:-
 
 * [Docs](https://docs.uipath.com/task-capture/docs/details-about-the-pdd)
 
@@ -337,7 +337,7 @@ where the student used each of the specific requirements above:
 The structure of this project is already impressive and you’ve done a great job with most of the specifications.
 You have defined all the types of Exceptions that could arise in your case and you have used Queues and Orchestrator in an efficient way as per requirements.
 
-> **Keynote:** All the Modifications you need to do I have mentioned in detail in the rubric points. You could check them and fix them.
+> **Keynote:** All the modifications you need to do I have mentioned in detail in the rubric points. You could check them and fix them.
 
 ### Additional Resources :bulb:
 
