@@ -187,11 +187,8 @@ Every .xaml file must have an annotation at the beginning (including a descripti
 ### Great work doing this!
 I can clearly see your Main workflow! Please split your Project into multiple Workflow!!
 
-
-![Capture1.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1617829133/Capture1.PNG)
-
-### For Reference :-
+### For Reference:-
 ![Capture.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1617007955/Capture.PNG)
 
-### Please see this [link](https://www.uipath.com/learning/video-tutorials/project-organization) about UiPath Project Organization.
+> **Please see this [link](https://www.uipath.com/learning/video-tutorials/project-organization) about UiPath Project Organization.**
 
