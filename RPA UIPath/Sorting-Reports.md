@@ -176,9 +176,9 @@ Every .xaml file must have an annotation at the beginning (including a descripti
 
 - - - -
 
-## Dear Student :smile:
+### Dear Student :smile:
 
-** Please Describe the use of this automation as attended or unattended In detail when doing the walkthrough of the bot.  **
+> **Keynote:** Please Describe the use of this automation as attended or unattended In detail when doing the walkthrough of the bot. 
 
 ** Here is a [link](https://docs.uipath.com/robot/docs/attended-vs-unattended) for their difference !! **
 
