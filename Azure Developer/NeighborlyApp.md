@@ -221,9 +221,9 @@ As per this rubric requirement, you need to provide a screenshot from Azure Cont
 Students should be able to create a Logic App that watches for an HTTP trigger. When the HTTP request is triggered, the student is sent an email (with Gmail) notification. The student can validate this by a screenshot of their inbox. :x:
 
 
-**Note**: Here you need to create a Logic App for http Trigger !!
+**Note**: You must create a Logic App for http Trigger !!
 
-### For Reference :-
+### For Reference:-
 
 ![5-LogicAppTrigger2.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615660160/5-LogicAppTrigger2.PNG)
 
