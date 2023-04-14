@@ -233,7 +233,7 @@ As evidence, provide a screenshot of the configuration.✅
 * Email showing the alert was triggered 
 * Metrics or other evidence showing the RunBook executed and resolved the issue. 
 
-** Note: Please upload the screenshot of Email received and runbook execution. You are missing this screenshot. **
+> ** Note: ** Please upload the screenshot of the Email received and runbook execution. You are missing this screenshot. 
 
 - - - - - -
 
