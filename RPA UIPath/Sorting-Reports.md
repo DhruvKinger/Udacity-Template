@@ -111,11 +111,11 @@ Rest everything seems to be fine !!
 ### Nice work !! :clap: Excellent !! :smile:
 Yes, the folder seems to be correct. :tada: You are done with all formats asked according to the rubrics! ✅
 
-However you have Hardcoded the folders instead you should find characters and then create folder on that character.
+However, you have Hardcoded the folders instead you should find characters and then create a folder on that character.
 
 **Tip**: Here is a resource to use the String manipulation method/s or Regex for capturing the year data from the file name and then creating the folder. You can check this [documentation](https://docs.uipath.com/studio/docs/regex-search) to know how RegEx Search Works.
 
-** Please read the rubric Point Say if Year is 1999 then Your Workflow will work ? **
+** Please read the rubric Point Say if Year is 1999 then Your Workflow will work? **
 
 ---------
 
