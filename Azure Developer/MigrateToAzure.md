@@ -95,7 +95,7 @@ Great Job-Creating an explanation of the services, See another submission of thi
 
 **For any additional information you can check this [Link](https://docs.microsoft.com/en-us/learn/).**
 
-### See Mine Submission:
+### See my Submission:
 ![Arch.jpg](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1670955105/Arch.jpg)
 
 - - - - - - - - 
