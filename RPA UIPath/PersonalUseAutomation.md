@@ -42,11 +42,11 @@ You have done this section really well I can see all the exceptions being declar
 
 You have to do this section . It seems to be missing. You need to manage the exceptions being declared and caught!!
 
-### For Reference :-
+### For Reference:-
 
 ![ccatch.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1623868796/ccatch.PNG)
 
-** However in some places you have missed it. For Example, if Orchestrator crashes there is no Handling there. The orchestrator HTTP exception should handle it in that case. **
+** However in some places you have missed it. For Example, if Orchestrator crashes there is no Handling there. The orchestrator HTTP exception should handle it in that case.**
 
 --- - - - 
 
