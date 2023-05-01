@@ -34,7 +34,7 @@ To verify that the database is configured, the student should be able to retriev
 
 ## Well Done :clap:
 ```
-The client-side python Flask application has the routes to obtain services created by server-side Azure
+The client-side python Flask application has the routes to obta.in services created by server-side Azure
 Functions endpoints. The student can run the client-side application on localhost:5000 and on the home page 
 and should be able to view the feed of advertisements and posts. ✅
 ```
@@ -156,7 +156,7 @@ You have correctly provided a screenshot showing eventHub connection string in t
 
 ** Here is another Helpful [Resource](https://askinglot.com/how-do-i-set-up-azure-event-hub) !! **
 
-### For Reference :-
+### For Reference:-
 
 ![2.2-event_hub.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1618828008/2.2-event_hub.png)
 
