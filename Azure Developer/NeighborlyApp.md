@@ -196,7 +196,7 @@ Here is a **[Link](https://www.telerik.com/blogs/nine-performance-tips-for-azure
 Please Provide screenshot of the frontend App running on localhost.
 It seems to be missing in your submission.
 
-### For reference :-
+### For reference:-
 ![d](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/385208/1623353898/Screenshot_2021-06-11_at_1.05.03_AM.png)
 
 ---
