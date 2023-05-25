@@ -165,7 +165,7 @@ you have grasped a lot from the classroom.
 * You have correctly configured the Db details in all the Azure Functions 👍👍
 * You have correctly configured and deployed the Frontend app 👍👍
 ```
-** I have mentioned in the detail the changes you need to do in order to pass the Project. **
+** I have mentioned in detail the changes you need to do in order to pass the Project. **
 
 ** Keep Learning, All the best 👍🏼👍🏼 **
 
