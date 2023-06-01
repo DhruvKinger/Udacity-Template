@@ -11,12 +11,11 @@ It is cool putting your resources into a single resource group - it will make lo
 
 ----------
 
-
 ### Brilliant start,:tada:
-Please Provide a screenshot of your resources.
+Please provide a screenshot of your resources.
 Here is an additional reference [Link](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/manage-resource-groups-portal) on Azure resource groups !!
 
-** For Reference :- **
+** For Reference:- **
 
 ![rg.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1646723070/rg.png)
 
