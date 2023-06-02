@@ -131,7 +131,7 @@ You have done it correctly but the path is hardcoded it should be dynamic so tha
 
 ![path.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1624674362/path.PNG)
 
-** Note**: Also It is not allowed to use HardCoded Delays. Please use find an activity to check if the File exists. Then Move further.
+**Note**: Also It is not allowed to use HardCoded Delays. Please use find an activity to check if the File exists. Then Move further.
 
 ### For Reference:-
 
