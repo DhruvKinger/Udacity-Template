@@ -1,3 +1,4 @@
+
 ### Nice work !! :clap: Excellent !! :smile:
 Yes, the folder seems to be correct. :tada: You are done with all formats asked according to the rubrics! ✅
 
@@ -28,10 +29,10 @@ All the reports have been moved into appropriate folders.✅
 ### Nice work :tada:
 I can see that happening! It clearly shows the hard work you have put in!
 You have done an amazing job here!
-Well done ! :clap: :clap:
+Well done! :clap: :clap:
 
 :white_check_mark: Use the correct UiPath Browser Activity - used the Open browser activity
-:white_check_mark: Use the correct Browser Type property to this activity - BrowserType.Chrome
+:white_check_mark: Use the correct Browser Type property for this activity - BrowserType.Chrome
 :white_check_mark: Open the browser with the URL provided
 :white_check_mark: Close the browser after the file has been downloaded - Used Close Tab Activity for closing the webpage
 
