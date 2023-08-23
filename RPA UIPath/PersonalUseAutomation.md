@@ -38,9 +38,9 @@ You have done this section really well I can see all the exceptions being declar
 **Note:** Try Catch activity is used when you want to test something and handle the exception accordingly. So, whatever you want to test you can put it under the try section, and then if any error occurs, then it can be handled using the catch section.
 
 - -----
-## Nice Work :tada: :clap:
+## Dear Student :smile:
 
-You have to do this section . It seems to be missing. You need to manage the exceptions being declared and caught!!
+You have to do this section. It seems to be missing. You need to manage the exceptions being declared and caught!!
 
 ### For Reference:-
 
