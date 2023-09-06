@@ -60,9 +60,9 @@ Excellent Work in the configuration part of the Azure Functions. Keep Learning a
 
 Here is an additional [Learning](https://azure.microsoft.com/en-in/services/functions/) Resource.
 
-** Note: Pls attach screenshot of your function app. **
+** Note: Pls attach a screenshot of your function app. **
 
-**Key Point : -** The Azure Functions host is written in .NET Core which means it can operate on any operating system that has .NET Core installed.
+**Key Point: -** The Azure Functions host is written in .NET Core which means it can operate on any operating system that has .NET Core installed.
 
 **How awesome is that? That means your team can work on the same project regardless of their personal operating system.**
 
@@ -75,6 +75,8 @@ Here is an additional [Learning](https://azure.microsoft.com/en-in/services/func
 ** Additional Resources:- **
 * [Service Bus](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-python-how-to-use-queues)
 
+Azure Service Bus is a cloud-based messaging service offered by Microsoft Azure. It enables different parts of an application or system to communicate reliably and efficiently. Service Bus supports various messaging patterns, including point-to-point communication via queues and publish-subscribe via topics.
+
 -------
 
 ### Excellent Work :tada:
@@ -83,17 +85,17 @@ Here is an additional [Learning](https://azure.microsoft.com/en-in/services/func
 
 ** However your submission should contain the number of attendees notified as well as the completion date. **
 
-** Number of attendees notified should be visible. **
+** The number of attendees notified should be visible. **
 
 ### Additional Resources:- 
 * [Service Bus](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-python-how-to-use-queues)
 
-**Note:** If you have any doubts you could ask over the [Knowledge Platform](https://knowledge.udacity.com/) and we guys would try to clear your doubts.
+**Note:** If you have any doubts you could ask over the [Knowledge Platform](https://knowledge.udacity.com/) and we guys will try to clear your doubts.
 
 - -- - - - - - 
 
 ## Well Done :clap: :tada:
-Great Job-Creating an explanation of the services, See another submission of this component.
+Great job creating an explanation of the services, See another submission of this component.
 
 **For any additional information you can check this [Link](https://docs.microsoft.com/en-us/learn/).**
 
@@ -162,12 +164,12 @@ It was my pleasure to review this wonderful project. As pointed out, there is a 
 ```
 
 I like how consistent and patient you have been in implementing this project. Most of the concepts displayed show
-you have grasped a lot from the classroom.
+You have grasped a lot from the classroom.
 
 * You have correctly configured the Db details in all the Azure Functions 👍👍
 * You have correctly configured and deployed the Frontend app 👍👍
 ```
-** I have mentioned in detail the changes you need to do in order to pass the Project. **
+** I have mentioned in detail the changes you need to make to pass the Project. **
 
 ** Keep Learning, All the best 👍🏼👍🏼 **
 
