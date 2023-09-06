@@ -17,7 +17,8 @@ The Student provides a screenshot of the application successfully running with t
 **Here is an additional [Link](https://docs.microsoft.com/en-us/azure/app-service/quickstart-python?tabs=bash&pivots=python-framework-flask) on how to deploy flask apps.**
 
 > **Note:** Microsoft Azure Web Sites is a web hosting platform that supports multiple technologies, and programming languages (. NET, node. js, PHP, Python). Users with Microsoft Azure subscriptions can create Websites, and deploy content and code into the Web sites.
-
+>
+> Azure App Service can scale your application automatically or manually based on your configuration. Be aware of how scaling works to handle increased traffic and how it affects costs.
 - -- - - - - - 
 
 ### Great Work :star:
