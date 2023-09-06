@@ -19,6 +19,7 @@ The Student provides a screenshot of the application successfully running with t
 > **Note:** Microsoft Azure Web Sites is a web hosting platform that supports multiple technologies, and programming languages (. NET, node. js, PHP, Python). Users with Microsoft Azure subscriptions can create Websites, and deploy content and code into the Web sites.
 >
 > Azure App Service can scale your application automatically or manually based on your configuration. Be aware of how scaling works to handle increased traffic and how it affects costs.
+
 - -- - - - - - 
 
 ### Great Work :star:
@@ -129,7 +130,7 @@ You can use [Azure Pricing Calculator](https://azure.microsoft.com/en-in/pricing
 You need some fixes in it.
 You can use [Azure Pricing Calculator](https://azure.microsoft.com/en-in/pricing/calculator/) to do that so.
 
-### Fixes :-
+### Fixes:-
 * Pls mention the cost of all resources used say you are missing the function app.
 
 ------
