@@ -61,7 +61,7 @@ IT IS A VALUABLE SKILL TO KNOW THE ADVANTAGES AND DISADVANTAGES OF THE VM AND AP
 --- -  --
 
 ## Excellent Work :tada:
-I can easily see the deployed app URL in your submission. You have clearly met the rubric point. You are on the right track starting with Web App. You will learn other services as well throughout this Course.
+I can easily see the deployed app URL in your submission. You have met the rubric point. You are on the right track starting with Web App. You will learn other services as well throughout this Course.
 
 ### Additional Resources:-
 * [Static Web Apps](https://azure.microsoft.com/en-in/services/app-service/static/#overview)
@@ -70,18 +70,18 @@ I can easily see the deployed app URL in your submission. You have clearly met t
 ---
 
 ### Magnificent work! :tada:
-The Python web app is able to connect to the related storage solutions. You have done fantastic work here.
+The Python web app can connect to the related storage solutions. You have done fantastic work here.
 
 The screenshot should include the URL and at least one article containing the title, author, body, and image. Alternatively, you can provide a link to the deployed app, if it is still live.  ✅
 
-** Here are some tips and tricks related to [Azure Web App](https://www.michaelcrump.net/azure-tips-and-tricks23/). **
+**Here are some tips and tricks related to [Azure Web App](https://www.michaelcrump.net/azure-tips-and-tricks23/).**
 
-**Note:** Azure App Services provide a hosting service that developers can use to develop mobile or web apps. Apart from this, developers can also use it to build API apps or Logic apps, which provide integration with SaaS.
+**Note:** Azure App Services provides a hosting service that developers can use to develop mobile or web apps. Apart from this, developers can also use it to build API apps or Logic apps, which provide integration with SaaS.
 
 ----
 
 ## Great Work :tada:
-The MSAL library has been well implemented. This shows mastery of connecting into our database via the Microsoft tokens :smile:
+The MSAL library has been well implemented. This shows mastery of connecting to our database via the Microsoft tokens :smile:
 Moreover, the URL redirect is right on point :ok_hand:
 
 ** Here is a reference Link on [MSAL](https://github.com/AzureAD/microsoft-authentication-library-for-python). **
@@ -93,7 +93,7 @@ Moreover, the URL redirect is right on point :ok_hand:
 
 ### Excellent Work here too! :smile:
 You have done an excellent job!
-Here is an additional [Link](https://docs.microsoft.com/en-us/azure/azure-monitor/logs/data-platform-logs) to monitor Azure Logs.
+Here are an additional [Link](https://docs.microsoft.com/en-us/azure/azure-monitor/logs/data-platform-logs) to monitor Azure Logs.
 
 **Note:** Azure Monitor maximizes the availability and performance of your applications and services by delivering a comprehensive solution for collecting, analyzing, and acting on telemetry from your cloud and on-premises environments.
 
