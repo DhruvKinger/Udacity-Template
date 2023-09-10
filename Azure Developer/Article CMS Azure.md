@@ -84,10 +84,10 @@ The screenshot should include the URL and at least one article containing the ti
 The MSAL library has been well implemented. This shows mastery of connecting to our database via the Microsoft tokens :smile:
 Moreover, the URL redirect is right on point :ok_hand:
 
-** Here is a reference Link on [MSAL](https://github.com/AzureAD/microsoft-authentication-library-for-python). **
+**Here is a reference Link on [MSAL](https://github.com/AzureAD/microsoft-authentication-library-for-python).**
 
 
-** Note:- ** The Microsoft Authentication Library (MSAL) for Python library enables your app to access the Microsoft Cloud by supporting authentication of users with Microsoft Azure Active Directory accounts (AAD) and Microsoft Accounts (MSA) using industry-standard OAuth2 and OpenID Connect. 
+**Note:-** The Microsoft Authentication Library (MSAL) for Python library enables your app to access the Microsoft Cloud by supporting authentication of users with Microsoft Azure Active Directory accounts (AAD) and Microsoft Accounts (MSA) using industry-standard OAuth2 and OpenID Connect. 
 
 ----
 
@@ -154,7 +154,7 @@ Here is a useful=> [Link](https://docs.microsoft.com/en-us/azure/cost-management
 You have done a really good job!
 Here are an additional [Link](https://docs.microsoft.com/en-us/azure/azure-monitor/logs/data-platform-logs) to monitor Azure Logs.
 
-** Note: Please provide at least one screenshot of the successful and 1 unsuccessful login attempt. **
+**Note:** Please provide at least one screenshot of the successful and 1 unsuccessful login attempt.
 
 - -- - - 
 
@@ -185,7 +185,7 @@ Until next time :wave:
 
 Here is a **[Link](https://www.telerik.com/blogs/nine-performance-tips-for-azure-app-services) **to Improve the Performance of your Web Apps !!
 
-** Please Provide a screenshot that contains the URL of the app in the Header !! **
+**Please Provide a screenshot that contains the URL of the app in the Header !!**
 
 - - - - - - - - - - - ----  
 
@@ -206,7 +206,7 @@ You need to consider cost factors here! Cost Estimates can give us some real ins
 
 - - - - -
 
-** No Submission is original and plagiarized from the indicated source. **
+**No Submission is original and plagiarized from the indicated source.**
 - - -- - - 
 The student has copied from this Source:- https://github.com/ploratran/AzureBlogPost
 
