@@ -54,14 +54,14 @@ Thanks for including the screenshot of your blob storage. It looked like you pro
 
 ## Well done :tada:
 
-** You have correctly assessed the changes in case you want to change your decision in the future ✅👍👍 **
+**You have correctly assessed the changes in case you want to change your decision in the future ✅👍👍**
 
 IT IS A VALUABLE SKILL TO KNOW THE ADVANTAGES AND DISADVANTAGES OF THE VM AND APP SERVICE OFFERING TO MAKE REASONABLE DECISIONS. THIS WILL ALLOW YOU TO ADAPT TO THE NEEDS OF A SPECIFIC CASE.
 
 --- -  --
 
 ## Excellent Work :tada:
-I can easily see the deployed app URL in your submission. You have clearly met the rubric point. You are on a right track starting with Web App. You will learn other services as well throughout this Course.
+I can easily see the deployed app URL in your submission. You have clearly met the rubric point. You are on the right track starting with Web App. You will learn other services as well throughout this Course.
 
 ### Additional Resources:-
 * [Static Web Apps](https://azure.microsoft.com/en-in/services/app-service/static/#overview)
