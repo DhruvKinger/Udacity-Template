@@ -3,7 +3,7 @@
 The right resources can be seen in this submission. This guarantees a safe space for the features ahead :clap:
 It is cool putting your resources into a single resource group - it will make long-term management, or even quick clean-up, much easier!
 
-**Keynote:** A resource group is a container that holds related resources for an Azure solution. The resource group can include all the resources for the solution, or only those resources that you want to manage as a group.
+**Keynote:** A resource group is a container that holds related resources for an Azure solution. The resource group can include all the resources for the solution or only those resources that you want to manage as a group.
 
 
 ### Additional Resources:-
@@ -15,7 +15,7 @@ It is cool putting your resources into a single resource group - it will make lo
 ## Excellent Work :smile:
 You have successfully created a DBO.POSTS and DBO.USERS databases to keep records of the data we might input and use later :clap: :tada:
 
-** Good Read on [Azure Sql](https://azure.microsoft.com/en-in/services/sql-database/) Databases. **
+**Good Read on [Azure Sql](https://azure.microsoft.com/en-in/services/sql-database/) Databases.**
 
 ### Additional Resources:-
 [Azure Databases](https://azure.microsoft.com/en-in/product-categories/databases/)
@@ -39,7 +39,7 @@ Thanks for including the screenshot of your blob storage. It looked like you pro
 
 * You have correctly analyzed the costs, scalability, availability, and workflow for both VM
  and App Service 👍👍
-* Great work on choosing App Service for deploying the app and justifying your choice 👍👍
+* Great work on choosing an App Service for deploying the app and justifying your choice 👍👍
 
 - - -  - -
 ## Further Reading -
@@ -144,7 +144,7 @@ Keep Learning, All the best 👍🏼👍🏼
  -----
  
 ### Dear Student :smile:
-This Requires the same change as Mentioned Above !!
+This requires the same change as Mentioned Above !!
 Very Well Done :tada:
 Here is a useful=> [Link](https://docs.microsoft.com/en-us/azure/cost-management-billing/) you can take reference from this and see cost estimation!
 
@@ -152,7 +152,7 @@ Here is a useful=> [Link](https://docs.microsoft.com/en-us/azure/cost-management
 
 ### Excellent Work here too! :smile:
 You have done a really good job!
-Here is an additional [Link](https://docs.microsoft.com/en-us/azure/azure-monitor/logs/data-platform-logs) to monitor Azure Logs.
+Here are an additional [Link](https://docs.microsoft.com/en-us/azure/azure-monitor/logs/data-platform-logs) to monitor Azure Logs.
 
 ** Note: Please provide at least one screenshot of the successful and 1 unsuccessful login attempt. **
 
@@ -163,10 +163,10 @@ Here is an additional [Link](https://docs.microsoft.com/en-us/azure/azure-monito
 ![fail](https://camo.githubusercontent.com/71f9c5a373827629f332b7bc210c5d912cc0b0d2735d5ed440cd5a8c4cefbc8c/68747470733a2f2f756461636974792d726576696577732d75706c6f6164732e73332e75732d776573742d322e616d617a6f6e6177732e636f6d2f5f6174746163686d656e74732f333632353236382f313635323837373136342f676f6f642e676966)
 
 ### Excellent Submission! :tada:
-Just small changes are required in order to complete the project.
+Just small changes are required to complete the project.
 I was impressed with the effort made in this submission. Especially the configuration of the redirects. This is so cool. :sunglasses:
 You only need to update your writeup and submit successful and unsuccessful login attempts Screenshots.
-All the very best for the next submission :smile:.
+All the very best for the next submission :smile:
 
 If there is anything I may have missed to point out or anything bad in my review, do give me feedback. :sunglasses:
 Happy Hosting :computer: and Stay Udacious :udacious:
@@ -185,13 +185,13 @@ Until next time :wave:
 
 Here is a **[Link](https://www.telerik.com/blogs/nine-performance-tips-for-azure-app-services) **to Improve the Performance of your Web Apps !!
 
-** Please Provide a screenshot that contains URL Of App in the Header !! **
+** Please Provide a screenshot that contains the URL of the app in the Header !! **
 
 - - - - - - - - - - - ----  
 
-## Code Review :-
+## Code Review:-
 ### Dear Student :bulb:
-You need to consider cost factors here! Cost Estimations can give us some real insights for the comparison!
+You need to consider cost factors here! Cost Estimates can give us some real insights for the comparison!
 
 
 --- - - - - 
@@ -206,12 +206,12 @@ You need to consider cost factors here! Cost Estimations can give us some real i
 
 - - - - -
 
-** No Submission is original and clearly plagiarized from the indicated source. **
+** No Submission is original and plagiarized from the indicated source. **
 - - -- - - 
-Student has copied from this Source :- https://github.com/ploratran/AzureBlogPost
+The student has copied from this Source:- https://github.com/ploratran/AzureBlogPost
 
 This Student has already passed Project on 21st March 2021 and you are using her Screenshots.
-It is good to do the Project of your own rather than copying someone else work.
+It is good to do the Project on your own rather than copying someone else work.
 
 ![sign-out.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1642920930/sign-out.png)
 
