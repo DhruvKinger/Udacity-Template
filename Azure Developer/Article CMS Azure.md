@@ -3,8 +3,7 @@
 The right resources can be seen in this submission. This guarantees a safe space for the features ahead :clap:
 It is cool putting your resources into a single resource group - it will make long-term management, or even quick clean-up, much easier!
 
-**Keynote:** A resource group is a container that holds related resources for an Azure solution. The resource group can include all the resources for the solution or only those resources that you want to manage as a group.
-
+**Keynote:** A resource group is a container that holds related resources for an Azure solution. The resource group can include all the resources for the solution or only those resources that you want to manage as a group. They can help you manage your Azure costs by allowing you to apply budgets and alerts to groups of resources. Resource groups can help you improve the security of your Azure resources by allowing you to apply access control and security policies to groups of resources.
 
 ### Additional Resources:-
 * [Resource Group](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/manage-resource-groups-portal) 
@@ -20,7 +19,7 @@ You have successfully created a DBO.POSTS and DBO.USERS databases to keep record
 ### Additional Resources:-
 [Azure Databases](https://azure.microsoft.com/en-in/product-categories/databases/)
 
-**Note:** Azure offers a choice of fully managed relational, NoSQL, and in-memory databases, spanning proprietary and open-source engines, to fit the needs of modern app developers. 
+**Note:** Azure offers a choice of fully managed relational, NoSQL, and in-memory databases, spanning proprietary and open-source engines, to fit the needs of modern app developers.  Azure SQL Database is always up and running, with a 99.99% availability SLA. The type of Azure SQL Database that you choose will depend on your specific needs. If you have a single database that needs to be highly available and scalable, then a single database is a good option. If you have multiple databases that need to be shared, then an elastic pool is a good option.
 
 ----
 
@@ -95,7 +94,7 @@ Moreover, the URL redirect is right on point :ok_hand:
 You have done an excellent job!
 Here are an additional [Link](https://docs.microsoft.com/en-us/azure/azure-monitor/logs/data-platform-logs) to monitor Azure Logs.
 
-**Note:** Azure Monitor maximizes the availability and performance of your applications and services by delivering a comprehensive solution for collecting, analyzing, and acting on telemetry from your cloud and on-premises environments.
+**Note:** Azure Monitor maximizes the availability and performance of your applications and services by delivering a comprehensive solution for collecting, analyzing, and acting on telemetry from your cloud and on-premises environments. Azure Monitor Logs is a feature of Azure Monitor that collects and organizes log and performance data from monitored resources. It can be used to collect logs from a variety of sources, including Azure resources, on-premises servers, and third-party applications. 
 
 ----
 
