@@ -74,7 +74,7 @@ Here is an additional [Learning](https://azure.microsoft.com/en-in/services/func
 **Additional Resources:-**
 * [Service Bus](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-python-how-to-use-queues)
 
-Azure Service Bus is a cloud-based messaging service offered by Microsoft Azure. It enables different parts of an application or system to communicate reliably and efficiently. Service Bus supports various messaging patterns, including point-to-point communication via queues and publish-subscribe via topics.
+> **Note:** Azure Service Bus is a cloud-based messaging service offered by Microsoft Azure. It enables different parts of an application or system to communicate reliably and efficiently. Service Bus supports various messaging patterns, including point-to-point communication via queues and publish-subscribe via topics.
 
 -------
 
@@ -89,7 +89,9 @@ Azure Service Bus is a cloud-based messaging service offered by Microsoft Azure.
 ### Additional Resources:- 
 * [Service Bus](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-python-how-to-use-queues)
 
-**Note:** If you have any doubts you could ask over the [Knowledge Platform](https://knowledge.udacity.com/) and we guys will try to clear your doubts.
+> **Note:** Azure Service Bus is a cloud-based messaging service offered by Microsoft Azure. It enables different parts of an application or system to communicate reliably and efficiently. Service Bus supports various messaging patterns, including point-to-point communication via queues and publish-subscribe via topics.
+>
+> If you have any doubts you could ask over the [Knowledge Platform](https://knowledge.udacity.com/) and we guys will try to clear your doubts.
 
 - -- - - - - - 
 
