@@ -124,6 +124,8 @@ logger ✅
 
 **Here is an additional resourceful [link](https://github.com/microsoft/ApplicationInsights-Python) on Application Insights.**
 
+> **Keynote:** Azure Application Insights is a cloud-based service that helps you monitor your web applications and services. It collects telemetry data from your applications, such as requests, errors, performance metrics, and user behavior
+
 -- - - - -
 
 ## Great Work :clap:
