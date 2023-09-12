@@ -54,7 +54,7 @@ As evidence, provide a screenshot showing Application Insights is enabled on the
 * Enable Application Insights on the AKS cluster created from the provided script create-cluster.sh
 * As evidence, provide a screenshot showing Application Insights is enabled on the AKS cluster. 
 
-** Here is an additional reference [link](https://blog.coffeeapplied.com/using-azure-monitor-logs-with-azure-kubernetes-service-aks-c0b0625295d1?gi=b541cde27446) for Azure Monitor Logs with Azure Kubernetes Service (AKS). **
+**Here is an additional reference [link](https://blog.coffeeapplied.com/using-azure-monitor-logs-with-azure-kubernetes-service-aks-c0b0625295d1?gi=b541cde27446) for Azure Monitor Logs with Azure Kubernetes Service (AKS).**
 
 ### Screenshot For Reference:-
 
@@ -137,14 +137,14 @@ logger ✅
 
 ## Dear Student :smile:
 
-You are missing the screenshot that outputs traces chart created using query.
+You are missing the screenshot that outputs the trace chart created using the query.
 **Please include that in your submission.**
 
 -- --
 
 ### Great Work :clap:
 Create an auto-scaling rule for a VMSS. ✅
-As evidence, provide a screenshot showing the conditions set for the auto scaling rule. This can be found in the Scaling item in the VM Scale Set. ✅
+As evidence, provide a screenshot showing the conditions set for the auto-scaling rule. This can be found in the Scaling item in the VM Scale Set. ✅
 
 **Keynote:** Autoscale is a built-in feature of Cloud Services, Mobile Services, Virtual Machine Scale Sets, and Websites that helps applications perform their best when demand changes. Of course, performance means different things for different applications. Some apps are CPU-bound, others memory-bound.
 
@@ -179,7 +179,7 @@ Azure Automation Account and RunBook resources are created. ✅
 
 As evidence, provide a screenshot of your resource group containing your running resources. ✅
 
-** Here is an additional reference [Link](https://azure.microsoft.com/en-in/blog/introducing-the-azure-automation-runbook-gallery/) for the same. **
+**Here is an additional reference [Link](https://azure.microsoft.com/en-in/blog/introducing-the-azure-automation-runbook-gallery/) for the same.**
 
 **Keynote:** Runbooks are a set of standardized written procedures for completing repetitive information technology (IT) processes within a company. They are part of IT Infrastructure Library (ITIL) protocols, which incorporate information from IT processes, such as knowledge management and problem management.
 
@@ -265,7 +265,7 @@ You are left with only a few changes. I have mentioned those in detail.
 
 ### Additional Resources 💡:-
 
-** Below are some helpful resources related to the project implementation: **
+**Below are some helpful resources related to the project implementation:**
 
 * [Application Insights](https://mindmajix.com/azure-application-insights)
 * [Azure Databases](https://azure.microsoft.com/en-in/blog/topics/database/)
