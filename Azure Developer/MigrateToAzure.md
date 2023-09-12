@@ -50,7 +50,7 @@ Azure portal provides the capabilities to create, manage, monitor, and integrate
 
 **Here is an additional [Learning](https://azure.microsoft.com/en-in/services/functions/) Resource.**
 
-**Key Point:- ** The Azure Functions host is written in .NET Core which means it can operate on any operating system that has .NET Core installed. It is a serverless computing service offered by Microsoft Azure that allows you to run event-driven code without having to manage infrastructure. It enables you to build and deploy small, single-purpose functions that automatically scale based on the number of incoming events or triggers.
+**Key Point:-** The Azure Functions host is written in .NET Core which means it can operate on any operating system that has .NET Core installed. It is a serverless computing service offered by Microsoft Azure that allows you to run event-driven code without having to manage infrastructure. It enables you to build and deploy small, single-purpose functions that automatically scale based on the number of incoming events or triggers.
 
 **How awesome is that? That means your team can work on the same project regardless of their personal operating system.**
 
@@ -59,11 +59,9 @@ Azure portal provides the capabilities to create, manage, monitor, and integrate
 ## Well Done :clap:
 Excellent Work in the configuration part of the Azure Functions. Keep Learning and growing like that.
 
-Here is an additional [Learning](https://azure.microsoft.com/en-in/services/functions/) Resource.
+Here is an additional [Learning](https://azure.microsoft.com/en-in/services/functions/) Resource. Please attach a screenshot of your function app.
 
-**Note:** Pls attach a screenshot of your function app.
-
-**Key Point: -** The Azure Functions host is written in .NET Core which means it can operate on any operating system that has .NET Core installed. It is a serverless computing service offered by Microsoft Azure that allows you to run event-driven code without having to manage infrastructure. It enables you to build and deploy small, single-purpose functions that automatically scale based on the number of incoming events or triggers.
+**Key Point:-** The Azure Functions host is written in .NET Core which means it can operate on any operating system that has .NET Core installed. It is a serverless computing service offered by Microsoft Azure that allows you to run event-driven code without having to manage infrastructure. It enables you to build and deploy small, single-purpose functions that automatically scale based on the number of incoming events or triggers.
 
 **How awesome is that? That means your team can work on the same project regardless of their personal operating system.**
 
@@ -131,7 +129,7 @@ You need some fixes in it.
 You can use [Azure Pricing Calculator](https://azure.microsoft.com/en-in/pricing/calculator/) to do that so.
 
 ### Fixes:-
-* Pls mention the cost of all resources used say you are missing the function app.
+* Please mention the cost of all resources used say you are missing the function app.
 
 ------
 
@@ -170,9 +168,9 @@ You have grasped a lot from the classroom.
 * You have correctly configured the Db details in all the Azure Functions 👍👍
 * You have correctly configured and deployed the Frontend app 👍👍
 ```
-** I have mentioned in detail the changes you need to make to pass the Project. **
+**I have mentioned in detail the changes you need to make to pass the Project.**
 
-** Keep Learning, All the best 👍🏼👍🏼 **
+**Keep Learning, All the best 👍🏼👍🏼**
 
 ### Additional Resources
 * [Web App Perfomance](https://www.telerik.com/blogs/nine-performance-tips-for-azure-app-services)
