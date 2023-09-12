@@ -196,9 +196,9 @@ As evidence, provide a screenshot of your resource group containing your running
 
 Here is an additional reference [Link](https://azure.microsoft.com/en-in/blog/introducing-the-azure-automation-runbook-gallery/) for the same.
 
-**Keynote:** Runbooks are a set of standardized written procedures for completing repetitive information technology (IT) processes within a company. They are part of IT Infrastructure Library (ITIL) protocols, which incorporate information from IT processes, such as knowledge management and problem management.
-
-**Note:** Please provide a resource group screenshot.
+> **Keynote:** Runbooks are a set of standardized written procedures for completing repetitive information technology (IT) processes within a company. They are part of IT Infrastructure Library (ITIL) protocols, which incorporate information from IT processes, such as knowledge management and problem management.
+>
+> Please provide a resource group screenshot.
 
 - - - - -
 
@@ -297,5 +297,3 @@ The email you received from the alert when the pod count increased. ❌
 **Please submit the necessary screenshots in your submission; hence, you're required to include them in your submission. Please read the rubric points again and then resubmit.**
 
 ### Thanks :smile:
-
-- - - - -
