@@ -1,9 +1,9 @@
 
 ### Brilliant start,:tada:
-The right resources can be seen from this submission. This guarantees a safe space for the features ahead :clap:
-It is cool putting your resources into a single resource group - it will make long-term management, or even quick clean up, much easier!
+The right resources can be seen in this submission. This guarantees a safe space for the features ahead :clap:
+It is cool putting your resources into a single resource group - it will make long-term management, or even quick clean-up, much easier!
 
-**Keynote:** A resource group is a container that holds related resources for an Azure solution. The resource group can include all the resources for the solution, or only those resources that you want to manage as a group.
+**Keynote:** A resource group is a container that holds related resources for an Azure solution. The resource group can include all the resources for the solution or only those resources that you want to manage as a group.
 
 ### Additional Resources:-
 * [Resource Group](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/manage-resource-groups-portal) 
@@ -15,7 +15,7 @@ It is cool putting your resources into a single resource group - it will make lo
 Please provide a screenshot of your resources.
 Here is an additional reference [Link](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/manage-resource-groups-portal) on Azure resource groups !!
 
-** For Reference:- **
+**For Reference:-**
 
 ![rg.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1646723070/rg.png)
 
@@ -44,7 +44,7 @@ Enable Application Insights on the AKS cluster created from the provided script 
 
 As evidence, provide a screenshot showing Application Insights is enabled on the AKS cluster. ✅
 
-** Here is an additional reference [link](https://blog.coffeeapplied.com/using-azure-monitor-logs-with-azure-kubernetes-service-aks-c0b0625295d1?gi=b541cde27446) for Azure Monitor Logs with Azure Kubernetes Service (AKS). **
+**Here is an additional reference [link](https://blog.coffeeapplied.com/using-azure-monitor-logs-with-azure-kubernetes-service-aks-c0b0625295d1?gi=b541cde27446) for Azure Monitor Logs with Azure Kubernetes Service (AKS).**
 
 - - - - - - - - - - - -  - -- -  -
 
@@ -102,7 +102,7 @@ The Application Insights metrics show the increase in the number of pods. ✖️
 The email you received from the alert when the pod count increased. ✖️
 ```
 
-** Plz attach a screenshot of the number of pods. **
+**Plz attach a screenshot of the number of pods.**
 
 ### For Reference:- 
 
@@ -194,7 +194,7 @@ Here is an additional reference [Link](https://azure.microsoft.com/en-in/blog/in
 
 **Keynote:** Runbooks are a set of standardized written procedures for completing repetitive information technology (IT) processes within a company. They are part of IT Infrastructure Library (ITIL) protocols, which incorporate information from IT processes, such as knowledge management and problem management.
 
-** Note: Plz provide a resource group screenshot. **
+**Note:** Please provide a resource group screenshot.
 
 - - - - -
 
@@ -232,7 +232,7 @@ As evidence, provide a screenshot of the configuration.✅
 * Email showing the alert was triggered 
 * Metrics or other evidence showing the RunBook executed and resolved the issue. 
 
-> ** Note: ** Please upload the screenshot of the Email received and runbook execution. You are missing this screenshot. 
+> **Note:** Please upload the screenshot of the Email received and runbook execution. You are missing this screenshot. 
 
 - - - - - -
 
@@ -276,21 +276,21 @@ You are left with only a few changes. I have mentioned those in detail.
 
 ### Nice Work :tada:
 ```
-I can clearly see this in your submission.
+I can see this in your submission.
 The output of the Horizontal Pod Autoscaler shows an increase in the number of pods. ❌
 The Application Insights metrics show the increase in the number of pods. ❌
 The email you received from the alert when the pod count increased. ❌
 ```
-** Plz attach a screenshot of the alert Email as well as the Pod Count increase screenshot. **
+**Plz attach a screenshot of the alert Email as well as the Pod Count increase screenshot.**
 
 
-** Expected One: ** 
+**Expected One:** 
 ![sbc](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/385208/1616600479/Screenshot_2021-03-24_at_9.09.22_PM.png)
 -- - - - --
 
 ## Dear Student 😄
 
-**Please submit the necessary screenshots in your submission; hence, you're required to include that in your submission. Please read the rubric points again and then resubmit.**
+**Please submit the necessary screenshots in your submission; hence, you're required to include them in your submission. Please read the rubric points again and then resubmit.**
 
 ### Thanks :smile:
 
