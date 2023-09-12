@@ -159,6 +159,10 @@ Here is a useful=> [Link](https://docs.microsoft.com/en-us/azure/cost-management
 You have done a really good job!
 Here are an additional [Link](https://docs.microsoft.com/en-us/azure/azure-monitor/logs/data-platform-logs) to monitor Azure Logs.
 
+> Azure Monitor maximizes the availability and performance of your applications and services by delivering a comprehensive solution for collecting, analyzing, and acting on telemetry from your cloud and on-premises environments. 
+>
+> Azure Monitor Logs is a feature of Azure Monitor that collects and organizes log and performance data from monitored resources. It can be used to collect logs from a variety of sources, including Azure resources, on-premises servers, and third-party applications. 
+
 **Note:** Please provide at least one screenshot of the successful and 1 unsuccessful login attempt.
 
 - -- - - 
