@@ -36,7 +36,7 @@ Infrastructure management – including scalability, and availability saves you 
 ------
 
 ## Excellent Work :clap: :tada:
-** You have submitted the correct screenshot that shows the list of attendees. **
+**You have submitted the correct screenshot that shows the list of attendees.**
 
 * Web App Deployed :white_check_mark:
 * Web app successfully loading the list of attendees and notifications from Postgres. :white_check_mark:
@@ -48,9 +48,9 @@ Excellent Work in the configuration part of the Azure Functions. Keep Learning a
 
 Azure portal provides the capabilities to create, manage, monitor, and integrate inputs & outputs of the Azure Functions.
 
-** Here is an additional [Learning](https://azure.microsoft.com/en-in/services/functions/) Resource. **
+**Here is an additional [Learning](https://azure.microsoft.com/en-in/services/functions/) Resource.**
 
-**Key Point: -** The Azure Functions host is written in .NET Core which means it can operate on any operating system that has .NET Core installed. It is a serverless computing service offered by Microsoft Azure that allows you to run event-driven code without having to manage infrastructure. It enables you to build and deploy small, single-purpose functions that automatically scale based on the number of incoming events or triggers.
+**Key Point:- ** The Azure Functions host is written in .NET Core which means it can operate on any operating system that has .NET Core installed. It is a serverless computing service offered by Microsoft Azure that allows you to run event-driven code without having to manage infrastructure. It enables you to build and deploy small, single-purpose functions that automatically scale based on the number of incoming events or triggers.
 
 **How awesome is that? That means your team can work on the same project regardless of their personal operating system.**
 
@@ -61,7 +61,7 @@ Excellent Work in the configuration part of the Azure Functions. Keep Learning a
 
 Here is an additional [Learning](https://azure.microsoft.com/en-in/services/functions/) Resource.
 
-** Note: Pls attach a screenshot of your function app. **
+**Note:** Pls attach a screenshot of your function app.
 
 **Key Point: -** The Azure Functions host is written in .NET Core which means it can operate on any operating system that has .NET Core installed. It is a serverless computing service offered by Microsoft Azure that allows you to run event-driven code without having to manage infrastructure. It enables you to build and deploy small, single-purpose functions that automatically scale based on the number of incoming events or triggers.
 
@@ -73,7 +73,7 @@ Here is an additional [Learning](https://azure.microsoft.com/en-in/services/func
 * Submitting a new notification :white_check_mark:
 * Notification processed after executing the Azure function :white_check_mark:
 
-** Additional Resources:- **
+**Additional Resources:-**
 * [Service Bus](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-python-how-to-use-queues)
 
 Azure Service Bus is a cloud-based messaging service offered by Microsoft Azure. It enables different parts of an application or system to communicate reliably and efficiently. Service Bus supports various messaging patterns, including point-to-point communication via queues and publish-subscribe via topics.
@@ -84,9 +84,9 @@ Azure Service Bus is a cloud-based messaging service offered by Microsoft Azure.
 * Submitting a new notification :white_check_mark:
 * Notification processed after executing the Azure function :white_check_mark:
 
-** However your submission should contain the number of attendees notified as well as the completion date. **
+**However your submission should contain the number of attendees notified as well as the completion date.**
 
-** The number of attendees notified should be visible. **
+**The number of attendees notified should be visible.**
 
 ### Additional Resources:- 
 * [Service Bus](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-python-how-to-use-queues)
@@ -106,16 +106,16 @@ Great job creating an explanation of the services, See another submission of thi
 - - - - - - - - 
 
 ## Excellent Work :smile:
-** You need some fixes in it. **
+**You need some fixes in it.**
 
 The Student provides a README that includes a short explanation and reasoning of the architecture selected for both the Azure web app and the Azure function in terms of cost-effectiveness  ❎
 
-** Please provide detailed Info on all the services you have used. **
+**Please provide detailed Info on all the services you have used.**
 
 - - - - -- - - -
 
 ## Excellent Work :smile:
-** You have done an amazing job here. **
+**You have done an amazing job here.**
 
 See another reference screenshot on how to prepare a write-up for cost analysis.
 
