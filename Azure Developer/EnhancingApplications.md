@@ -38,6 +38,21 @@ Information about the bytes sent and received. ✅
 
 - - - -- 
 
+### Dear Student 😄
+Please attach all the necessary screenshots of Application Insights monitoring enabled on the VMSS.
+
+As evidence, provide a screenshot of the metrics from the VM Scale Set instance. This should show the following information:
+
+CPU % :x:
+Available Memory % :x:
+Information about the Disk :x:
+Information about the bytes sent and received. :x:
+
+### Additional Info:-
+[Documentation](https://azure.microsoft.com/en-in/services/virtual-machine-scale-sets/)
+
+------
+
 ## Nice Work :clap:
 
 ### You have done it as per expectations.
@@ -245,7 +260,7 @@ As evidence, provide a screenshot of the configuration.✅
 
 ![congrats.gif](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615661006/congrats.gif)
 
-I was impressed with the effort made on this submission. Especially in Application Insights and VM Scale Set. This is so cool.😎 It was my pleasure to review this wonderful project. I like how consistent and patient you have been in implementing this project. Most of the concept displayed shows you have grasped a lot from the classroom.
+I was impressed with the effort made on this submission, especially in Application Insights and VM Scale Set. This is so cool.😎 It was my pleasure to review this wonderful project. I like how consistent and patient you have been in implementing this project. Most of the concept displayed shows you have grasped a lot from the classroom.
 
 ### Keep Learning, All the best 👍🏼👍🏼
 
@@ -262,7 +277,7 @@ I was impressed with the effort made on this submission. Especially in Applicati
 ## Dear Student,
 ### Almost Done! 🎉
 
-I was impressed with the effort made in this submission. Especially in Application Insights and VM Scale Set. This is so cool.😎 It was my pleasure to review this wonderful project. I like how consistent and patient you have been in implementing this project. Most of the concept displayed shows you have grasped a lot from the classroom.
+I was impressed with the effort made in this submission, especially in Application Insights and VM Scale Set. This is so cool.😎 It was my pleasure to review this wonderful project. I like how consistent and patient you have been in implementing this project. Most of the concept displayed shows you have grasped a lot from the classroom.
 You are left with only a few changes. I have mentioned those in detail.
 ------ - - - 
 ### Keep Learning, All the best 👍🏼👍🏼
