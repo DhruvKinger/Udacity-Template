@@ -63,6 +63,8 @@ As evidence, provide a screenshot showing Application Insights is enabled on the
 
 **Here is an additional reference [link](https://blog.coffeeapplied.com/using-azure-monitor-logs-with-azure-kubernetes-service-aks-c0b0625295d1?gi=b541cde27446) for Azure Monitor Logs with Azure Kubernetes Service (AKS).**
 
+> **Keynote:** When working with Azure Kubernetes Service (AKS), you can use Azure Monitor Logs to gain insights into the health, performance, and behavior of your AKS clusters and the applications running on them.
+
 - - - - - - - - - - - -  - -- -  -
 
 ## Nice Work :clap:
@@ -139,7 +141,7 @@ logger ✅
 
 **Here is an additional resourceful [link](https://github.com/microsoft/ApplicationInsights-Python) on Application Insights.**
 
-> **Keynote:** Azure Application Insights is a cloud-based service that helps you monitor your web applications and services. It collects telemetry data from your applications, such as requests, errors, performance metrics, and user behavior
+> **Keynote:** Azure Application Insights is a cloud-based service that helps you monitor your web applications and services. It collects telemetry data from your applications, such as requests, errors, performance metrics, and user behavior.
 
 -- - - - -
 
@@ -150,7 +152,7 @@ logger ✅
 * The output of the traces query in Azure Log Analytics ✅
 * The chart created from the output of the traces query ✅
 
-**Note:** Tracing can be used in almost every situation. Application Insights is an extensible Application Performance Management (APM) service for web developers on multiple platforms. It can be used to monitor your live web application.
+**Note:** Tracing can be used in almost every situation. Application Insights is an extensible Application Performance Management (APM) service for web developers on multiple platforms. It can be used to monitor your live web application. Traces are often related to application logs and can provide valuable information for diagnosing issues.
 
 ---  - - - - - -
 
