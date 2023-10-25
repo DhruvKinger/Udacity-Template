@@ -105,11 +105,13 @@ As evidence, provide a screenshot of the Azure Alert and the email sent when the
 
 ### Nice Work :tada:
 ```
-I can clearly see this in your submission.
+I can see this in your submission.
 The output of the Horizontal Pod Autoscaler shows an increase in the number of pods. ✅
 The Application Insights metrics show the increase in the number of pods. ✅
 The email you received from the alert when the pod count increased. ✅
 ```
+
+> **Keynote:** Horizontal Pod Autoscaler automatically adjusts the number of pod replicas in a deployment, replica set, or stateful set based on observed CPU or memory utilization. This helps ensure that your application scales efficiently to handle varying workloads.
 
 -------- 
 
