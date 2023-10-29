@@ -34,7 +34,7 @@ To verify that the database is configured, the student should be able to retriev
 
 ## Well Done :clap:
 ```
-The client-side python Flask application has the routes to obta.in services created by server-side Azure
+The client-side Python Flask application has the routes to obta.in services created by server-side Azure
 Functions endpoints. The student can run the client-side application on localhost:5000 and on the home page 
 and should be able to view the feed of advertisements and posts. ✅
 ```
@@ -100,6 +100,8 @@ I can see that the docker build is successful and the Docker image is successful
 The student should be able to create a cluster with one node. ✅
 
 ** Here is an Additional Link on [AKS](https://azure.microsoft.com/en-in/services/kubernetes-service/) !! **
+
+> **Keynote:** Azure Kubernetes Service (AKS) is a managed container orchestration service provided by Microsoft Azure. It simplifies the deployment, management, and scaling of containerized applications using Kubernetes.
 
 - -----
 
