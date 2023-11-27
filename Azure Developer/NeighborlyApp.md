@@ -1,6 +1,6 @@
 
 ## Excellent :star:
-Students should be able to create a MongoDB database, two collections, and import raw data into the database. The MongoDB database is hosted in Azure CosmosDB. ✅
+Students should be able to create a MongoDB database, and two collections, and import raw data into the database. The MongoDB database is hosted in Azure CosmosDB. ✅
 
 **Note:** Azure Cosmos DB is a fully managed, serverless NoSQL database for high-performance applications of any size or scale.
 - - -
@@ -14,7 +14,7 @@ Students should be able to create a MongoDB database, two collections, and impor
 
 ```
 Students are expected to deploy 7 endpoints: createAdvertisement, updateAdvertisement, getAdvertisement, 
-getAdvertisements, and deleteAdvertisement, getPost, getPosts. There should be 7 urls with the format: ✅
+getAdvertisements, and deleteAdvertisement, getPost, getPosts. There should be 7 URLs with the format: ✅
 
 ```
 
@@ -89,7 +89,7 @@ Here is a **[Link](https://www.telerik.com/blogs/nine-performance-tips-for-azure
 ### Awesome :star:
 I can see that the docker build is successful and the Docker image is successfully pushed to Azure Container Registry !!
 
-**Note:** Azure Container Registry is a private registry service for building, storing, and managing container images and related artifacts.It provides cloud-based container image building for platforms including Linux, Windows, and ARM, and can automate OS and framework patching for your Docker containers.
+**Note:** Azure Container Registry is a private registry service for building, storing, and managing container images and related artifacts. It provides cloud-based container image building for platforms including Linux, Windows, and ARM, and can automate OS and framework patching for your Docker containers.
 
 ### Further Reading
 * [Azure Container Registry](https://docs.microsoft.com/en-us/azure/container-registry/container-registry-get-started-docker-cli)
@@ -154,7 +154,7 @@ Keep Learning
 ## Well done :tada:
 You have correctly provided a screenshot showing eventHub connection string in the function.json file ✅
 
-** Please provide a screenshot of the Portal of Successful as well as failed Requests. Rest Everything is fine !! **
+** Please provide a screenshot of the Portal of Successful and failed Requests. Rest Everything is fine !! **
 
 ** Here is another Helpful [Resource](https://askinglot.com/how-do-i-set-up-azure-event-hub) !! **
 
@@ -187,7 +187,7 @@ As Per the Rubric Point. Please Provide a Screenshot showing all the endpoints.
 -----
 
 ### Dear Student :smile:
-Please Provide screenshot of the App Service deployed on Azure.
+Please Provide a screenshot of the App Service deployed on Azure.
 It seems to be missing in your submission.
 
 Here is a **[Link](https://www.telerik.com/blogs/nine-performance-tips-for-azure-app-services) **to Improve the Performance of your Web Apps !!
@@ -212,7 +212,7 @@ You have missed this screenshot.
 ![9-kubernetes1.PNG](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615660510/9-kubernetes1.PNG)
 
 ---
-As per this rubric requirement, you need to provide a screenshot from Azure Container Registry after pushing docker image.
+As per this rubric requirement, you need to provide a screenshot from Azure Container Registry after pushing the docker image.
 
 ### Further Reading
 * [Publishing Images to Azure Container Registry](https://docs.microsoft.com/en-us/azure/container-registry/container-registry-get-started-docker-cli)
