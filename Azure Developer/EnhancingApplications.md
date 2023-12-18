@@ -247,6 +247,8 @@ As evidence, provide a screenshot of the configuration.✅
 * Email showing the alert was triggered ✅
 * Metrics or other evidence showing the Runbook executed and resolved the issue. ✅
 
+> **Keynote:** Triggering alerts and executing Runbooks directly can have potential consequences, so it's important to proceed with caution and understanding. Make sure you have the necessary permissions and are confident in the actions being taken before triggering the process.
+
 ---------
 
 ## Great Work :clap:
