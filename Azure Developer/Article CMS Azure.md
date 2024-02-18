@@ -157,7 +157,7 @@ Here is a useful=> [Link](https://docs.microsoft.com/en-us/azure/cost-management
 
 ### Excellent Work here too! :smile:
 You have done a really good job!
-Here are an additional [Link](https://docs.microsoft.com/en-us/azure/azure-monitor/logs/data-platform-logs) to monitor Azure Logs.
+Here is an additional [Link](https://docs.microsoft.com/en-us/azure/azure-monitor/logs/data-platform-logs) to monitor Azure Logs.
 
 > Azure Monitor maximizes the availability and performance of your applications and services by delivering a comprehensive solution for collecting, analyzing, and acting on telemetry from your cloud and on-premises environments. 
 >
@@ -168,8 +168,6 @@ Here are an additional [Link](https://docs.microsoft.com/en-us/azure/azure-monit
 - -- - - 
 
 ## Dear Student :smile:
-
-![fail](https://camo.githubusercontent.com/71f9c5a373827629f332b7bc210c5d912cc0b0d2735d5ed440cd5a8c4cefbc8c/68747470733a2f2f756461636974792d726576696577732d75706c6f6164732e73332e75732d776573742d322e616d617a6f6e6177732e636f6d2f5f6174746163686d656e74732f333632353236382f313635323837373136342f676f6f642e676966)
 
 ### Excellent Submission! :tada:
 Just small changes are required to complete the project.
