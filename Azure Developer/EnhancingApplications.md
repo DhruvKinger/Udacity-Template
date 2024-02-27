@@ -283,7 +283,7 @@ I was impressed with the effort made on this submission, especially in Applicati
 ## Dear Student,
 ### Almost Done! 🎉
 
-I was impressed with the effort made in this submission, especially in Application Insights and VM Scale Set. This is so cool.😎 It was my pleasure to review this wonderful project. I like how consistent and patient you have been in implementing this project. Most of the concept displayed shows you have grasped a lot from the classroom.
+I was impressed with the effort made in this submission, especially in Application Insights and VM Scale Set. This is so cool.😎 It was my pleasure to review this wonderful project. I like how consistent and patient you have been in implementing this project. Most of the concepts displayed show you have grasped a lot from the classroom.
 You are left with only a few changes. I have mentioned those in detail.
 ------ - - - 
 ### Keep Learning, All the best 👍🏼👍🏼
