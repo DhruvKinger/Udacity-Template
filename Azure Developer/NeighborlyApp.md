@@ -59,22 +59,16 @@ an email (with Gmail) notification. The student can validate this by a screensho
 - - -- - -
 
 ## Nice Work :tada:
-The student should be able to create an Event Hubs namespace and an event hub with the command line or through the portal. If successful, the student can obtain the namespace URL. Add a screenshot from the portal of this being live. ✅
+The student should be able to create an event grid topic and event subscription of the endpoint type as Azure functions. Trigger the event, and add a screenshot from the portal showing the successful vent triggers. ✅
 
 ### Additional Resource:-
 
-* [Event Hub](https://azure.microsoft.com/en-in/services/event-hubs/)
+* [Event Grid](https://learn.microsoft.com/en-us/azure/event-grid/overview)
 
 
-**Note:** Azure Event Hub is a data ingestion service that streams a huge count of messages from any source to provide an immediate response to business challenges. The event Hub comes into play when handling events along with data is required. Unlike Event Grids, Event Hubs perform certain additional tasks apart from just being an event broadcaster.
+**Note:** Azure Event Grid connects your app with other services. For example, create a topic to send your app's event data to Event Grid, and get reliable delivery and advanced routing on Azure and Kubernetes. 
 
 ------
-
-### Excellent Work :smile:
-
-The student should be able to use the endpoint connection string from the event hub to the eventHubTrigger function in the function.json file. :white_check_mark:
-
-- - - - -- 
 
 ### Well done :star:
 I can clearly see the App Service live URL in the browser !!
@@ -113,7 +107,7 @@ The student should be able to create a cluster with one node. ✅
 
 It was my pleasure to review this wonderful project. Please continue with this same sense of hard work and good luck with the next project. :udacious:
 ```
-I like how consistent and patient you have been in implementing this project. Most of the concept displayed shows you
+I like how consistent and patient you have been in implementing this project. Most of the concepts displayed shows you
 have grasped a lot from the classroom.
 
 * You have correctly configured the Mongo details in all the Azure Function 👍👍
