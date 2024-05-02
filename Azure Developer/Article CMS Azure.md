@@ -96,7 +96,7 @@ Moreover, the URL redirect is right on point :ok_hand:
 
 ### Excellent Work here too! :smile:
 You have done an excellent job!
-Here are an additional [Link](https://docs.microsoft.com/en-us/azure/azure-monitor/logs/data-platform-logs) to monitor Azure Logs.
+Here is an additional [Link](https://docs.microsoft.com/en-us/azure/azure-monitor/logs/data-platform-logs) to monitor Azure Logs.
 
 > **Note:** Azure Monitor maximizes the availability and performance of your applications and services by delivering a comprehensive solution for collecting, analyzing, and acting on telemetry from your cloud and on-premises environments. 
 >
@@ -111,7 +111,7 @@ Here are an additional [Link](https://docs.microsoft.com/en-us/azure/azure-monit
 
 I was impressed with the effort made on this submission. Especially the configuration of the redirects. This is so cool.:sunglasses:
 It was my pleasure to review this wonderful project. Please continue with this same sense of hard work and good luck with the next project. :udacious:
-I like how consistent and patient you have been in implementing this project. Most of the concept displayed shows you have grasped a lot from the classroom.
+I like how consistent and patient you have been in implementing this project. Most of the concepts displayed show you have grasped a lot from the classroom.
 
 Keep Learning, All the best 👍🏼👍🏼
 ### Additional Resources
