@@ -143,7 +143,7 @@ logger ✅
 
 **Here is an additional resourceful [link](https://github.com/microsoft/ApplicationInsights-Python) on Application Insights.**
 
-> **Keynote:** Azure Application Insights is a cloud-based service that helps you monitor your web applications and services. It collects telemetry data from your applications, such as requests, errors, performance metrics, and user behavior.
+> **Keynote:** Azure Application Insights is a cloud-based service that helps you monitor your web applications and services. It collects telemetry data from your applications, such as requests, errors, performance metrics, and user behaviour.
 
 -- - - - -
 
@@ -266,7 +266,7 @@ As evidence, provide a screenshot of the configuration.✅
 
 ![congrats.gif](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1615661006/congrats.gif)
 
-I was impressed with the effort made on this submission, especially in Application Insights and VM Scale Set. This is so cool.😎 It was my pleasure to review this wonderful project. I like how consistent and patient you have been in implementing this project. Most of the concept displayed shows you have grasped a lot from the classroom.
+I was impressed with the effort made on this submission, especially in Application Insights and VM Scale Set. This is so cool.😎 It was my pleasure to review this wonderful project. I like how consistent and patient you have been in implementing this project. Most of the concepts displayed show you have grasped a lot from the classroom.
 
 ### Keep Learning, All the best 👍🏼👍🏼
 
