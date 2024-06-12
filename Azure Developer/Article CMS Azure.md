@@ -166,13 +166,15 @@ Here is an additional [Link](https://docs.microsoft.com/en-us/azure/azure-monito
 **Note:** Please provide at least one screenshot of the successful and 1 unsuccessful login attempt.
 
 - -- - - 
-
 ## Dear Student :smile:
 
 ### Excellent Submission! :tada:
 Just small changes are required to complete the project.
-I was impressed with the effort made in this submission. Especially the configuration of the redirects. This is so cool. :sunglasses:
-You only need to update your writeup and submit successful and unsuccessful login attempts Screenshots.
+I was impressed with the effort made in this submission. I like how consistent and patient you have been in implementing this project. Most of the concepts displayed show
+You have grasped a lot from the classroom.
+
+**I have detailed the changes you must make to pass the Project.**
+
 All the very best for the next submission :smile:
 
 If there is anything I may have missed to point out or anything bad in my review, do give me feedback. :sunglasses:
