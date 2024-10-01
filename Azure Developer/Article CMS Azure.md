@@ -208,10 +208,13 @@ You need to consider cost factors here! Cost Estimates can give us some real ins
 ## Ungradeable
 
 ## Dear Student 💡,
-**Hope you are doing well! It seems that you are missing screenshots. Screenshots are one of the prerequisites for this Project.**
-**Please add them and resubmit.**
+Hope you are doing well! I wanted to reach out regarding your recent project submission. It seems that you are missing several key components that are critical for evaluation. Specifically, the screenshots are absent, which are necessary to demonstrate your work and its functionality. Additionally, I noticed that the code itself is not included, along with the required writeup.md file that outlines your project objectives, methodology, and findings.
 
-### Thanks :smile:
+Completing these sections is essential for a comprehensive assessment. The writeup.md file should provide context and detail about your project, while the code showcases your implementation. Including screenshots helps visualize your progress and results.
+
+Please take some time to gather these missing elements and ensure they are included in your resubmission. If you have any questions or need assistance, feel free to reach out. I’m here to help!
+
+### Thanks!
 
 - - - - -
 
