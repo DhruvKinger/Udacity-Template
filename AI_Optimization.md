@@ -8,7 +8,6 @@ Congratulations on reaching this essential step in data preparation! Successfull
 
 **Helpful Links:**
 - [Pandas Documentation - Reading Files](https://pandas.pydata.org/pandas-docs/stable/user_guide/io.html) 
-- [Data Loading in Python - Video Tutorial](https://www.youtube.com/watch?v=1B7iCxs8XYA)
 
 ### ✅ Preprocessing
 - Data preprocessing is crucial. Transform your data as needed, which might include renaming columns, converting data types, or handling missing values.
