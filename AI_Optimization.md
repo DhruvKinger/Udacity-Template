@@ -66,7 +66,7 @@ Keep pushing forward, and enjoy the process! 😊
 
 ### Additional Resources
 - [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/)
-- [Feature Engineering in Machine Learning](https://towardsdatascience.com/a-brief-overview-of-feature-engineering-95817723e99e)
+- [Intro to Intraday Trading Ratios](https://www.investopedia.com/terms/i/intraday.asp)
 
 ---- - -
 
