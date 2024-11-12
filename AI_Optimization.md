@@ -100,6 +100,6 @@ Fantastic job, and happy feature engineering! 😊
 ---
 
 ### Additional Resources
-- [Multicollinearity in Machine Learning](https://towardsdatascience.com/multicollinearity-in-data-science-c9d5af56e143)
+- [Multicollinearity in Machine Learning](https://thecleverprogrammer.com/2021/05/18/what-is-multicollinearity-in-machine-learning/)
 - [Variance Inflation Factor (VIF) - Detecting Multicollinearity](https://www.analyticsvidhya.com/blog/2020/03/what-is-multicollinearity/)
 
