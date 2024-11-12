@@ -28,3 +28,45 @@ You’re doing a fantastic job! 🙌 Data preprocessing can be challenging but m
 Keep it up, and happy coding! 😊
 
 - - - - -
+
+## Great Job on Moving to Feature Engineering! 🌟
+
+Feature engineering is where your dataset gains new insights and predictive power. By creating relevant features, you enhance your model’s ability to learn complex patterns and make more accurate predictions. Here’s a breakdown of what’s expected for each feature, along with some extra tips to help you succeed.
+
+### ✅ Historical Returns
+- Calculate the historical returns for each relevant time period. Historical returns are crucial as they serve as a foundation for analyzing asset performance.
+- Double-check that your calculation is consistent with the correct time period.
+
+### ✅ Log Volume
+- **Log volume** is a useful feature for capturing trading activity and can reveal trends in buying or selling pressure.
+- Apply `np.log()` to your volume data to create this feature. Ensure there are no zero values in the volume column before applying the log function to avoid errors.
+
+### ✅ Intraday Buying/Selling (IBS)
+- **IBS** (Intraday Buying/Selling pressure) captures daily buying and selling pressure by comparing the open, high, and close prices.
+- Calculate this feature as `(close - low) / (high - low)`. Make sure it’s scaled between 0 and 1, as it represents relative positioning within the day's price range.
+
+### ✅ Target (tgt_is_pos_ret_5d_fut)
+- **tgt_is_pos_ret_5d_fut**: This feature indicates whether the asset has a positive return over the next five days.
+- Calculate it as the percentage change from the current close to the close five days in the future. Then, convert this into a boolean or binary variable (1 if the return is positive, 0 if not).
+
+### Explanation and Demonstration 💬
+- As you create each feature, write brief explanations that demonstrate your understanding of why these features are valuable.
+- Aim to explain each feature in a way that shows how it enhances your dataset and improves model interpretability.
+
+### Final Check ✅
+- After engineering these features, review your DataFrame to confirm that each new feature was created correctly.
+- Use `df.head()` to examine your data and ensure each feature aligns with your expectations.
+
+You’re doing fantastic! 🎉 Feature engineering is a powerful skill that can make a real difference in model performance. Keep up the excellent work, and continue exploring how different features can enhance your analysis. Happy feature engineering!
+
+> 💡 **Tip**: Don’t hesitate to test how each new feature impacts your model’s results—feature selection can be just as critical as feature creation!
+
+Keep pushing forward, and enjoy the process! 😊
+
+---
+
+### Additional Resources
+- [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/)
+- [Feature Engineering in Machine Learning](https://towardsdatascience.com/a-brief-overview-of-feature-engineering-95817723e99e)
+
+---- - -
