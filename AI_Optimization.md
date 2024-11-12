@@ -70,3 +70,37 @@ Keep pushing forward, and enjoy the process! 😊
 - [Feature Engineering in Machine Learning](https://towardsdatascience.com/a-brief-overview-of-feature-engineering-95817723e99e)
 
 ---- - -
+
+# Rubric Point: Detect and Eliminate Multicollinearity in the Features
+
+## Excellent Work in Identifying Multicollinearity! 🎯
+
+Identifying and addressing multicollinearity is a key skill in feature selection, and you’ve shown great judgment in choosing which features to keep and which to remove. Removing redundancy from your dataset will enhance your model's stability and interpretability.
+
+### ✅ Detecting Multicollinearity
+- Start by generating a **correlation matrix heatmap** to visualize relationships between features. Look for pairs with high correlation coefficients (typically above 0.7 or 0.8), as they indicate potential multicollinearity.
+- Specifically, you’ve done well in correctly identifying and removing the highly correlated feature with **RSI**. This level of precision shows strong insight into which features will contribute most to your model’s performance.
+
+### ✅ Dropping Collinear Features
+- For highly correlated feature pairs, retain only the feature most relevant to your model’s predictive power or interpretability.
+- Additionally, use metrics like **Variance Inflation Factor (VIF)** if needed to verify multicollinearity and guide your decisions on which features to drop.
+
+### Explanation and Validation 💬
+- After removing redundant features, rerun the correlation matrix to confirm that the final set shows minimal multicollinearity.
+- Document which features you removed and briefly explain why your choices support a stronger model, highlighting the thoughtfulness of your selection.
+
+### Final Check ✅
+- Confirm that the correlation matrix heatmap displays correctly and that the dataset no longer contains highly correlated features.
+
+You’re making impressive progress! Your strong judgment in feature selection and attention to multicollinearity will lead to a robust and interpretable model. Keep up the excellent work!
+
+> 💡 **Tip**: Remember, revisiting feature relationships throughout the modeling process can reveal new insights, especially with certain algorithms.
+
+Fantastic job, and happy feature engineering! 😊
+
+---
+
+### Additional Resources
+- [Multicollinearity in Machine Learning](https://towardsdatascience.com/multicollinearity-in-data-science-c9d5af56e143)
+- [Variance Inflation Factor (VIF) - Detecting Multicollinearity](https://www.analyticsvidhya.com/blog/2020/03/what-is-multicollinearity/)
+
