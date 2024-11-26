@@ -220,13 +220,38 @@ Please take some time to gather these missing elements and ensure they are inclu
 
 **No Submission is original and plagiarized from the indicated source.**
 - - -- - - 
-The student has copied from this Source:- https://github.com/ploratran/AzureBlogPost
+### Feedback on Your Project Submission
 
-This Student has already passed Project on 21st March 2021 and you are using her Screenshots.
-It is good to do the Project on your own rather than copying someone else work.
+We noticed that the submitted work contains elements identical to those from the following source:  
+[Udacity Courses GitHub Repository](https://github.com/udacity-courses/Deploy-An-Article-CMS-to-Azure/tree/master).  
 
-![sign-out.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/3625268/1642920930/sign-out.png)
+Additionally, the screenshots used in your submission are identical to those found in the mentioned repository. It appears that the project was not completed independently.
 
+### Why Original Work Matters
+
+Completing the project on your own is critical for several reasons:
+
+1. **Skill Development**: The purpose of this project is to help you gain hands-on experience. Copying someone else's work undermines your opportunity to build and demonstrate these skills.
+   
+2. **Integrity**: Submitting original work showcases your commitment to ethical practices, which is highly valued in professional environments.
+   
+3. **Learning Outcomes**: By doing the work yourself, you learn to troubleshoot and solve real-world problems, which strengthens your understanding and prepares you for future challenges.
+
+### How to Approach the Project
+
+To ensure you successfully complete this project independently:
+- **Understand the Objectives**: Review the project requirements carefully and break them down into manageable steps.
+- **Leverage Resources**: Use the course material and any external documentation as references, but do not copy content directly.
+- **Experiment and Practice**: Try different approaches to solving the problem. It's okay to make mistakes—they’re part of the learning process.
+- **Seek Guidance**: If you encounter difficulties, ask questions in the forums or reach out to mentors for assistance.
+
+### Next Steps
+
+Please revisit the project requirements and complete the work independently. If you need clarification or help, we are here to support you. Remember, the goal is not just to pass but to gain valuable skills that will be instrumental in your career.
+
+We strongly encourage you to take this opportunity to learn and grow. Your future self will thank you for the effort you put in today.
+
+Good luck, and happy learning!
 -- -  - -
 
 
