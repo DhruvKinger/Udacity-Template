@@ -13,7 +13,7 @@ You need to use these lines of codes
 
 
 Both successful and unsuccessful attempts to access the web app are logged. As evidence, provide a screenshot or download the logs from Azure containing at least one successful and one unsuccessful access attempt and include them in your submission files. 
-If otherwise submitting a URL, please include a link to sthe creenshot/logs in the “Submission Details” box on the project submission page. 
+If otherwise submitting a URL, please include a link to the screenshot/logs in the “Submission Details” box on the project submission page. 
 
 Hint: Share the screenshots where logs show the successful and failed login attempts. You can share Azure Portal logging, localhost terminal logs, or logs in Azure storage account.
 
