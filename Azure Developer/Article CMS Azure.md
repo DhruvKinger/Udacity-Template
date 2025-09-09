@@ -207,12 +207,31 @@ You need to consider cost factors here! Cost Estimates can give us some real ins
 
 ## Ungradeable
 
-## Dear Student 💡,
-Hope you are doing well! I wanted to reach out regarding your recent project submission. It seems that you are missing several key components that are critical for evaluation. Specifically, the screenshots are absent, which are necessary to demonstrate your work and its functionality. Additionally, I noticed that the code itself is not included, along with the required writeup.md file that outlines your project objectives, methodology, and findings.
 
-Completing these sections is essential for a comprehensive assessment. The writeup.md file should provide context and detail about your project, while the code showcases your implementation. Including screenshots helps visualize your progress and results.
+## Dear Student 💡
 
-Please take some time to gather these missing elements and ensure they are included in your resubmission. If you have any questions or need assistance, feel free to reach out. I’m here to help!
+Hope you are doing well! I wanted to reach out regarding your recent project submission. It seems that several key components are missing, which are critical for a complete evaluation.
+
+### Specifically:
+- **Screenshots** are absent, which are necessary to demonstrate your work and its functionality.
+- The **code** itself is not included.
+- The **writeup.md** file is missing. This document should outline your project objectives, methodology, and findings.
+
+Completing these sections is essential for a comprehensive assessment. The `writeup.md` file should provide context and detail about your project, while the code showcases your implementation. Including screenshots helps visualize your progress and results.
+
+### Additional Requirements:
+You are also expected to **successfully deploy your project on Azure App Service**. As part of this, please ensure the following resources are created and configured:
+
+- **Resource Group**
+- **Storage Container**
+- **Azure SQL Database**
+- **Web App**
+- **Logging Configuration**
+- **Redirect URI setup** (if applicable for authentication or OAuth flows)
+
+Please include **screenshots of each of these resources** from the Azure portal to verify proper setup and deployment. These visuals are essential to confirm that your project is not only functional but also cloud-ready and properly integrated.
+
+Once you've gathered all the missing elements, kindly resubmit your project. If you have any questions or need assistance, feel free to reach out. I’m here to help!
 
 ### Thanks!
 
