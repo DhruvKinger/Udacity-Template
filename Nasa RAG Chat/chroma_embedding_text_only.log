@@ -1,0 +1,13 @@
+2026-10-15 16:46:03,941 - INFO - Initializing ChromaDB Embedding Pipeline...
+2026-10-15 16:46:04,973 - INFO - Collection 'nasa_space_missions_text' ready at './chroma_db_openai' (0 chunks, chunk_size=500, chunk_overlap=100, model=text-embedding-3-small)
+2026-10-15 16:46:04,976 - INFO - Collection Statistics:
+2026-10-15 16:46:04,977 - INFO - collection_name: nasa_space_missions_text
+2026-10-15 16:46:04,977 - INFO - persist_directory: ./chroma_db_openai
+2026-10-15 16:46:04,977 - INFO - collection_size (chunks): 0
+2026-10-15 16:46:04,981 - INFO - The collection is empty - run the pipeline first (without --stats-only).
+2026-10-15 16:46:04,982 - INFO - total_documents: 0
+2026-10-15 16:46:04,982 - INFO - missions: {}
+2026-10-15 16:46:04,983 - INFO - data_types: {}
+2026-10-15 16:46:04,984 - INFO - document_categories: {}
+2026-10-15 16:46:04,984 - INFO - file_types: {}
+2026-10-15 16:46:04,984 - INFO - sources: {}

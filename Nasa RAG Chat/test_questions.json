@@ -1,0 +1,102 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "category": "overview",
+      "mission": "apollo_11",
+      "question": "What was the Apollo 11 mission and what did it achieve?",
+      "expected_answer": "Apollo 11 was the first crewed mission to land on the Moon. It launched on July 16, 1969. The Lunar Module Eagle, with Neil Armstrong and Edwin \"Buzz\" Aldrin, landed in the Sea of Tranquility on July 20, 1969 (\"Tranquility Base here. The Eagle has landed\") while Michael Collins orbited the Moon in the Command Module. Armstrong and Aldrin walked on the surface (\"one small step for man, one giant leap for mankind\") and the crew returned safely to Earth."
+    },
+    {
+      "id": "2",
+      "category": "overview",
+      "mission": "apollo_13",
+      "question": "Give me an overview of the Apollo 13 mission.",
+      "expected_answer": "Apollo 13 was launched in April 1970 as a planned lunar landing mission, with astronauts James Lovell, John Swigert and Fred Haise. About two days into the flight an accident in the service module (an oxygen tank failure) cost the spacecraft its electrical power and oxygen supply, so the Moon landing was cancelled. The crew used the Lunar Module Aquarius as a lifeboat, swung around the Moon and returned safely to Earth in the Command Module Odyssey."
+    },
+    {
+      "id": "3",
+      "category": "emergency",
+      "mission": "apollo_13",
+      "question": "What problems did Apollo 13 encounter?",
+      "expected_answer": "Roughly 56 hours into the flight the crew reported \"Houston, we've had a problem\". An oxygen tank in the service module failed, causing a loss of oxygen and electrical power (fuel cell and main bus problems) and the spacecraft started venting. The lunar landing was abandoned, the Command Module Odyssey was powered down to save its batteries, the crew moved into the Lunar Module Aquarius, and they later had to deal with carbon dioxide build-up and cold, limited water and power on the way home."
+    },
+    {
+      "id": "4",
+      "category": "disaster_analysis",
+      "mission": "challenger",
+      "question": "What happened to the Space Shuttle Challenger during the STS-51L flight?",
+      "expected_answer": "Challenger was lost shortly after liftoff on January 28, 1986, soon after the \"go at throttle up\" call (main engines back up to about 104 percent). Flight controllers reported that there had obviously been \"a major malfunction\". Afterwards a report said that very preliminary searches of the ocean where the vehicle impacted had found no evidence that the crew survived. The transcripts give no technical cause, and a good answer says so instead of guessing one."
+    },
+    {
+      "id": "5",
+      "category": "disaster_analysis",
+      "mission": "challenger",
+      "question": "What was the last routine call between Mission Control and the Challenger crew?",
+      "expected_answer": "Mission Control gave the \"go at throttle up\" call and the commander, Dick Scobee (spelled \"Scobie\" in the transcript), responded to it. This was the last routine exchange before the accident, and the transcripts note that the call has often been misquoted."
+    },
+    {
+      "id": "6",
+      "category": "crew",
+      "mission": "apollo_11",
+      "question": "Who were the Apollo 11 crew members and what were their roles?",
+      "expected_answer": "Neil A. Armstrong was the Commander, Michael Collins was the Command Module Pilot and Edwin E. \"Buzz\" Aldrin Jr. was the Lunar Module Pilot. Armstrong and Aldrin landed in the Lunar Module Eagle while Collins stayed in orbit aboard the Command Module."
+    },
+    {
+      "id": "7",
+      "category": "crew",
+      "mission": "apollo_13",
+      "question": "Who were the Apollo 13 astronauts, and who was replaced shortly before launch?",
+      "expected_answer": "The crew was James A. (Jim) Lovell Jr. (Commander), John L. (Jack) Swigert Jr. (Command Module Pilot) and Fred W. Haise Jr. (Lunar Module Pilot). Swigert flew in place of Thomas K. (Ken) Mattingly, who had been exposed to measles shortly before the launch."
+    },
+    {
+      "id": "8",
+      "category": "crew",
+      "mission": "challenger",
+      "question": "Who made up the crew of Space Shuttle Challenger on mission STS-51L?",
+      "expected_answer": "Commander Francis \"Dick\" Scobee, Pilot Michael Smith, Mission Specialists Judith Resnik, Ellison Onizuka and Ronald McNair, Payload Specialist Gregory Jarvis and teacher Christa McAuliffe (the \"Teacher in Space\" participant). That is seven crew members."
+    },
+    {
+      "id": "9",
+      "category": "technical",
+      "mission": "apollo_11",
+      "question": "What were the program alarms during the Apollo 11 lunar descent?",
+      "expected_answer": "During the powered descent the Lunar Module guidance computer displayed program alarms, notably 1202 (and 1201), which signal that the computer was overloaded. The crew asked Houston for a reading on the 1202 alarm; Mission Control judged the alarms acceptable and told them to continue with the landing."
+    },
+    {
+      "id": "10",
+      "category": "technical",
+      "mission": "apollo_13",
+      "question": "How did the Apollo 13 crew deal with the carbon dioxide build-up?",
+      "expected_answer": "The Lunar Module, serving as a lifeboat for three men, did not have enough lithium hydroxide canisters to scrub the carbon dioxide, and the Command Module canisters were a different shape. Mission Control worked out a way to adapt the Command Module canisters to the Lunar Module system using materials on board (the improvised \"mailbox\") and talked the crew through building it, which brought the carbon dioxide level down."
+    },
+    {
+      "id": "11",
+      "category": "timeline",
+      "mission": "apollo_11",
+      "question": "When did Apollo 11 launch and when did the Lunar Module land on the Moon?",
+      "expected_answer": "Apollo 11 launched at 9:32:00 a.m. Eastern Daylight Time on July 16, 1969. The Lunar Module Eagle touched down in the Sea of Tranquility on July 20, 1969, at 102 hours 45 minutes 40 seconds ground elapsed time."
+    },
+    {
+      "id": "12",
+      "category": "timeline",
+      "mission": "apollo_13",
+      "question": "How long after launch did the Apollo 13 accident happen?",
+      "expected_answer": "Apollo 13 launched on April 11, 1970. The accident happened on April 13, 1970, a little under 56 hours into the flight, shortly before the crew reported \"Houston, we've had a problem\"."
+    },
+    {
+      "id": "13",
+      "category": "timeline",
+      "mission": "challenger",
+      "question": "What was the sequence of events on launch day for Challenger STS-51L?",
+      "expected_answer": "The countdown ran through a series of holds (\"T minus 3 hours and holding\"). The targeted liftoff time of 9:37 a.m. Eastern was moved to a launch window opening at 10:38 a.m., and the countdown resumed at the T-minus 20 minute point at 11:36 a.m. on January 28, 1986. Concerns about ice buildup on the external tank were discussed. After liftoff came the throttle-up call and then the report of \"a major malfunction\"."
+    },
+    {
+      "id": "14",
+      "category": "out_of_scope",
+      "mission": "all",
+      "question": "What were the objectives of the Space Shuttle Columbia STS-107 mission?",
+      "expected_answer": "The archive only covers Apollo 11, Apollo 13 and Challenger (STS-51L). A well-grounded system should say that the retrieved documents do not contain information about STS-107 instead of answering from memory."
+    }
+  ]
+}

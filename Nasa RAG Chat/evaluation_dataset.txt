@@ -1,0 +1,148 @@
+# NASA Mission Intelligence - Evaluation Dataset
+#
+# Sample questions used to test the RAG system, with the response a well-grounded system is
+# expected to give. The file is read by `ragas_evaluator.py` (batch evaluation):
+#
+#     python ragas_evaluator.py --dataset evaluation_dataset.txt
+#
+# Format: entries are separated by a line containing only three dashes. Every entry has
+#   ID, CATEGORY, MISSION (apollo_11 | apollo_13 | challenger | all), QUESTION, EXPECTED_ANSWER
+# The EXPECTED_ANSWER may continue over several lines. Lines starting with '#' above the
+# first entry are comments.
+#
+# Categories covered: overview, emergency, disaster_analysis, crew, technical, timeline,
+# out_of_scope (a question the archive cannot answer: the system must say so, not guess).
+#
+# Note on the sources: the Apollo files are air-to-ground / public-affairs transcripts and
+# technical reports; the Challenger files are audio transcripts of the STS-51L countdown,
+# flight and post-accident commentary. Names in the transcripts are spelled phonetically
+# (for example "Scobie" for Scobee, "Resnick" for Resnik, "Krista" for Christa).
+---
+ID: 1
+CATEGORY: overview
+MISSION: apollo_11
+QUESTION: What was the Apollo 11 mission and what did it achieve?
+EXPECTED_ANSWER: Apollo 11 was the first crewed mission to land on the Moon. It launched on
+  July 16, 1969. The Lunar Module Eagle, with Neil Armstrong and Edwin "Buzz" Aldrin, landed in
+  the Sea of Tranquility on July 20, 1969 ("Tranquility Base here. The Eagle has landed") while
+  Michael Collins orbited the Moon in the Command Module. Armstrong and Aldrin walked on the
+  surface ("one small step for man, one giant leap for mankind") and the crew returned safely
+  to Earth.
+---
+ID: 2
+CATEGORY: overview
+MISSION: apollo_13
+QUESTION: Give me an overview of the Apollo 13 mission.
+EXPECTED_ANSWER: Apollo 13 was launched in April 1970 as a planned lunar landing
+  mission, with astronauts James Lovell, John Swigert and Fred Haise. About two days into the
+  flight an accident in the service module (an oxygen tank failure) cost the spacecraft its
+  electrical power and oxygen supply, so the Moon landing was cancelled. The crew used the Lunar
+  Module Aquarius as a lifeboat, swung around the Moon and returned safely to Earth in the
+  Command Module Odyssey.
+---
+ID: 3
+CATEGORY: emergency
+MISSION: apollo_13
+QUESTION: What problems did Apollo 13 encounter?
+EXPECTED_ANSWER: Roughly 56 hours into the flight the crew reported "Houston, we've had a
+  problem". An oxygen tank in the service module failed, causing a loss of oxygen and electrical
+  power (fuel cell and main bus problems) and the spacecraft started venting. The lunar landing was
+  abandoned, the Command Module Odyssey was powered down to save its batteries, the crew moved
+  into the Lunar Module Aquarius, and they later had to deal with carbon dioxide build-up
+  and cold, limited water and power on the way home.
+---
+ID: 4
+CATEGORY: disaster_analysis
+MISSION: challenger
+QUESTION: What happened to the Space Shuttle Challenger during the STS-51L flight?
+EXPECTED_ANSWER: Challenger was lost shortly after liftoff on January 28, 1986, soon after the
+  "go at throttle up" call (main engines back up to about 104 percent). Flight controllers reported
+  that there had obviously been "a major malfunction". Afterwards a report said that very preliminary
+  searches of the ocean where the vehicle impacted had found no evidence that the crew survived. The
+  transcripts give no technical cause, and a good answer says so instead of guessing one.
+---
+ID: 5
+CATEGORY: disaster_analysis
+MISSION: challenger
+QUESTION: What was the last routine call between Mission Control and the Challenger crew?
+EXPECTED_ANSWER: Mission Control gave the "go at throttle up" call and the commander, Dick Scobee
+  (spelled "Scobie" in the transcript), responded to it. This was the last routine exchange before the
+  accident, and the transcripts note that the call has often been misquoted.
+---
+ID: 6
+CATEGORY: crew
+MISSION: apollo_11
+QUESTION: Who were the Apollo 11 crew members and what were their roles?
+EXPECTED_ANSWER: Neil A. Armstrong was the Commander, Michael Collins was the Command Module
+  Pilot and Edwin E. "Buzz" Aldrin Jr. was the Lunar Module Pilot. Armstrong and Aldrin landed
+  in the Lunar Module Eagle while Collins stayed in orbit aboard the Command Module.
+---
+ID: 7
+CATEGORY: crew
+MISSION: apollo_13
+QUESTION: Who were the Apollo 13 astronauts, and who was replaced shortly before launch?
+EXPECTED_ANSWER: The crew was James A. (Jim) Lovell Jr. (Commander), John L. (Jack) Swigert
+  Jr. (Command Module Pilot) and Fred W. Haise Jr. (Lunar Module Pilot). Swigert flew in place
+  of Thomas K. (Ken) Mattingly, who had been exposed to measles shortly before the launch.
+---
+ID: 8
+CATEGORY: crew
+MISSION: challenger
+QUESTION: Who made up the crew of Space Shuttle Challenger on mission STS-51L?
+EXPECTED_ANSWER: Commander Francis "Dick" Scobee, Pilot Michael Smith, Mission Specialists
+  Judith Resnik, Ellison Onizuka and Ronald McNair, Payload Specialist Gregory Jarvis and
+  teacher Christa McAuliffe (the "Teacher in Space" participant). That is seven crew members.
+---
+ID: 9
+CATEGORY: technical
+MISSION: apollo_11
+QUESTION: What were the program alarms during the Apollo 11 lunar descent?
+EXPECTED_ANSWER: During the powered descent the Lunar Module guidance computer displayed
+  program alarms, notably 1202 (and 1201), which signal that the computer was overloaded. The
+  crew asked Houston for a reading on the 1202 alarm; Mission Control judged the alarms
+  acceptable and told them to continue with the landing.
+---
+ID: 10
+CATEGORY: technical
+MISSION: apollo_13
+QUESTION: How did the Apollo 13 crew deal with the carbon dioxide build-up?
+EXPECTED_ANSWER: The Lunar Module, serving as a lifeboat for three men, did not have enough
+  lithium hydroxide canisters to scrub the carbon dioxide, and the Command Module canisters
+  were a different shape. Mission Control worked out a way to adapt the Command Module
+  canisters to the Lunar Module system using materials on board (the improvised "mailbox") and
+  talked the crew through building it, which brought the carbon dioxide level down.
+---
+ID: 11
+CATEGORY: timeline
+MISSION: apollo_11
+QUESTION: When did Apollo 11 launch and when did the Lunar Module land on the Moon?
+EXPECTED_ANSWER: Apollo 11 launched at 9:32:00 a.m. Eastern Daylight Time on July 16, 1969.
+  The Lunar Module Eagle touched down in the Sea of Tranquility on July 20, 1969, at
+  102 hours 45 minutes 40 seconds ground elapsed time.
+---
+ID: 12
+CATEGORY: timeline
+MISSION: apollo_13
+QUESTION: How long after launch did the Apollo 13 accident happen?
+EXPECTED_ANSWER: Apollo 13 launched on April 11, 1970. The accident happened on April 13,
+  1970, a little under 56 hours into the flight, shortly before the crew reported "Houston, we've had a
+  problem".
+---
+ID: 13
+CATEGORY: timeline
+MISSION: challenger
+QUESTION: What was the sequence of events on launch day for Challenger STS-51L?
+EXPECTED_ANSWER: The countdown ran through a series of holds ("T minus 3 hours and holding").
+  The targeted liftoff time of 9:37 a.m. Eastern was moved to a launch window opening at 10:38 a.m., and
+  the countdown resumed at the T-minus 20 minute point at 11:36 a.m. on January 28, 1986. Concerns about
+  ice buildup on the external tank were discussed. After liftoff came the throttle-up call and then the
+  report of "a major malfunction".
+---
+ID: 14
+CATEGORY: out_of_scope
+MISSION: all
+QUESTION: What were the objectives of the Space Shuttle Columbia STS-107 mission?
+EXPECTED_ANSWER: The archive only covers Apollo 11, Apollo 13 and Challenger (STS-51L). A
+  well-grounded system should say that the retrieved documents do not contain information
+  about STS-107 instead of answering from memory.
+---
