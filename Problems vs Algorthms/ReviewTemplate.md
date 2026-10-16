@@ -145,3 +145,61 @@ The explanation does not yet provide enough detail about the choices that shaped
 Adding this reasoning will help readers understand not just what the solution does, but why its design is suitable.
 
 **Further reading:** [Algorithm design](https://en.wikipedia.org/wiki/Algorithm_design) provides general context for choosing approaches to computational problems.
+
+## Rubric Point: Readability
+
+**Requirement:** Explanation is written with proper English. Wording is clear and easy to understand. It’s okay to make a couple mistakes, but thoughts should be clearly expressed overall.
+
+### Pass
+
+## 📝 Clear and easy to understand
+
+Your explanation is written in clear, understandable English. The ideas are expressed logically, and the wording makes it easy for the reader to follow your reasoning and understand the solution. Minor grammatical or wording mistakes do not affect the overall clarity of your explanation.
+
+Continue organizing your thoughts clearly and using straightforward language to communicate your ideas effectively.
+
+**Further reading:** [Purdue OWL – General Writing](https://owl.purdue.edu/owl/general_writing/index.html) provides guidance on writing clearly and effectively.
+
+### Fail
+
+## ✍️ Make your explanation clearer
+
+Your explanation needs improvement in clarity and readability to meet this rubric point. Some sentences may be difficult to understand because of unclear wording, grammatical errors, or ideas that are not expressed in a logical order. These issues can make it harder for the reader to follow your reasoning.
+
+Review your explanation and rewrite unclear sentences using simple, direct language. Check grammar, sentence structure, and the flow of ideas to ensure your thoughts are communicated clearly. You do not need perfect English, but your explanation should be understandable overall.
+
+**Further reading:** [Purdue OWL – General Writing](https://owl.purdue.edu/owl/general_writing/index.html) offers practical guidance on improving sentence clarity, grammar, and organization.
+
+# Overall Project Feedback
+
+Use the feedback under the matching result after reviewing all rubric points.
+
+## Pass
+
+### 🎉 Congratulations on passing!
+
+Congratulations on successfully completing the project! Your submission meets the required specifications and demonstrates a good understanding of the concepts covered. You have put effort into implementing the solution, explaining your approach, and addressing the project requirements.
+
+Keep building on this progress by practicing regularly, exploring alternative approaches, and refining your problem-solving skills. Every project is an opportunity to learn something new and become a more confident developer.
+
+Excellent work, and keep up the momentum!
+
+## Fail
+
+### 💪 Good effort — keep improving!
+
+Thank you for submitting your project. You have made a start, but the submission does not yet meet all the required specifications. Review the individual rubric feedback carefully to identify the areas that need improvement, and focus on addressing those issues before resubmitting.
+
+Take the time to revisit the relevant concepts, refine your implementation or explanation, and test your solution against the project requirements. Each revision is an opportunity to strengthen your understanding and improve your skills.
+
+Keep going! With focused effort and practice, you can address these gaps and work toward a successful submission.
+
+## Ungradable — Required Files Missing
+
+### 📂 Project files required for review
+
+Unfortunately, your project cannot be graded because the required submission files are missing or were not provided in an accessible format. Without these files, it is not possible to evaluate your implementation or determine whether the project meets the required specifications.
+
+Please review the submission instructions and upload all the required files in the appropriate format. Once the necessary files are available, your project can be reviewed against the rubric.
+
+This is not a judgment of your technical ability. Please ensure that your submission is complete so your work can be evaluated fairly.
