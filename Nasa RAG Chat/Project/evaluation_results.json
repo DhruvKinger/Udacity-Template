@@ -1,0 +1,205 @@
+{
+  "results": [
+    {
+      "id": "1",
+      "category": "overview",
+      "mission": "apollo_11",
+      "question": "What was the Apollo 11 mission and what did it achieve?",
+      "answer": "The Apollo 11 mission was the first lunar landing mission of the Apollo Program, aiming to land men on the lunar surface and return them safely to Earth. It was the 11th flight in a series using Apollo hardware and the fifth manned flight of the command and service modules, as well as the third manned flight of the lunar module. \n\nThe mission successfully accomplished its primary objective of landing two men, Neil A. Armstrong and Edwin E. Aldrin, Jr., on the Moon while Michael Collins remained in orbit in the command module. During the mission, they deployed three basic experiment packages, collected lunar material samples, and took surface photographs, thereby achieving the national goal of landing men on the Moon before the end of the decade [Source 1][Source 3][Source 6].",
+      "reference": "Apollo 11 was the first crewed mission to land on the Moon. It launched on July 16, 1969. The Lunar Module Eagle, with Neil Armstrong and Edwin \"Buzz\" Aldrin, landed in the Sea of Tranquility on July 20, 1969 (\"Tranquility Base here. The Eagle has landed\") while Michael Collins orbited the Moon in the Command Module. Armstrong and Aldrin walked on the surface (\"one small step for man, one giant leap for mankind\") and the crew returned safely to Earth.",
+      "n_contexts": 8,
+      "scores": {
+        "faithfulness": 0.9091,
+        "answer_relevancy": 0.6002
+      }
+    },
+    {
+      "id": "2",
+      "category": "overview",
+      "mission": "apollo_13",
+      "question": "Give me an overview of the Apollo 13 mission.",
+      "answer": "The retrieved archive excerpts do not contain enough information to provide a comprehensive overview of the Apollo 13 mission. The context includes details about the crew's activities, such as rest periods and spacecraft status, but it does not cover the mission's objectives, significant events, or the challenges faced during the flight. \n\nKey points mentioned include:\n- The crew members were Jim Lovell (Commander), Jack Swigert (Command Module Pilot), and Fred Haise (Lunar Module Pilot).\n- The mission involved rest periods for the crew and various spacecraft operations, such as alignment and velocity readings.\n\nHowever, details about the mission's overall goals, the incident that led to the emergency, and the eventual return to Earth are not included in the provided context.",
+      "reference": "Apollo 13 was launched in April 1970 as a planned lunar landing mission, with astronauts James Lovell, John Swigert and Fred Haise. About two days into the flight an accident in the service module (an oxygen tank failure) cost the spacecraft its electrical power and oxygen supply, so the Moon landing was cancelled. The crew used the Lunar Module Aquarius as a lifeboat, swung around the Moon and returned safely to Earth in the Command Module Odyssey.",
+      "n_contexts": 8,
+      "scores": {
+        "faithfulness": 0.8333,
+        "answer_relevancy": 0.0
+      }
+    },
+    {
+      "id": "3",
+      "category": "emergency",
+      "mission": "apollo_13",
+      "question": "What problems did Apollo 13 encounter?",
+      "answer": "Apollo 13 encountered several significant problems during its mission:\n\n1. **Oxygen Flow Loss**: There was a loss of oxygen flow, which was critical for both the crew's breathing and the spacecraft's electrical power system derived from fuel cells [Source 1].\n\n2. **Service Module Issues**: A failure occurred in the service module's liquid oxygen tank number 2, which led to the failure of fuel cells 1 and 3 shortly thereafter. This prompted a decision to scrub the planned lunar landing and instead continue with a lunar fly-by and deep space abort mission [Source 8].\n\n3. **Water Warning Light**: The crew reported a water warning light, indicating potential issues with their water supply system [Source 7].\n\nThese problems necessitated the use of the lunar module as a lifeboat to ensure the crew's safe return to Earth [Source 4].",
+      "reference": "Roughly 56 hours into the flight the crew reported \"Houston, we've had a problem\". An oxygen tank in the service module failed, causing a loss of oxygen and electrical power (fuel cell and main bus problems) and the spacecraft started venting. The lunar landing was abandoned, the Command Module Odyssey was powered down to save its batteries, the crew moved into the Lunar Module Aquarius, and they later had to deal with carbon dioxide build-up and cold, limited water and power on the way home.",
+      "n_contexts": 8,
+      "scores": {
+        "faithfulness": 1.0,
+        "answer_relevancy": 0.9284
+      }
+    },
+    {
+      "id": "4",
+      "category": "disaster_analysis",
+      "mission": "challenger",
+      "question": "What happened to the Space Shuttle Challenger during the STS-51L flight?",
+      "answer": "The retrieved archive excerpts indicate that the Space Shuttle Challenger experienced an explosion approximately 1 minute and a half after launch from the Kennedy Space Center. Following this tragic event, preliminary searches of the ocean where the Challenger impacted did not reveal any evidence that the crew survived. The crew members included Commander Francis Dick Scobie and Pilot Michael J. Smith, among others [Source 1][Source 3]. \n\nIf you have further questions or need more specific details, please let me know.",
+      "reference": "Challenger was lost shortly after liftoff on January 28, 1986, soon after the \"go at throttle up\" call (main engines back up to about 104 percent). Flight controllers reported that there had obviously been \"a major malfunction\". Afterwards a report said that very preliminary searches of the ocean where the vehicle impacted had found no evidence that the crew survived. The transcripts give no technical cause, and a good answer says so instead of guessing one.",
+      "n_contexts": 8,
+      "scores": {
+        "faithfulness": 1.0,
+        "answer_relevancy": 0.6754
+      }
+    },
+    {
+      "id": "5",
+      "category": "disaster_analysis",
+      "mission": "challenger",
+      "question": "What was the last routine call between Mission Control and the Challenger crew?",
+      "answer": "The retrieved archive excerpts do not contain enough information to answer this. Specifically, there is no mention of the last routine call between Mission Control and the Challenger crew in the provided context.",
+      "reference": "Mission Control gave the \"go at throttle up\" call and the commander, Dick Scobee (spelled \"Scobie\" in the transcript), responded to it. This was the last routine exchange before the accident, and the transcripts note that the call has often been misquoted.",
+      "n_contexts": 8,
+      "scores": {
+        "faithfulness": 0.5,
+        "answer_relevancy": 0.0
+      }
+    },
+    {
+      "id": "6",
+      "category": "crew",
+      "mission": "apollo_11",
+      "question": "Who were the Apollo 11 crew members and what were their roles?",
+      "answer": "The Apollo 11 crew members and their roles were as follows:\n\n- Neil A. Armstrong: Commander (CDR)\n- Michael Collins: Command Module Pilot (CMP)\n- Edwin E. Aldrin, Jr.: Lunar Module Pilot (LMP) \n\nThese roles are consistent across multiple sources from the retrieved context [Source 1], [Source 2], and [Source 3].",
+      "reference": "Neil A. Armstrong was the Commander, Michael Collins was the Command Module Pilot and Edwin E. \"Buzz\" Aldrin Jr. was the Lunar Module Pilot. Armstrong and Aldrin landed in the Lunar Module Eagle while Collins stayed in orbit aboard the Command Module.",
+      "n_contexts": 8,
+      "scores": {
+        "faithfulness": 0.8,
+        "answer_relevancy": 0.9447
+      }
+    },
+    {
+      "id": "7",
+      "category": "crew",
+      "mission": "apollo_13",
+      "question": "Who were the Apollo 13 astronauts, and who was replaced shortly before launch?",
+      "answer": "The Apollo 13 astronauts were Jim Lovell (Commander), Jack Swigert (Command Module Pilot), and Fred Haise (Lunar Module Pilot). Jack Swigert replaced Ken Mattingly shortly before launch due to Mattingly's exposure to German measles [Source 1].",
+      "reference": "The crew was James A. (Jim) Lovell Jr. (Commander), John L. (Jack) Swigert Jr. (Command Module Pilot) and Fred W. Haise Jr. (Lunar Module Pilot). Swigert flew in place of Thomas K. (Ken) Mattingly, who had been exposed to measles shortly before the launch.",
+      "n_contexts": 8,
+      "scores": {
+        "faithfulness": 0.3333,
+        "answer_relevancy": 0.8482
+      }
+    },
+    {
+      "id": "8",
+      "category": "crew",
+      "mission": "challenger",
+      "question": "Who made up the crew of Space Shuttle Challenger on mission STS-51L?",
+      "answer": "The crew of the Space Shuttle Challenger on mission STS-51L consisted of the following members:\n\n1. Commander Francis Dick Scobie\n2. Pilot Michael J. Smith\n3. Mission Specialists:\n   - Judy Resnick\n   - Ellison Onizuka\n   - Ronald McNair\n4. Payload Specialist:\n   - Greg Jarvis\n5. Teacher and Space Participant:\n   - Krista McAuliffe\n\nThis information is supported by multiple sources from the mission audio transcripts [Source 2, Source 3, Source 5].",
+      "reference": "Commander Francis \"Dick\" Scobee, Pilot Michael Smith, Mission Specialists Judith Resnik, Ellison Onizuka and Ronald McNair, Payload Specialist Gregory Jarvis and teacher Christa McAuliffe (the \"Teacher in Space\" participant). That is seven crew members.",
+      "n_contexts": 8,
+      "scores": {
+        "faithfulness": 1.0,
+        "answer_relevancy": 0.9429
+      }
+    },
+    {
+      "id": "9",
+      "category": "technical",
+      "mission": "apollo_11",
+      "question": "What were the program alarms during the Apollo 11 lunar descent?",
+      "answer": "During the Apollo 11 lunar descent, five computer program alarms occurred prior to the low-gate phase of the trajectory. These alarms were of the Executive overflow type, which signify that the guidance and control functions were not affected by the alarms [Source 2].",
+      "reference": "During the powered descent the Lunar Module guidance computer displayed program alarms, notably 1202 (and 1201), which signal that the computer was overloaded. The crew asked Houston for a reading on the 1202 alarm; Mission Control judged the alarms acceptable and told them to continue with the landing.",
+      "n_contexts": 8,
+      "scores": {
+        "faithfulness": 0.3333,
+        "answer_relevancy": 0.8615
+      }
+    },
+    {
+      "id": "10",
+      "category": "technical",
+      "mission": "apollo_13",
+      "question": "How did the Apollo 13 crew deal with the carbon dioxide build-up?",
+      "answer": "The Apollo 13 crew dealt with the carbon dioxide build-up by rigging a makeshift device that utilized lithium hydroxide scrubber canisters from the command module. This setup effectively reduced the carbon dioxide levels in the lunar module cabin from slightly over 1 millimeter of mercury down to 1/10th of a millimeter of mercury. The procedure involved using hoses from the suit system to connect the canisters to the cabin air, allowing them to scrub the atmosphere and remove carbon dioxide [Source 1][Source 4][Source 5].",
+      "reference": "The Lunar Module, serving as a lifeboat for three men, did not have enough lithium hydroxide canisters to scrub the carbon dioxide, and the Command Module canisters were a different shape. Mission Control worked out a way to adapt the Command Module canisters to the Lunar Module system using materials on board (the improvised \"mailbox\") and talked the crew through building it, which brought the carbon dioxide level down.",
+      "n_contexts": 8,
+      "scores": {
+        "faithfulness": 1.0,
+        "answer_relevancy": 1.0
+      }
+    },
+    {
+      "id": "11",
+      "category": "timeline",
+      "mission": "apollo_11",
+      "question": "When did Apollo 11 launch and when did the Lunar Module land on the Moon?",
+      "answer": "The Apollo 11 mission was launched from Kennedy Space Center, Florida, on July 16, 1969, at 8:32 a.m. Eastern Daylight Time (EDT) [Source 7]. However, the retrieved archive excerpts do not contain information about the specific time when the Lunar Module landed on the Moon.",
+      "reference": "Apollo 11 launched at 9:32:00 a.m. Eastern Daylight Time on July 16, 1969. The Lunar Module Eagle touched down in the Sea of Tranquility on July 20, 1969, at 102 hours 45 minutes 40 seconds ground elapsed time.",
+      "n_contexts": 8,
+      "scores": {
+        "faithfulness": 1.0,
+        "answer_relevancy": 0.0
+      }
+    },
+    {
+      "id": "12",
+      "category": "timeline",
+      "mission": "apollo_13",
+      "question": "How long after launch did the Apollo 13 accident happen?",
+      "answer": "The retrieved archive excerpts do not contain enough information to answer this. Specifically, the context does not provide details about the timing of the Apollo 13 launch or the specific moment of the accident during the mission.",
+      "reference": "Apollo 13 launched on April 11, 1970. The accident happened on April 13, 1970, at roughly 55 hours 55 minutes ground elapsed time, shortly before the crew reported \"Houston, we've had a problem\".",
+      "n_contexts": 8,
+      "scores": {
+        "faithfulness": 0.6667,
+        "answer_relevancy": 0.0
+      }
+    },
+    {
+      "id": "13",
+      "category": "timeline",
+      "mission": "challenger",
+      "question": "What was the sequence of events on launch day for Challenger STS-51L?",
+      "answer": "The retrieved archive excerpts provide a sequence of events on launch day for Challenger STS-51L as follows:\n\n1. **T minus 3 hours and holding**: Shuttle launch control reported that the flight crew would receive a final weather briefing in their crew quarters and were scheduled to head to the launch pad at 6:47 a.m. [Source 1].\n\n2. **Countdown Resumption**: Approximately 6 minutes before resuming the countdown, shuttle launch control noted that they were about to resume the countdown for Mission 51, which was the 25th for the Space Shuttle Transportation System and the 10th mission for Challenger [Source 2].\n\n3. **Ice Inspection**: The ice inspection team completed their inspection of the external tank and was preparing to leave the pad [Source 2].\n\n4. **Crew Preparation**: The crew members were getting ready and boarding the Orbiter Challenger. The countdown was reported to be proceeding smoothly at Kennedy Space Center [Source 3].\n\n5. **Crew Module Readiness**: The crew module was reported ready for the crew, and everything was going smoothly out on the pad as the countdown clock reached T minus 2 hours, 9 minutes, and counting [Source 4].\n\n6. **Closeout Crew**: At T minus 9 minutes, the closeout crew was waiting for an additional battery pack to assist in removing the handle from the orbiter hatch [Source 5].\n\n7. **Liftoff Time**: The liftoff time was tentatively planned for 10:38 a.m. Eastern, with the launch window extending until 12:30 p.m. [Source 8].\n\nThis sequence captures the key events leading up to the launch of Challenger STS-51L. However, the specific details of the launch itself and subsequent events are not covered in the provided context.",
+      "reference": "The countdown ran through a series of holds (\"T minus 3 hours and holding\"). The targeted liftoff time of 9:37 a.m. Eastern was moved to a launch window opening at 10:38 a.m., and the countdown resumed at the T-minus 20 minute point at 11:36 a.m. on January 28, 1986. Concerns about ice buildup on the external tank were discussed. After liftoff came the throttle-up call and then the report of \"a major malfunction\".",
+      "n_contexts": 8,
+      "scores": {
+        "faithfulness": 1.0,
+        "answer_relevancy": 0.0
+      }
+    },
+    {
+      "id": "14",
+      "category": "out_of_scope",
+      "mission": "all",
+      "question": "What were the objectives of the Space Shuttle Columbia STS-107 mission?",
+      "answer": "The retrieved archive excerpts do not contain enough information to answer this. Specifically, there is no mention of the objectives for the Space Shuttle Columbia STS-107 mission in the provided context.",
+      "reference": "The archive only covers Apollo 11, Apollo 13 and Challenger (STS-51L). A well-grounded system should say that the retrieved documents do not contain information about STS-107 instead of answering from memory.",
+      "n_contexts": 8,
+      "scores": {
+        "faithfulness": 0.0,
+        "answer_relevancy": 0.0
+      }
+    }
+  ],
+  "aggregate": {
+    "faithfulness": {
+      "mean": 0.7411,
+      "min": 0.0,
+      "max": 1.0,
+      "count": 14
+    },
+    "answer_relevancy": {
+      "mean": 0.4858,
+      "min": 0.0,
+      "max": 1.0,
+      "count": 14
+    }
+  },
+  "dataset": "evaluation_dataset.txt",
+  "collection": "nasa_space_missions_text",
+  "chat_model": "gpt-4o-mini",
+  "evaluator_model": "gpt-3.5-turbo",
+  "n_results": 8
+}
