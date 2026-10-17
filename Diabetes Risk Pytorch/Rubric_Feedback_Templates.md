@@ -169,3 +169,19 @@ Use the relevant **Pass** or **Fail** message for each criterion. Replace bracke
 **Fail**
 
 > 🔧 **Not yet meeting expectations.** Add one or two specific single-technique proposals and one combined experiment. For each, state the problem being addressed, explain the technical rationale, describe the results you expect, and estimate implementation complexity. Make the combined proposal clear about which techniques will be used together and why. Support technical claims with appropriate references, such as the [PyTorch `BCEWithLogitsLoss` documentation](https://pytorch.org/docs/stable/generated/torch.nn.BCEWithLogitsLoss.html) or [learning-rate scheduler documentation](https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate).
+
+## Overall Project Feedback
+
+Use one summary below after reviewing all applicable criteria. Replace bracketed text with the student's results and rubric-point numbers.
+
+### Overall Pass
+
+> 🌟 **Excellent work! Overall: Pass.** Your project meets the requirements across the rubric. You demonstrate a complete workflow from data exploration and preprocessing through model training, evaluation, experimentation, and interpretation. A particular strength is [mention a specific strength or result]. Keep building on this work by [optional next step].
+
+### Overall Fail
+
+> 💪 **You’ve made a solid start! Overall: Fail for now.** Your project demonstrates progress, but it does not yet meet all requirements. The criteria needing revision are [list rubric point numbers and concise reasons]. Please focus first on [highest-priority action], then update [other required work]. Your work on [mention a strength or completed criterion] is a good foundation for these revisions.
+
+### Overall Ungradable
+
+> 📋 **Thanks for sharing your project! Overall: Ungradable for now.** I’m unable to assess it reliably because [describe the missing, inaccessible, or unreadable submission evidence]. Please provide [specific notebook, data, outputs, or other required materials] and ensure that [relevant cells or sections] are available to review. Once that evidence is provided, it can be evaluated against the rubric.
