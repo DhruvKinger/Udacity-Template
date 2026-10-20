@@ -1,0 +1,8 @@
+{"subscription_id": "s_alice", "user_id": "u_alice", "tier": "premium", "status": "active", "monthly_price": 29.99, "monthly_quota": 6, "started_days_ago": 90, "ended_days_ago": null}
+{"subscription_id": "s_bob", "user_id": "u_bob", "tier": "basic", "status": "active", "monthly_price": 14.99, "monthly_quota": 2, "started_days_ago": 120, "ended_days_ago": null}
+{"subscription_id": "s_carla", "user_id": "u_carla", "tier": "premium", "status": "cancelled", "monthly_price": 29.99, "monthly_quota": 6, "started_days_ago": 150, "ended_days_ago": 20}
+{"subscription_id": "s_dev", "user_id": "u_dev", "tier": "premium_annual", "status": "active", "monthly_price": 299.99, "monthly_quota": 6, "started_days_ago": 3, "ended_days_ago": null}
+{"subscription_id": "s_erin", "user_id": "u_erin", "tier": "basic", "status": "active", "monthly_price": 14.99, "monthly_quota": 2, "started_days_ago": 60, "ended_days_ago": null}
+{"subscription_id": "s_frank", "user_id": "u_frank", "tier": "basic", "status": "active", "monthly_price": 14.99, "monthly_quota": 2, "started_days_ago": 45, "ended_days_ago": null}
+{"subscription_id": "s_grace", "user_id": "u_grace", "tier": "premium", "status": "active", "monthly_price": 29.99, "monthly_quota": 6, "started_days_ago": 30, "ended_days_ago": null}
+{"subscription_id": "s_henry", "user_id": "u_henry", "tier": "basic", "status": "paused", "monthly_price": 14.99, "monthly_quota": 2, "started_days_ago": 80, "ended_days_ago": null}

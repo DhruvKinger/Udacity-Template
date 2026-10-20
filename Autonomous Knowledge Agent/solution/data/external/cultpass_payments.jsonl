@@ -1,0 +1,7 @@
+{"payment_id": "p_1001", "user_id": "u_alice", "subscription_id": "s_alice", "amount": 29.99, "status": "paid", "paid_days_ago": 5}
+{"payment_id": "p_1002", "user_id": "u_bob", "subscription_id": "s_bob", "amount": 14.99, "status": "paid", "paid_days_ago": 40}
+{"payment_id": "p_1003", "user_id": "u_carla", "subscription_id": "s_carla", "amount": 29.99, "status": "paid", "paid_days_ago": 35}
+{"payment_id": "p_1004", "user_id": "u_dev", "subscription_id": "s_dev", "amount": 299.99, "status": "paid", "paid_days_ago": 3}
+{"payment_id": "p_1005", "user_id": "u_frank", "subscription_id": "s_frank", "amount": 14.99, "status": "refunded", "paid_days_ago": 2}
+{"payment_id": "p_1006", "user_id": "u_grace", "subscription_id": "s_grace", "amount": 29.99, "status": "paid", "paid_days_ago": 10}
+{"payment_id": "p_1007", "user_id": "u_erin", "subscription_id": "s_erin", "amount": 14.99, "status": "paid", "paid_days_ago": 4}

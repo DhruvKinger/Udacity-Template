@@ -1,0 +1,6 @@
+{"experience_id": "e_001", "title": "Modern Art Museum Night", "description": "Guided evening tour with a curator.", "location": "Downtown Gallery", "days_ahead": 5, "slots_available": 12}
+{"experience_id": "e_002", "title": "Jazz Under the Stars", "description": "Open-air jazz concert.", "location": "Riverside Park", "days_ahead": 9, "slots_available": 30}
+{"experience_id": "e_003", "title": "Pottery Workshop", "description": "Hands-on beginner ceramics class.", "location": "Clay Studio", "days_ahead": 3, "slots_available": 8}
+{"experience_id": "e_004", "title": "Contemporary Theatre: The Glass House", "description": "Evening performance.", "location": "City Playhouse", "days_ahead": 14, "slots_available": 20}
+{"experience_id": "e_005", "title": "Food & Culture Walking Tour", "description": "Three-hour guided tasting walk.", "location": "Old Town", "days_ahead": 7, "slots_available": 15}
+{"experience_id": "e_006", "title": "Photography Masterclass", "description": "Street photography with a pro.", "location": "Arts Centre", "days_ahead": 11, "slots_available": 10}

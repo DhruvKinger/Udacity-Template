@@ -1,0 +1,6 @@
+{"reservation_id": "R1001", "user_id": "u_alice", "experience_id": "e_001", "status": "confirmed", "created_days_ago": 4}
+{"reservation_id": "R1002", "user_id": "u_alice", "experience_id": "e_002", "status": "confirmed", "created_days_ago": 2}
+{"reservation_id": "R1003", "user_id": "u_bob", "experience_id": "e_003", "status": "confirmed", "created_days_ago": 6}
+{"reservation_id": "R1004", "user_id": "u_grace", "experience_id": "e_005", "status": "confirmed", "created_days_ago": 1}
+{"reservation_id": "R1005", "user_id": "u_dev", "experience_id": "e_004", "status": "confirmed", "created_days_ago": 1}
+{"reservation_id": "R1006", "user_id": "u_frank", "experience_id": "e_006", "status": "cancelled", "created_days_ago": 5}
