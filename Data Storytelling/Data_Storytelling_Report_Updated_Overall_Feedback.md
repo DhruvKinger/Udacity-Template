@@ -59,32 +59,6 @@ This will help the audience understand the limits of the conclusions.
 
 ---
 
-## Rubric Point: Communicating Population and Sample Discrepancies
-
-**Requirement:** Clearly communicates expectations about the population and presents sample data in a way that demonstrates a discrepancy.
-
-### Pass
-
-## Effective communication
-
-The presentation communicates the expected population characteristics and shows how the sample differs. Presenting both clearly helps the audience understand the discrepancy and its possible impact on interpretation.
-
-Continue using clear comparisons and explaining the significance of the difference.
-
-**Further reading:** [Data to Viz](https://www.data-to-viz.com/)
-
-### Fail
-
-## Make the discrepancy easier to see
-
-The presentation does not yet communicate the population expectations and sample differences clearly enough. Explain the expected population pattern, show the sample data, and make the discrepancy easy to identify.
-
-Use a suitable comparison or visualization and explain why the difference matters.
-
-**Further reading:** [Data to Viz](https://www.data-to-viz.com/)
-
----
-
 # Data Analysis
 
 ## Rubric Point: Dataset Quality Review
