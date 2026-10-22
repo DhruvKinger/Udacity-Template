@@ -33,32 +33,6 @@ Make sure the recommendations reflect the strengths and limitations of the avail
 
 ---
 
-## Rubric Point: Bias Across the Data Pipeline
-
-**Requirement:** Clearly identifies the type of bias present at each of the three data pipeline stages: collection, processing, and insights.
-
-### Pass
-
-## Clear identification of bias
-
-The presentation identifies bias across the collection, processing, and insights stages. Distinguishing these stages helps the audience understand where bias may enter the pipeline and how it can affect the final interpretation.
-
-Continue explaining each stage clearly and consistently.
-
-**Further reading:** [Google's People + AI Guidebook](https://pair.withgoogle.com/guidebook/)
-
-### Fail
-
-## Make each stage clearer
-
-The presentation does not yet clearly identify the type of bias at every stage of the data pipeline. Review collection, processing, and insights separately, and name the relevant bias for each stage.
-
-A clear stage-by-stage explanation will make the analysis easier to follow.
-
-**Further reading:** [Google's People + AI Guidebook](https://pair.withgoogle.com/guidebook/)
-
----
-
 ## Rubric Point: Population Expectations and Sample Limitations
 
 **Requirement:** Identifies the population expectations that the sample data does not meet.
