@@ -1,0 +1,6 @@
+torch
+torchvision
+scipy
+matplotlib
+jupyter
+numpy
